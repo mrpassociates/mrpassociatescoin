@@ -1,0 +1,27 @@
+{
+  "name": "mrpassociatescoin",
+  "version": "1.0.0",
+  "description": "MRP Associates - Life Insurance, Health Insurance, Mutual Funds & Loans",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrpassociates/mrpassociatescoin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrpassociates/mrpassociatescoin/issues"
+  },
+  "homepage": "https://github.com/mrpassociates/mrpassociatescoin#readme",
+  "devDependencies": {
+    "sass": "^1.97.1",
+    "vitepress": "^1.6.4",
+    "vue": "^3.5.26"
+  }
+}
