@@ -50,6 +50,7 @@ onUnmounted(() => {
 const navLinks = [
   { text: 'Home', link: '/' },
   { text: 'About Us', link: '/about' },
+  { text: 'Events & Achievements', link: '/events/' },
   { text: 'Life Insurance', link: '/life-insurance', badge: 'Popular' },
   { text: 'Health Insurance', link: '/health-insurance' },
   { text: 'Mutual Funds', link: '/mutual-funds', badge: 'High Growth' },
@@ -150,18 +151,7 @@ const socialLinks = [
           <!-- Desktop Navigation Menu -->
           <nav class="desktop-nav">
             <a 
-              v-for="link in navLinks.slice(0, 2)" 
-              :key="link.link" 
-              :href="link.link" 
-              class="nav-item"
-              :class="{ active: isActiveLink(link.link) }"
-            >
-              {{ link.text }}
-            </a>
-
-            <!-- Insurance & Finance Links -->
-            <a 
-              v-for="link in navLinks.slice(2, 6)" 
+              v-for="link in navLinks.filter(l => l.link !== '/contact')" 
               :key="link.link" 
               :href="link.link" 
               class="nav-item"
@@ -214,11 +204,11 @@ const socialLinks = [
 
             <!-- Contact Link -->
             <a 
-              :href="navLinks[6].link" 
+              href="/contact" 
               class="nav-item"
-              :class="{ active: isActiveLink(navLinks[6].link) }"
+              :class="{ active: isActiveLink('/contact') }"
             >
-              {{ navLinks[6].text }}
+              Contact Us
             </a>
           </nav>
 

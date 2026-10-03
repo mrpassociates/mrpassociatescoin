@@ -4,7 +4,88 @@ title: Home - Trusted Financial Planning & Insurance Advisory
 ---
 
 <script setup>
-import { ref, computed } from 'vue'
+import { ref, computed, onMounted, onUnmounted } from 'vue'
+
+// Events & Achievements Full-Width Slider
+const currentSlide = ref(0)
+const isSliderPaused = ref(false)
+
+const eventSlides = [
+  {
+    title: 'Awarded Best Financial Advisory Firm 2025',
+    desc: 'Honored at the South India Wealth Leadership Conclave in Chennai for exemplary fiduciary integrity, 98.2% claim assistance, and milestone portfolio growth.',
+    tag: 'Industry Recognition',
+    tagIcon: 'fa-trophy',
+    dateLoc: 'Dec 2025 • Chennai',
+    image: 'https://images.unsplash.com/photo-1511578314322-379afb476865?w=1920&q=85',
+    link: '/events/best-financial-advisory-award',
+    btnText: 'Read Full Award Story'
+  },
+  {
+    title: 'Karur Mega Investor Awareness Summit 2025',
+    desc: 'Over 500 participants and senior fund managers from SBI, HDFC, and ICICI Mutual Funds gathered in Karur to demystify equity compounding and retirement planning.',
+    tag: 'Community Summit',
+    tagIcon: 'fa-users',
+    dateLoc: 'Nov 2025 • Karur',
+    image: 'https://images.unsplash.com/photo-1475721027785-f74eccf877e2?w=1920&q=85',
+    link: '/events/investor-awareness-summit',
+    btnText: 'View Summit Highlights'
+  },
+  {
+    title: 'Crossing ₹500 Crore in Assets Guided',
+    desc: 'A historic celebration commemorating 15 years of investor trust and surpassing ₹500 Crores in active retail mutual fund and wealth advisory portfolios.',
+    tag: 'Milestone Celebration',
+    tagIcon: 'fa-chart-line',
+    dateLoc: 'Aug 2025 • Karur Headquarters',
+    image: 'https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=1920&q=85',
+    link: '/events/500cr-aum-milestone',
+    btnText: 'Explore Milestone Journey'
+  },
+  {
+    title: 'Annual Free Health & Insurance Awareness Camp',
+    desc: 'Partnered with leading hospitals to deliver free medical screenings and policy audits for over 1,200 local citizens across Karur district.',
+    tag: 'Community CSR',
+    tagIcon: 'fa-hand-holding-medical',
+    dateLoc: 'May 2025 • Karur District',
+    image: 'https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=1920&q=85',
+    link: '/events/health-insurance-awareness-camp',
+    btnText: 'See Camp Impact & Report'
+  }
+]
+
+let sliderInterval = null
+
+const nextEventSlide = () => {
+  currentSlide.value = (currentSlide.value + 1) % eventSlides.length
+}
+
+const prevEventSlide = () => {
+  currentSlide.value = (currentSlide.value - 1 + eventSlides.length) % eventSlides.length
+}
+
+const setSlide = (index) => {
+  currentSlide.value = index
+}
+
+const pauseSlider = () => {
+  isSliderPaused.value = true
+}
+
+const resumeSlider = () => {
+  isSliderPaused.value = false
+}
+
+onMounted(() => {
+  sliderInterval = setInterval(() => {
+    if (!isSliderPaused.value) {
+      nextEventSlide()
+    }
+  }, 5000)
+})
+
+onUnmounted(() => {
+  if (sliderInterval) clearInterval(sliderInterval)
+})
 
 // Quick SIP Interactive Simulator on Hero
 const quickSipAmount = ref(10000)
@@ -39,7 +120,83 @@ const formatCurrency = (val) => {
 
 <div class="home-page-container">
 
-<!-- Hero Section -->
+<!-- Main Full-Width Events & Achievements Slider -->
+<div 
+class="events-hero-slider"
+@mouseenter="pauseSlider"
+@mouseleave="resumeSlider"
+>
+<div 
+class="events-slides-track" 
+:style="{ transform: `translateX(-${currentSlide * 100}%)` }"
+>
+<a 
+v-for="(slide, index) in eventSlides" 
+:key="index"
+:href="slide.link"
+class="event-slide-item"
+>
+<div 
+class="event-slide-bg" 
+:style="{ backgroundImage: `url(${slide.image})` }"
+></div>
+<div class="event-slide-overlay"></div>
+<div class="event-slide-inner">
+<div class="event-slide-content">
+<div class="event-slide-badge-row">
+<span class="event-badge-tag">
+<i :class="['fas', slide.tagIcon]"></i> {{ slide.tag }}
+</span>
+<span class="event-date-location">
+<i class="far fa-calendar-alt"></i> {{ slide.dateLoc }}
+</span>
+</div>
+<h2 class="event-slide-title">{{ slide.title }}</h2>
+<p class="event-slide-desc">{{ slide.desc }}</p>
+<span class="event-slide-btn">
+{{ slide.btnText }} <i class="fas fa-arrow-right"></i>
+</span>
+</div>
+</div>
+</a>
+</div>
+
+<!-- Prev / Next Slider Controls -->
+<div 
+class="slider-arrow-btn prev-btn" 
+@click.stop="prevEventSlide"
+role="button"
+tabindex="0"
+aria-label="Previous Slide"
+>
+<i class="fas fa-chevron-left"></i>
+</div>
+<div 
+class="slider-arrow-btn next-btn" 
+@click.stop="nextEventSlide"
+role="button"
+tabindex="0"
+aria-label="Next Slide"
+>
+<i class="fas fa-chevron-right"></i>
+</div>
+
+<!-- Slide Indicator Dots -->
+<div class="slider-dot-indicators">
+<span 
+v-for="(slide, idx) in eventSlides"
+:key="idx"
+class="slider-dot-item"
+:class="{ active: currentSlide === idx }"
+@click.stop="setSlide(idx)"
+role="button"
+tabindex="0"
+:aria-label="`Go to slide ${idx + 1}`"
+></span>
+</div>
+</div>
+
+<!-- Hero Section with Value Prop & SIP Simulator -->
 <section class="hero-container">
 <div class="hero-wrapper">
 <!-- Left Column: Value Proposition -->

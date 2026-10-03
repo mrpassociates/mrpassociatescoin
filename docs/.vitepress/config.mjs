@@ -26,6 +26,7 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'About Us', link: '/about' },
+      { text: 'Events & Achievements', link: '/events/' },
       { text: 'Life Insurance', link: '/life-insurance' },
       { text: 'Health Insurance', link: '/health-insurance' },
       { text: 'Mutual Funds', link: '/mutual-funds' },
