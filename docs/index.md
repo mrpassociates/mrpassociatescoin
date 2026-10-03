@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Home - Trusted Financial Planning & Insurance Advisory
+markdownStyles: false
 ---
 
 <script setup>

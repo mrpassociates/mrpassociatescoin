@@ -119,6 +119,36 @@ h1, h2, h3, h4, h5, h6 {
   display: none !important;
 }
 
+// Homepage Full-Width Layout Containers
+.VPContent.is-home {
+  padding-top: 0 !important;
+  max-width: 100% !important;
+  width: 100% !important;
+  margin: 0 !important;
+}
+
+.VPHome {
+  margin-bottom: 0 !important;
+  max-width: 100% !important;
+  width: 100% !important;
+  padding: 0 !important;
+
+  .vp-doc.container {
+    max-width: 100% !important;
+    width: 100% !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+}
+
+.home-page-container {
+  width: 100%;
+  max-width: 100%;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
 // Global Section Containers
 .section {
   padding: 80px 24px;
