@@ -48,7 +48,6 @@ onUnmounted(() => {
 })
 
 const navLinks = [
-  { text: 'Home', link: '/' },
   { text: 'About Us', link: '/about' },
   { text: 'Events & Achievements', link: '/events/' },
   { text: 'Life Insurance', link: '/life-insurance', badge: 'Popular' },

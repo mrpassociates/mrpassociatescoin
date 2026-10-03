@@ -26,7 +26,6 @@ export default defineConfig({
     logo: '/logo.svg',
     siteTitle: 'MRP Associates',
     nav: [
-      { text: 'Home', link: '/' },
       { text: 'About Us', link: '/about' },
       { text: 'Events & Achievements', link: '/events/' },
       { text: 'Life Insurance', link: '/life-insurance' },
