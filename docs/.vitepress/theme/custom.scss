@@ -295,11 +295,11 @@ h1, h2, h3, h4, h5, h6 {
   }
 
   @media (max-width: 768px) {
-    height: 520px;
+    height: 560px;
   }
 
   @media (max-width: 480px) {
-    height: 500px;
+    height: 530px;
   }
 
   .events-slides-track {
@@ -313,15 +313,10 @@ h1, h2, h3, h4, h5, h6 {
     height: 100%;
     position: relative;
     display: flex;
-    align-items: center;
+    align-items: flex-end; // Anchored at bottom to keep top of image open
+    justify-content: flex-start;
     text-decoration: none !important;
     cursor: pointer;
-
-    @media (max-width: 768px) {
-      flex-direction: column;
-      align-items: stretch;
-      justify-content: flex-start;
-    }
   }
 
   .event-slide-bg {
@@ -330,39 +325,31 @@ h1, h2, h3, h4, h5, h6 {
     background-size: cover;
     background-position: center 25%;
     transition: transform 6s ease-out;
-
-    @media (max-width: 768px) {
-      position: relative;
-      inset: auto;
-      width: 100%;
-      height: 250px;
-      flex-shrink: 0;
-      background-size: cover;
-      background-repeat: no-repeat;
-    }
-
-    @media (max-width: 480px) {
-      height: 230px;
-    }
   }
 
   .event-slide-item:hover .event-slide-bg {
     transform: scale(1.03);
   }
 
+  // Soft bottom-only gradient that leaves the top 50%+ 100% bright and clear
   .event-slide-overlay {
     position: absolute;
     inset: 0;
+    pointer-events: none;
     background: linear-gradient(
-      90deg, 
-      rgba(7, 13, 30, 0.88) 0%, 
-      rgba(7, 13, 30, 0.65) 45%, 
-      rgba(7, 13, 30, 0.25) 80%,
-      rgba(7, 13, 30, 0.1) 100%
+      to top, 
+      rgba(7, 13, 30, 0.78) 0%, 
+      rgba(7, 13, 30, 0.35) 25%, 
+      rgba(7, 13, 30, 0) 55%
     );
 
     @media (max-width: 768px) {
-      display: none;
+      background: linear-gradient(
+        to top, 
+        rgba(7, 13, 30, 0.82) 0%, 
+        rgba(7, 13, 30, 0.40) 28%, 
+        rgba(7, 13, 30, 0) 55%
+      );
     }
   }
 
@@ -371,64 +358,53 @@ h1, h2, h3, h4, h5, h6 {
     z-index: 10;
     max-width: 1320px;
     margin: 0 auto;
-    padding: 0 44px;
+    padding: 0 44px 50px;
     width: 100%;
 
-    @media (max-width: 768px) {
-      flex: 1;
-      width: 100%;
-      max-width: 100%;
-      margin: 0;
-      padding: 16px 20px 24px;
-      background: #090e21;
-      border-top: 2px solid rgba(59, 130, 246, 0.35);
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
+    @media (max-width: 960px) {
+      padding: 0 32px 45px;
     }
 
-    @media (max-width: 480px) {
-      padding: 14px 16px 22px;
+    @media (max-width: 768px) {
+      padding: 0 16px 36px;
     }
   }
 
+  // Reduced transparency (solid, clean, readable) and compact height
   .event-slide-content {
-    max-width: 680px;
-    background: rgba(7, 13, 30, 0.65);
+    max-width: 720px;
+    background: rgba(7, 13, 30, 0.88);
     backdrop-filter: blur(12px);
     -webkit-backdrop-filter: blur(12px);
-    padding: 36px 40px;
-    border-radius: 20px;
-    border: 1px solid rgba(255, 255, 255, 0.12);
-    box-shadow: 0 20px 40px -15px rgba(0, 0, 0, 0.6);
+    padding: 24px 30px;
+    border-radius: 16px;
+    border: 1px solid rgba(255, 255, 255, 0.16);
+    box-shadow: 0 20px 40px -10px rgba(0, 0, 0, 0.7);
 
     @media (max-width: 960px) {
-      max-width: 520px;
-      padding: 28px 30px;
+      max-width: 580px;
+      padding: 20px 24px;
     }
 
     @media (max-width: 768px) {
-      background: transparent;
-      backdrop-filter: none;
-      -webkit-backdrop-filter: none;
-      padding: 0;
-      border-radius: 0;
-      border: none;
-      box-shadow: none;
       max-width: 100%;
+      padding: 16px 18px;
+      border-radius: 14px;
+      border: 1px solid rgba(255, 255, 255, 0.14);
+      box-shadow: 0 10px 25px rgba(0, 0, 0, 0.5);
     }
   }
 
   .event-slide-badge-row {
     display: flex;
     align-items: center;
-    gap: 12px;
-    margin-bottom: 20px;
+    gap: 10px;
+    margin-bottom: 12px;
     flex-wrap: wrap;
 
     @media (max-width: 768px) {
       margin-bottom: 8px;
-      gap: 8px;
+      gap: 6px;
     }
   }
 
@@ -436,11 +412,11 @@ h1, h2, h3, h4, h5, h6 {
     display: inline-flex;
     align-items: center;
     gap: 6px;
-    padding: 6px 14px;
-    background: rgba(37, 99, 235, 0.85);
+    padding: 5px 12px;
+    background: rgba(37, 99, 235, 0.90);
     color: #ffffff;
     border-radius: 50px;
-    font-size: 12px;
+    font-size: 11.5px;
     font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 0.05em;
@@ -448,7 +424,7 @@ h1, h2, h3, h4, h5, h6 {
     box-shadow: 0 4px 12px rgba(37, 99, 235, 0.35);
 
     @media (max-width: 768px) {
-      padding: 4px 10px;
+      padding: 3px 8px;
       font-size: 10.5px;
     }
   }
@@ -457,32 +433,32 @@ h1, h2, h3, h4, h5, h6 {
     display: inline-flex;
     align-items: center;
     gap: 6px;
-    font-size: 13px;
+    font-size: 12.5px;
     color: #cbd5e1;
     font-weight: 600;
 
     @media (max-width: 768px) {
-      font-size: 11.5px;
+      font-size: 11px;
       color: #94a3b8;
     }
   }
 
   .event-slide-title {
     font-family: $font-heading;
-    font-size: 3rem;
+    font-size: 1.85rem;
     font-weight: 800;
-    line-height: 1.15;
+    line-height: 1.22;
     color: #ffffff;
-    margin: 0 0 16px;
-    letter-spacing: -0.025em;
+    margin: 0 0 8px;
+    letter-spacing: -0.02em;
     text-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
 
     @media (max-width: 960px) {
-      font-size: 2.2rem;
+      font-size: 1.55rem;
     }
 
     @media (max-width: 768px) {
-      font-size: 1.15rem;
+      font-size: 1.12rem;
       line-height: 1.28;
       margin: 0 0 6px;
       letter-spacing: -0.01em;
@@ -495,20 +471,21 @@ h1, h2, h3, h4, h5, h6 {
   }
 
   .event-slide-desc {
-    font-size: 1.15rem;
-    line-height: 1.6;
-    color: #e2e8f0;
-    margin-bottom: 28px;
+    font-size: 1.02rem;
+    line-height: 1.48;
+    color: #cbd5e1;
+    margin-bottom: 16px;
+    max-width: 640px;
     text-shadow: 0 1px 4px rgba(0, 0, 0, 0.5);
 
     @media (max-width: 960px) {
-      font-size: 1.05rem;
-      margin-bottom: 20px;
+      font-size: 0.95rem;
+      margin-bottom: 14px;
     }
 
     @media (max-width: 768px) {
       font-size: 12px;
-      line-height: 1.45;
+      line-height: 1.4;
       color: #cbd5e1;
       margin-bottom: 12px;
       text-shadow: none;
@@ -523,13 +500,13 @@ h1, h2, h3, h4, h5, h6 {
   .event-slide-btn {
     display: inline-flex;
     align-items: center;
-    gap: 10px;
-    padding: 13px 28px;
+    gap: 8px;
+    padding: 9px 22px;
     background: #ffffff;
     color: #1d4ed8 !important;
     border-radius: 50px;
     font-weight: 700;
-    font-size: 14.5px;
+    font-size: 13.5px;
     box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
     transition: all 0.25s ease;
 
@@ -549,8 +526,8 @@ h1, h2, h3, h4, h5, h6 {
     }
 
     @media (max-width: 768px) {
-      padding: 7px 16px;
-      font-size: 12px;
+      padding: 6px 14px;
+      font-size: 11.5px;
       font-weight: 600;
       gap: 6px;
       box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
@@ -560,13 +537,13 @@ h1, h2, h3, h4, h5, h6 {
   // Navigation Arrows
   .slider-arrow-btn {
     position: absolute;
-    top: 50%;
+    top: 45%;
     transform: translateY(-50%);
-    width: 50px;
-    height: 50px;
+    width: 48px;
+    height: 48px;
     border-radius: 50%;
-    background: rgba(255, 255, 255, 0.15);
-    border: 1px solid rgba(255, 255, 255, 0.25);
+    background: rgba(255, 255, 255, 0.18);
+    border: 1px solid rgba(255, 255, 255, 0.3);
     backdrop-filter: blur(10px);
     color: #ffffff;
     display: flex;
@@ -593,7 +570,7 @@ h1, h2, h3, h4, h5, h6 {
     }
 
     @media (max-width: 768px) {
-      top: 125px;
+      top: 35%; // Positioned over the clear top photo area
       transform: translateY(-50%);
       width: 34px;
       height: 34px;
@@ -610,7 +587,7 @@ h1, h2, h3, h4, h5, h6 {
     }
 
     @media (max-width: 480px) {
-      top: 115px;
+      top: 32%;
       width: 30px;
       height: 30px;
       font-size: 11px;
@@ -623,7 +600,7 @@ h1, h2, h3, h4, h5, h6 {
   // Dots Pagination
   .slider-dot-indicators {
     position: absolute;
-    bottom: 24px;
+    bottom: 16px;
     left: 50%;
     transform: translateX(-50%);
     display: flex;
@@ -631,8 +608,8 @@ h1, h2, h3, h4, h5, h6 {
     z-index: 20;
 
     .slider-dot-item {
-      width: 10px;
-      height: 10px;
+      width: 9px;
+      height: 9px;
       border-radius: 50%;
       background: rgba(255, 255, 255, 0.4);
       border: none;
@@ -641,7 +618,7 @@ h1, h2, h3, h4, h5, h6 {
       padding: 0;
 
       &.active {
-        width: 32px;
+        width: 30px;
         border-radius: 10px;
         background: #3b82f6;
         box-shadow: 0 2px 8px rgba(59, 130, 246, 0.5);
@@ -649,7 +626,7 @@ h1, h2, h3, h4, h5, h6 {
     }
 
     @media (max-width: 768px) {
-      bottom: 8px;
+      bottom: 10px;
       gap: 6px;
 
       .slider-dot-item {
