@@ -19,6 +19,7 @@ const eventSlides = [
     tagIcon: 'fa-crown',
     dateLoc: 'Corporate Club • 3-Yr MDRT COT (USA)',
     image: '/images/awards/presidents-club-stage-award.jpg',
+    bgPos: 'center 15%',
     link: '/events/corporate-club-mdrt',
     btnText: 'Read Corporate Club Story'
   },
@@ -28,7 +29,8 @@ const eventSlides = [
     tag: 'Global Standard',
     tagIcon: 'fa-globe',
     dateLoc: '2007 – Present • MDRT USA',
-    image: '/images/events/mdrt-karur-unit2-felicitation.jpg',
+    image: '/images/awards/lugi-leap-certificate-stage.jpg',
+    bgPos: 'center 20%',
     link: '/events/17-years-mdrt-qualifier',
     btnText: 'View 17-Year Journey'
   },
@@ -39,6 +41,7 @@ const eventSlides = [
     tagIcon: 'fa-trophy',
     dateLoc: 'Thanjavur Division & Karur II Branch',
     image: '/images/awards/lic-toppers-meet-zonal-manager-2025.jpg',
+    bgPos: 'center 35%',
     link: '/events/thanjavur-division-karur-leading-advisor',
     btnText: 'Explore Division Accolades'
   },
@@ -49,6 +52,7 @@ const eventSlides = [
     tagIcon: 'fa-heart-pulse',
     dateLoc: 'Star Health Club Convention • Karur Branch',
     image: '/images/awards/star-health-ed-club-award-2020.jpg',
+    bgPos: 'center 35%',
     link: '/health-insurance',
     btnText: 'Explore Health Insurance'
   },
@@ -59,6 +63,7 @@ const eventSlides = [
     tagIcon: 'fa-hand-holding-droplet',
     dateLoc: 'Elavanur Village • Karur District',
     image: '/images/events/milestone-terrace-celebration.jpg',
+    bgPos: 'center 20%',
     link: '/events/bima-gramam-elavanur',
     btnText: 'Read Historic Village Story'
   }
@@ -149,7 +154,10 @@ class="event-slide-item"
 >
 <div 
 class="event-slide-bg" 
-:style="{ backgroundImage: `url(${slide.image})` }"
+:style="{ 
+  backgroundImage: `url(${slide.image})`,
+  backgroundPosition: slide.bgPos || 'center 25%'
+}"
 ></div>
 <div class="event-slide-overlay"></div>
 <div class="event-slide-inner">
