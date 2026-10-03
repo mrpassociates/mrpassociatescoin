@@ -278,28 +278,28 @@ h1, h2, h3, h4, h5, h6 {
 .events-hero-slider {
   position: relative;
   width: 100%;
-  height: 720px;
+  height: 575px; // 80% of 720px
   overflow: hidden;
   background: #070d1e;
 
   @media (min-width: 1600px) {
-    height: 780px;
+    height: 625px; // 80% of 780px
   }
 
   @media (max-width: 1200px) {
-    height: 660px;
+    height: 530px; // 80% of 660px
   }
 
   @media (max-width: 960px) {
-    height: 600px;
+    height: 480px; // 80% of 600px
   }
 
   @media (max-width: 768px) {
-    height: 560px;
+    height: 450px; // 80% of 560px
   }
 
   @media (max-width: 480px) {
-    height: 530px;
+    height: 425px; // 80% of 530px
   }
 
   .events-slides-track {
@@ -358,38 +358,38 @@ h1, h2, h3, h4, h5, h6 {
     z-index: 10;
     max-width: 1320px;
     margin: 0 auto;
-    padding: 0 44px 50px;
+    padding: 0 44px 38px;
     width: 100%;
 
     @media (max-width: 960px) {
-      padding: 0 32px 45px;
+      padding: 0 32px 34px;
     }
 
     @media (max-width: 768px) {
-      padding: 0 16px 36px;
+      padding: 0 16px 28px;
     }
   }
 
   // Reduced transparency (solid, clean, readable) and compact height
   .event-slide-content {
-    max-width: 720px;
+    max-width: 700px;
     background: rgba(7, 13, 30, 0.88);
     backdrop-filter: blur(12px);
     -webkit-backdrop-filter: blur(12px);
-    padding: 24px 30px;
-    border-radius: 16px;
+    padding: 20px 26px;
+    border-radius: 14px;
     border: 1px solid rgba(255, 255, 255, 0.16);
     box-shadow: 0 20px 40px -10px rgba(0, 0, 0, 0.7);
 
     @media (max-width: 960px) {
-      max-width: 580px;
-      padding: 20px 24px;
+      max-width: 560px;
+      padding: 18px 22px;
     }
 
     @media (max-width: 768px) {
       max-width: 100%;
-      padding: 16px 18px;
-      border-radius: 14px;
+      padding: 14px 16px;
+      border-radius: 12px;
       border: 1px solid rgba(255, 255, 255, 0.14);
       box-shadow: 0 10px 25px rgba(0, 0, 0, 0.5);
     }
@@ -399,11 +399,11 @@ h1, h2, h3, h4, h5, h6 {
     display: flex;
     align-items: center;
     gap: 10px;
-    margin-bottom: 12px;
+    margin-bottom: 10px;
     flex-wrap: wrap;
 
     @media (max-width: 768px) {
-      margin-bottom: 8px;
+      margin-bottom: 6px;
       gap: 6px;
     }
   }
@@ -412,11 +412,11 @@ h1, h2, h3, h4, h5, h6 {
     display: inline-flex;
     align-items: center;
     gap: 6px;
-    padding: 5px 12px;
+    padding: 4px 11px;
     background: rgba(37, 99, 235, 0.90);
     color: #ffffff;
     border-radius: 50px;
-    font-size: 11.5px;
+    font-size: 11px;
     font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 0.05em;
@@ -424,8 +424,8 @@ h1, h2, h3, h4, h5, h6 {
     box-shadow: 0 4px 12px rgba(37, 99, 235, 0.35);
 
     @media (max-width: 768px) {
-      padding: 3px 8px;
-      font-size: 10.5px;
+      padding: 2px 7px;
+      font-size: 10px;
     }
   }
 
@@ -433,61 +433,60 @@ h1, h2, h3, h4, h5, h6 {
     display: inline-flex;
     align-items: center;
     gap: 6px;
-    font-size: 12.5px;
+    font-size: 12px;
     color: #cbd5e1;
     font-weight: 600;
 
     @media (max-width: 768px) {
-      font-size: 11px;
+      font-size: 10.5px;
       color: #94a3b8;
     }
   }
 
   .event-slide-title {
     font-family: $font-heading;
-    font-size: 1.85rem;
+    font-size: 1.7rem;
     font-weight: 800;
-    line-height: 1.22;
+    line-height: 1.2;
     color: #ffffff;
-    margin: 0 0 8px;
+    margin: 0 0 6px;
     letter-spacing: -0.02em;
     text-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
 
     @media (max-width: 960px) {
-      font-size: 1.55rem;
+      font-size: 1.45rem;
     }
 
     @media (max-width: 768px) {
-      font-size: 1.12rem;
-      line-height: 1.28;
-      margin: 0 0 6px;
+      font-size: 1.08rem;
+      line-height: 1.25;
+      margin: 0 0 4px;
       letter-spacing: -0.01em;
       text-shadow: none;
     }
 
     @media (max-width: 480px) {
-      font-size: 1.05rem;
+      font-size: 1rem;
     }
   }
 
   .event-slide-desc {
-    font-size: 1.02rem;
-    line-height: 1.48;
+    font-size: 0.96rem;
+    line-height: 1.45;
     color: #cbd5e1;
-    margin-bottom: 16px;
-    max-width: 640px;
+    margin-bottom: 14px;
+    max-width: 620px;
     text-shadow: 0 1px 4px rgba(0, 0, 0, 0.5);
 
     @media (max-width: 960px) {
-      font-size: 0.95rem;
-      margin-bottom: 14px;
+      font-size: 0.9rem;
+      margin-bottom: 12px;
     }
 
     @media (max-width: 768px) {
-      font-size: 12px;
-      line-height: 1.4;
-      color: #cbd5e1;
-      margin-bottom: 12px;
+      font-size: 11.5px;
+      line-height: 1.35;
+      margin-bottom: 10px;
       text-shadow: none;
       display: -webkit-box;
       -webkit-line-clamp: 2;
@@ -501,12 +500,12 @@ h1, h2, h3, h4, h5, h6 {
     display: inline-flex;
     align-items: center;
     gap: 8px;
-    padding: 9px 22px;
+    padding: 8px 20px;
     background: #ffffff;
     color: #1d4ed8 !important;
     border-radius: 50px;
     font-weight: 700;
-    font-size: 13.5px;
+    font-size: 13px;
     box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
     transition: all 0.25s ease;
 
@@ -526,10 +525,10 @@ h1, h2, h3, h4, h5, h6 {
     }
 
     @media (max-width: 768px) {
-      padding: 6px 14px;
-      font-size: 11.5px;
+      padding: 5px 12px;
+      font-size: 11px;
       font-weight: 600;
-      gap: 6px;
+      gap: 5px;
       box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
     }
   }
@@ -537,7 +536,7 @@ h1, h2, h3, h4, h5, h6 {
   // Navigation Arrows
   .slider-arrow-btn {
     position: absolute;
-    top: 45%;
+    top: 40%;
     transform: translateY(-50%);
     width: 48px;
     height: 48px;
@@ -570,7 +569,7 @@ h1, h2, h3, h4, h5, h6 {
     }
 
     @media (max-width: 768px) {
-      top: 35%; // Positioned over the clear top photo area
+      top: 32%; // Positioned over the clear top photo area
       transform: translateY(-50%);
       width: 34px;
       height: 34px;
@@ -587,7 +586,7 @@ h1, h2, h3, h4, h5, h6 {
     }
 
     @media (max-width: 480px) {
-      top: 32%;
+      top: 28%;
       width: 30px;
       height: 30px;
       font-size: 11px;
@@ -600,7 +599,7 @@ h1, h2, h3, h4, h5, h6 {
   // Dots Pagination
   .slider-dot-indicators {
     position: absolute;
-    bottom: 16px;
+    bottom: 12px;
     left: 50%;
     transform: translateX(-50%);
     display: flex;
@@ -626,7 +625,7 @@ h1, h2, h3, h4, h5, h6 {
     }
 
     @media (max-width: 768px) {
-      bottom: 10px;
+      bottom: 8px;
       gap: 6px;
 
       .slider-dot-item {
