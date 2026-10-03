@@ -5,7 +5,7 @@ markdownStyles: false
 ---
 
 <script setup>
-import { ref, computed, onMounted, onUnmounted } from 'vue'
+import { ref, onMounted, onUnmounted } from 'vue'
 
 // Events & Achievements Full-Width Slider (Authentic Accolades)
 const currentSlide = ref(0)
@@ -128,36 +128,6 @@ onMounted(() => {
 onUnmounted(() => {
   if (sliderInterval) clearInterval(sliderInterval)
 })
-
-// Quick SIP Interactive Simulator on Hero
-const quickSipAmount = ref(10000)
-const quickSipYears = ref(15)
-const quickSipRate = ref(12)
-
-const quickInvested = computed(() => {
-  return Number(quickSipAmount.value) * Number(quickSipYears.value) * 12
-})
-
-const quickMaturity = computed(() => {
-  const P = Number(quickSipAmount.value)
-  const r = Number(quickSipRate.value) / 100 / 12
-  const n = Number(quickSipYears.value) * 12
-  const FV = P * ((Math.pow(1 + r, n) - 1) / r) * (1 + r)
-  return Math.round(FV)
-})
-
-const quickGain = computed(() => {
-  return quickMaturity.value - quickInvested.value
-})
-
-const formatCurrency = (val) => {
-  if (val >= 10000000) {
-    return '₹' + (val / 10000000).toFixed(2) + ' Cr'
-  } else if (val >= 100000) {
-    return '₹' + (val / 100000).toFixed(2) + ' Lakhs'
-  }
-  return '₹' + Number(val).toLocaleString('en-IN')
-}
 </script>
 
 <div class="home-page-container">
@@ -295,54 +265,6 @@ Proudly serving over 2,500 valued families and business owners across Tamil Nadu
 <span class="metric-lbl">LIC Corporate Club</span>
 </div>
 </div>
-</div>
-
-<!-- Right Column: Live Interactive SIP Simulator Card -->
-<div class="hero-interactive-card">
-<div class="hero-calc-header">
-<h3><i class="fas fa-chart-line text-blue"></i> SIP Wealth Simulator</h3>
-<span class="calc-badge">Live Calculator</span>
-</div>
-
-<div class="quick-calc-group">
-<div class="calc-label-row">
-<span>Monthly SIP Amount</span>
-<span class="calc-value-highlight">₹{{ Number(quickSipAmount).toLocaleString('en-IN') }}</span>
-</div>
-<input type="range" v-model="quickSipAmount" min="1000" max="100000" step="1000">
-</div>
-
-<div class="quick-calc-group">
-<div class="calc-label-row">
-<span>Investment Horizon</span>
-<span class="calc-value-highlight">{{ quickSipYears }} Years</span>
-</div>
-<input type="range" v-model="quickSipYears" min="3" max="30" step="1">
-</div>
-
-<div class="quick-calc-group">
-<div class="calc-label-row">
-<span>Expected Annual Return</span>
-<span class="calc-value-highlight">{{ quickSipRate }}% p.a.</span>
-</div>
-<input type="range" v-model="quickSipRate" min="8" max="18" step="0.5">
-</div>
-
-<!-- Live Computed Output -->
-<div class="quick-calc-result-box">
-<div>
-<div class="calc-res-lbl">Total Estimated Wealth</div>
-<div class="calc-res-num">{{ formatCurrency(quickMaturity) }}</div>
-</div>
-<div style="text-align: right;">
-<div class="calc-res-lbl">Invested: {{ formatCurrency(quickInvested) }}</div>
-<div class="calc-res-lbl" style="color: #10b981; font-weight: 700;">Gain: +{{ formatCurrency(quickGain) }}</div>
-</div>
-</div>
-
-<a href="/calculators/sip-calculator" class="quick-calc-cta">
-Full Detailed Calculator &amp; Planning →
-</a>
 </div>
 </div>
 </section>
