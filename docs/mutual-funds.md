@@ -13,11 +13,33 @@ description: Grow multi-generational wealth with AMFI-certified guidance in equi
 
 <div class="content-section">
 
-## Accelerate Your Financial Freedom
+## Official Authorised Mutual Fund Distributor — Top 12 AMCs
 
-Mutual funds pool capital from thousands of investors to invest in professionally researched portfolios of equity equities, sovereign debt, and corporate bonds. They represent India's most effective vehicle to beat inflation and achieve life goals.
+**MRP Associates** is an **AMFI-registered Mutual Fund Distributor** empaneled with India's premier Asset Management Companies (AMCs):
+- **LIC Mutual Fund** • **HDFC Mutual Fund** • **SBI Mutual Fund** • **ICICI Prudential Mutual Fund**
+- **Nippon India Mutual Fund** • **UTI Mutual Fund** • **Axis Mutual Fund** • **Bandhan Mutual Fund**
+- **Canara Robeco Mutual Fund** • **Aditya Birla Capital MF** • **Mahindra Manulife MF** • **SAMCO Mutual Fund**
 
-As **AMFI-certified Mutual Fund Distributors**, MRP Associates steers you clear of market timing and emotional biases, structuring automated Systematic Investment Plans (SIP) that systematically build your net worth.
+For over **22 years**, we have specialized in **Wealth Creations (சொத்து சேர்க்கைக்கான வழிகள்)** and disciplined **Mutual Fund Savings &amp; Schemes Investment (மியூச்சல் பண்ட் சேமிப்பு மற்றும் முதலீடு திட்டங்கள்)**, helping more than 2,500 clients achieve their children's education, wedding, and retirement milestones.
+
+<div class="hero-trust-row" style="margin: 24px 0 36px; border-bottom: 1px solid rgba(226, 232, 240, 0.8); padding-bottom: 20px;">
+  <div class="trust-metric-item">
+    <span class="metric-val">12</span>
+    <span class="metric-lbl">Authorised AMCs</span>
+  </div>
+  <div class="trust-metric-item">
+    <span class="metric-val">22+</span>
+    <span class="metric-lbl">Years Market Guidance</span>
+  </div>
+  <div class="trust-metric-item">
+    <span class="metric-val">AMFI</span>
+    <span class="metric-lbl">Registered Distributor</span>
+  </div>
+  <div class="trust-metric-item">
+    <span class="metric-val">₹0</span>
+    <span class="metric-lbl">Portfolio Advisory Fee</span>
+  </div>
+</div>
 
 ## Categories of Mutual Funds We Advise
 

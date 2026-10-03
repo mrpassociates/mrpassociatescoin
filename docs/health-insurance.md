@@ -13,13 +13,37 @@ description: Comprehensive medical coverage, cashless hospitalization in 10,000+
 
 <div class="content-section">
 
-## Your Health Deserves Uncompromised Protection
+## Official Authorised Agent — Top Health Insurers
 
-A single hospitalization can wipe out years of accumulated savings. With medical inflation running at 12–14% annually in India, adequate health coverage is not a luxury—it is an indispensable safety net.
+**MRP Associates** is an authorised agent representing India's leading health and general insurance specialists:
+- **STAR Health Insurance** (*The Health Insurance Specialist*)
+- **The New India Assurance Co. Ltd.** (*Government of India Undertaking*)
+- **Aditya Birla Capital Health Insurance**
+- **Galaxy Health Insurance**
+- **Bajaj Allianz General Insurance**
 
-At MRP Associates, we help you choose transparent health plans without restrictive room-rent caps, unreasonable waiting periods, or cumbersome co-payment clauses.
+With over **22 years of dedicated advisory**, we provide direct bedside and desk assistance for **100% cashless hospitalization** across top network hospitals in Karur, Tamil Nadu, and pan-India.
 
-## Health Insurance Options We Recommend
+<div class="hero-trust-row" style="margin: 24px 0 36px; border-bottom: 1px solid rgba(226, 232, 240, 0.8); padding-bottom: 20px;">
+  <div class="trust-metric-item">
+    <span class="metric-val">Star Health</span>
+    <span class="metric-lbl">Specialist Partner</span>
+  </div>
+  <div class="trust-metric-item">
+    <span class="metric-val">5+</span>
+    <span class="metric-lbl">Top Health Insurers</span>
+  </div>
+  <div class="trust-metric-item">
+    <span class="metric-val">10,000+</span>
+    <span class="metric-lbl">Cashless Hospitals</span>
+  </div>
+  <div class="trust-metric-item">
+    <span class="metric-val">24/7</span>
+    <span class="metric-lbl">Bedside Claim Support</span>
+  </div>
+</div>
+
+## Health Insurance Solutions We Recommend
 
 <div class="insurance-types">
   <div class="insurance-type-card" style="border-left-color: #10b981;">

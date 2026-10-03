@@ -13,13 +13,34 @@ description: Comprehensive life insurance, term protection, ULIPs and pension pl
 
 <div class="content-section">
 
-## Why Life Insurance Is Essential
+## Official Authorised Agent — LIC of India
 
-Life insurance is the foundation of any sound financial blueprint. It is a contractual guarantee that your family’s standard of living, mortgage payments, children's higher education, and future milestones remain intact, regardless of life’s unforeseen events.
+**MRP Associates** is an accredited **Corporate Club Member and Galaxy Club Agency** representing the **Life Insurance Corporation of India (LIC of India)**. For over **22 continuous years in the service of the people**, we have guided more than **2,500 clients** with trusted, prompt, and hassle-free policy issuance and claim settlement.
 
-At MRP Associates, we help you determine your exact **Human Life Value (HLV)** so you neither overpay for unnecessary riders nor remain dangerously underinsured.
+Backed by **17 consecutive years as an MDRT (USA) Global Qualifier** and **Court of the Table (COT)** international honors, we ensure your family receives world-class advisory tailored to your exact milestones.
 
-## Types of Life Insurance We Provide
+<div class="hero-trust-row" style="margin: 24px 0 36px; border-bottom: 1px solid rgba(226, 232, 240, 0.8); padding-bottom: 20px;">
+  <div class="trust-metric-item">
+    <span class="metric-val">Apex</span>
+    <span class="metric-lbl">LIC Corporate Club</span>
+  </div>
+  <div class="trust-metric-item">
+    <span class="metric-val">22+</span>
+    <span class="metric-lbl">Years LIC Experience</span>
+  </div>
+  <div class="trust-metric-item">
+    <span class="metric-val">17 Yrs</span>
+    <span class="metric-lbl">MDRT (USA) Qualifier</span>
+  </div>
+  <div class="trust-metric-item">
+    <span class="metric-val">2,500+</span>
+    <span class="metric-lbl">Policies Maintained</span>
+  </div>
+</div>
+
+## Specialized Life &amp; Pension Solutions
+
+We specialize in tailor-made protection packages covering:
 
 <div class="insurance-types">
   <div class="insurance-type-card" style="border-left-color: #2563eb;">

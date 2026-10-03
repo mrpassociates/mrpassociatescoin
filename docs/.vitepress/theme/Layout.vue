@@ -347,12 +347,14 @@ const socialLinks = [
                   </div>
 
                   <p class="footer-bio">
-                    Dedicated to protecting families and compounding wealth for over 15 years. Trusted by 10,000+ individuals, businesses, and institutions with honest, unbiased advisory.
+                    Dedicated to people's service for over 22 years. Trusted by 2,500+ individuals, families, and businesses across Tamil Nadu with LIC Corporate Club distinction, Court of the Table (COT), and 17 consecutive years as MDRT (USA) Qualifier.
                   </p>
 
                   <div class="footer-cert-tags">
-                    <span class="cert-tag"><i class="fas fa-check-circle"></i> AMFI Registered</span>
-                    <span class="cert-tag"><i class="fas fa-check-circle"></i> IRDA Certified</span>
+                    <span class="cert-tag"><i class="fas fa-crown"></i> LIC Corporate Club</span>
+                    <span class="cert-tag"><i class="fas fa-globe"></i> MDRT (USA) 17 Yrs</span>
+                    <span class="cert-tag"><i class="fas fa-medal"></i> MDRT COT (3 Yrs)</span>
+                    <span class="cert-tag"><i class="fas fa-check-circle"></i> IRDA &amp; AMFI Certified</span>
                   </div>
 
                   <div class="footer-social-row">
@@ -364,16 +366,16 @@ const socialLinks = [
 
                 <!-- Col 2: Services -->
                 <div class="footer-col">
-                  <h4 class="footer-col-title">Financial Services</h4>
+                  <h4 class="footer-col-title">Specialist Solutions</h4>
                   <ul class="footer-links">
-                    <li><a href="/life-insurance"><i class="fas fa-angle-right"></i> Term Life Insurance</a></li>
-                    <li><a href="/life-insurance"><i class="fas fa-angle-right"></i> Whole Life &amp; ULIPs</a></li>
-                    <li><a href="/health-insurance"><i class="fas fa-angle-right"></i> Comprehensive Health Cover</a></li>
-                    <li><a href="/health-insurance"><i class="fas fa-angle-right"></i> Family Floater &amp; Critical Care</a></li>
+                    <li><a href="/life-insurance"><i class="fas fa-angle-right"></i> LIC Life &amp; Pension Plans</a></li>
+                    <li><a href="/health-insurance"><i class="fas fa-angle-right"></i> Star Health Insurance</a></li>
                     <li><a href="/mutual-funds"><i class="fas fa-angle-right"></i> Mutual Funds &amp; SIPs</a></li>
-                    <li><a href="/mutual-funds"><i class="fas fa-angle-right"></i> ELSS Tax Saving Funds</a></li>
                     <li><a href="/loans"><i class="fas fa-angle-right"></i> Home &amp; Mortgage Loans</a></li>
-                    <li><a href="/loans"><i class="fas fa-angle-right"></i> Business &amp; Personal Loans</a></li>
+                    <li><a href="/loans"><i class="fas fa-angle-right"></i> Agricultural &amp; Business Loans</a></li>
+                    <li><a href="/about"><i class="fas fa-angle-right"></i> Children Education &amp; Marriage</a></li>
+                    <li><a href="/events/"><i class="fas fa-angle-right"></i> Historic Bima Gramam 2003</a></li>
+                    <li><a href="/contact"><i class="fas fa-angle-right"></i> Income Tax Solutions</a></li>
                   </ul>
                 </div>
 

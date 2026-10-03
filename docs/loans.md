@@ -13,13 +13,42 @@ description: Low-interest Home Loans, Loans Against Property, Business & MSME Lo
 
 <div class="content-section">
 
-## Finance Your Personal &amp; Business Aspirations
+## Official Authorised Loan &amp; Mortgage Agent
 
-Whether acquiring your dream residential home, expanding business operations with working capital, or monetizing commercial real estate, obtaining optimal loan terms requires comparing multiple institutional lenders.
+**MRP Associates** is an authorised loan distributor empanelled with India's premier public banks, private institutions, and housing finance companies:
+- **LIC Housing Finance Ltd (LIC HFL)**
+- **State Bank of India (SBI Home Loans)**
+- **Indian Bank**
+- **Canara Bank**
+- **Federal Bank**
+- **Equitas Small Finance Bank**
+- **Can Fin Homes Ltd** (*Sponsor: Canara Bank*)
+- **Repco Home Finance**
+- **Tata Capital**
+- **HDB Financial Services**
 
-At MRP Associates, we act as your dedicated loan coordinator: comparing interest benchmarks, processing documentation digitally, and securing maximum sanctions with minimal turnaround time.
+With over **22 years of trust**, we provide seamless doorstep documentation, transparent interest comparisons, zero advisory charges, and maximum eligible sanctions.
 
-## Comprehensive Loan Categories We Coordinate
+<div class="hero-trust-row" style="margin: 24px 0 36px; border-bottom: 1px solid rgba(226, 232, 240, 0.8); padding-bottom: 20px;">
+  <div class="trust-metric-item">
+    <span class="metric-val">10+</span>
+    <span class="metric-lbl">Authorised Lenders</span>
+  </div>
+  <div class="trust-metric-item">
+    <span class="metric-val">8.35%</span>
+    <span class="metric-lbl">Starting ROI</span>
+  </div>
+  <div class="trust-metric-item">
+    <span class="metric-val">₹0</span>
+    <span class="metric-lbl">Advisory / Service Fee</span>
+  </div>
+  <div class="trust-metric-item">
+    <span class="metric-val">Fast</span>
+    <span class="metric-lbl">Digital Sanctions</span>
+  </div>
+</div>
+
+## Specialized Loan Solutions We Provide
 
 <div class="insurance-types">
   <div class="insurance-type-card" style="border-left-color: #2563eb;">
@@ -34,17 +63,17 @@ At MRP Associates, we act as your dedicated loan coordinator: comparing interest
     <h4>Business &amp; MSME Working Capital</h4>
     <p>Unsecured business loans, machinery finance, and CGTMSE schemes tailored for manufacturers, traders, and service enterprises.</p>
   </div>
+  <div class="insurance-type-card" style="border-left-color: #059669;">
+    <h4>Agricultural Loans (விவசாய கடன் சேவைகள்)</h4>
+    <p>Credit for agricultural land purchase, farm equipment, borewell/irrigation infrastructure, crop production, and agro-processing micro-enterprises.</p>
+  </div>
   <div class="insurance-type-card" style="border-left-color: #ec4899;">
-    <h4>Instant Personal Loans</h4>
-    <p>Unsecured credit up to ₹40 Lakhs for urgent medical events, wedding planning, or home renovations with fast digital sanctions.</p>
+    <h4>Home Mortgage Loans (வீடு அடமானக்கடன்)</h4>
+    <p>Leverage your clear-title residential property for high-quantum funds at competitive mortgage interest rates with flexible repayment.</p>
   </div>
   <div class="insurance-type-card" style="border-left-color: #8b5cf6;">
     <h4>Commercial &amp; Vehicle Loans</h4>
     <p>Financing for passenger cars, commercial transport vehicles, and fleet expansion with flexible EMI schedules.</p>
-  </div>
-  <div class="insurance-type-card" style="border-left-color: #06b6d4;">
-    <h4>Higher Education Loans</h4>
-    <p>Comprehensive funding covering tuition, living expenses, and travel for accredited domestic and international universities.</p>
   </div>
 </div>
 

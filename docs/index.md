@@ -1,56 +1,56 @@
 ---
 layout: home
-title: Home - Trusted Financial Planning & Insurance Advisory
+title: Home - MRP Associates | Trusted Financial Advisory, Insurance & Wealth Planning
 markdownStyles: false
 ---
 
 <script setup>
 import { ref, computed, onMounted, onUnmounted } from 'vue'
 
-// Events & Achievements Full-Width Slider
+// Events & Achievements Full-Width Slider (Authentic Accolades)
 const currentSlide = ref(0)
 const isSliderPaused = ref(false)
 
 const eventSlides = [
   {
-    title: 'Awarded Best Financial Advisory Firm 2025',
-    desc: 'Honored at the South India Wealth Leadership Conclave in Chennai for exemplary fiduciary integrity, 98.2% claim assistance, and milestone portfolio growth.',
-    tag: 'Industry Recognition',
-    tagIcon: 'fa-trophy',
-    dateLoc: 'Dec 2025 • Chennai',
+    title: 'LIC Corporate Club Member & Court of the Table (COT)',
+    desc: 'Conferred with LIC of India\'s pinnacle Corporate Club Membership and MDRT (USA) Court of the Table (COT) for achieving 3x international financial advisory standards.',
+    tag: 'Pinnacle Achievement',
+    tagIcon: 'fa-crown',
+    dateLoc: 'Corporate Club • 3-Yr MDRT COT (USA)',
+    image: 'https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=1920&q=85',
+    link: '/events/corporate-club-mdrt',
+    btnText: 'Read Corporate Club Story'
+  },
+  {
+    title: '17 Consecutive Years as MDRT (USA) Global Qualifier',
+    desc: 'Honored continuously from 2007 to present by the Premier Association of Financial Professionals, USA for world-class client advisory excellence.',
+    tag: 'Global Standard',
+    tagIcon: 'fa-globe',
+    dateLoc: '2007 – Present • MDRT USA',
     image: 'https://images.unsplash.com/photo-1511578314322-379afb476865?w=1920&q=85',
-    link: '/events/best-financial-advisory-award',
-    btnText: 'Read Full Award Story'
+    link: '/events/17-years-mdrt-qualifier',
+    btnText: 'View 17-Year Journey'
   },
   {
-    title: 'Karur Mega Investor Awareness Summit 2025',
-    desc: 'Over 500 participants and senior fund managers from SBI, HDFC, and ICICI Mutual Funds gathered in Karur to demystify equity compounding and retirement planning.',
-    tag: 'Community Summit',
-    tagIcon: 'fa-users',
-    dateLoc: 'Nov 2025 • Karur',
+    title: 'Thanjavur Division & Karur II Branch Leading Advisor',
+    desc: 'Consecutively awarded Leading Advisor at Karur II Branch since 2010 and Thanjavur Division Leading Advisor from 2020 to present, alongside Crorepati Agent honors.',
+    tag: 'Division Leader',
+    tagIcon: 'fa-trophy',
+    dateLoc: 'Thanjavur Division & Karur II Branch',
     image: 'https://images.unsplash.com/photo-1475721027785-f74eccf877e2?w=1920&q=85',
-    link: '/events/investor-awareness-summit',
-    btnText: 'View Summit Highlights'
+    link: '/events/thanjavur-division-karur-leading-advisor',
+    btnText: 'Explore Division Accolades'
   },
   {
-    title: 'Crossing ₹500 Crore in Assets Guided',
-    desc: 'A historic celebration commemorating 15 years of investor trust and surpassing ₹500 Crores in active retail mutual fund and wealth advisory portfolios.',
-    tag: 'Milestone Celebration',
-    tagIcon: 'fa-chart-line',
-    dateLoc: 'Aug 2025 • Karur Headquarters',
-    image: 'https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=1920&q=85',
-    link: '/events/500cr-aum-milestone',
-    btnText: 'Explore Milestone Journey'
-  },
-  {
-    title: 'Annual Free Health & Insurance Awareness Camp',
-    desc: 'Partnered with leading hospitals to deliver free medical screenings and policy audits for over 1,200 local citizens across Karur district.',
-    tag: 'Community CSR',
-    tagIcon: 'fa-hand-holding-medical',
-    dateLoc: 'May 2025 • Karur District',
-    image: 'https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=1920&q=85',
-    link: '/events/health-insurance-awareness-camp',
-    btnText: 'See Camp Impact & Report'
+    title: 'Historic Bima Gramam 2003: Elavanur Drinking Water Initiative',
+    desc: 'Secured 100 life policies in Elavanur village to obtain special LIC village development funds, establishing drinking water infrastructure to save the community during severe drought.',
+    tag: 'Social Impact Landmark',
+    tagIcon: 'fa-hand-holding-droplet',
+    dateLoc: 'Elavanur Village • Karur District',
+    image: 'https://images.unsplash.com/photo-1541888946425-d0fbb1861593?w=1920&q=85',
+    link: '/events/bima-gramam-elavanur',
+    btnText: 'Read Historic Village Story'
   }
 ]
 
@@ -204,15 +204,15 @@ tabindex="0"
 <div class="hero-content">
 <div class="hero-pill">
 <i class="fas fa-certificate star-icon"></i>
-<span>IRDA &amp; AMFI Certified Wealth &amp; Insurance Advisory</span>
+<span>IRDA Certified &amp; AMFI Registered Advisory</span>
 </div>
 
 <h1>
-Empowering Your Goals with <span class="gradient-text">Trusted Financial</span> Solutions
+Empowering Your Financial Future with <span class="gradient-text">22+ Years of Trusted</span> Service
 </h1>
 
 <p class="hero-subtitle">
-Over 15 years of dedicated partnership in Life Insurance, Health Coverage, High-Growth Mutual Funds, and Low-Interest Loans for families and businesses.
+Proudly serving over 2,500 valued families and business owners across Tamil Nadu with LIC Corporate Club distinction, MDRT (USA) Court of the Table recognition, top-tier health coverage, and lowest-cost loans.
 </p>
 
 <div class="hero-actions">
@@ -233,20 +233,20 @@ Over 15 years of dedicated partnership in Life Insurance, Health Coverage, High-
 <!-- Trust Indicators Bar -->
 <div class="hero-trust-row">
 <div class="trust-metric-item">
-<span class="metric-val">15+</span>
-<span class="metric-lbl">Years Experience</span>
+<span class="metric-val">22+</span>
+<span class="metric-lbl">Years in People's Service</span>
 </div>
 <div class="trust-metric-item">
-<span class="metric-val">10,000+</span>
-<span class="metric-lbl">Families Protected</span>
+<span class="metric-val">2,500+</span>
+<span class="metric-lbl">Active Clients Served</span>
 </div>
 <div class="trust-metric-item">
-<span class="metric-val">₹500Cr+</span>
-<span class="metric-lbl">Assets Guided</span>
+<span class="metric-val">17 Yrs</span>
+<span class="metric-lbl">MDRT (USA) Qualifier</span>
 </div>
 <div class="trust-metric-item">
-<span class="metric-val">98.2%</span>
-<span class="metric-lbl">Claim Settlement</span>
+<span class="metric-val">Apex</span>
+<span class="metric-lbl">LIC Corporate Club</span>
 </div>
 </div>
 </div>
@@ -301,174 +301,204 @@ Full Detailed Calculator &amp; Planning →
 </div>
 </section>
 
-<!-- Partner Financial Institutions Trust Bar -->
-<section class="partners-trust-section">
-<div class="partners-title-label">Associated with India's Premier Financial Institutions</div>
-<div class="partners-grid-row">
-<div class="partner-badge-pill"><span class="partner-dot"></span> LIC of India</div>
-<div class="partner-badge-pill"><span class="partner-dot"></span> HDFC Life &amp; Ergo</div>
-<div class="partner-badge-pill"><span class="partner-dot"></span> ICICI Prudential</div>
-<div class="partner-badge-pill"><span class="partner-dot"></span> SBI Life &amp; Mutual Fund</div>
-<div class="partner-badge-pill"><span class="partner-dot"></span> Star Health Insurance</div>
-<div class="partner-badge-pill"><span class="partner-dot"></span> Care Health</div>
-<div class="partner-badge-pill"><span class="partner-dot"></span> Nippon India MF</div>
-<div class="partner-badge-pill"><span class="partner-dot"></span> Axis Bank &amp; MF</div>
-<div class="partner-badge-pill"><span class="partner-dot"></span> Kotak Mahindra</div>
-<div class="partner-badge-pill"><span class="partner-dot"></span> Tata AIA</div>
+<!-- Official Vision & Mission Banner -->
+<section class="vision-mission-section">
+<div class="vm-grid">
+<div class="vm-card vision">
+<div class="vm-badge"><i class="fas fa-eye"></i> VISION - எங்கள் நோக்கம்</div>
+<h3>To ENRICH All People to be Financially Wealthy and Secured in Financial Aspects on Coming Days</h3>
+<p class="vm-tamil">"வரவிருக்கும் ஆண்டுகளில், அனைத்து மக்களையும் நிதி சார்ந்து செல்வந்தர்களாகவும், நிதி அம்சங்களில் பாதுகாப்பாகவும் வளப்படுத்துதல்"</p>
+</div>
+
+<div class="vm-card mission">
+<div class="vm-badge"><i class="fas fa-bullseye"></i> MISSION - எங்கள் பணி</div>
+<h3>To Provide Friendly Financial Solutions and Financial Services to All</h3>
+<p class="vm-tamil">"அனைவருக்கும் நட்புடன் கூடிய நிதி தீர்வுகள் மற்றும் நிதி சேவைகளை வழங்குதல்"</p>
+</div>
 </div>
 </section>
 
-<!-- Comprehensive Financial Services Grid -->
+<!-- Authorised Agent Partner Institutions Board -->
 <section class="section">
 <div class="section-title">
-<span class="pill-badge">Our Core Expertise</span>
-<h2>Tailored Financial Protection &amp; Growth</h2>
-<p>Whether safeguarding your family against uncertainties or multiplying your wealth, we curate unbiased solutions from top-tier providers.</p>
+<span class="pill-badge">Official Authorised Agent</span>
+<h2>Authorised by India's Leading Financial Institutions</h2>
+<p>Direct institutional agency representing top life, health, banking, and asset management corporations.</p>
 </div>
 
-<div class="services-grid">
-<!-- Service 1: Life Insurance -->
-<div class="service-card life">
-<div class="service-icon-box life">
+<div class="authorised-board-grid">
+<!-- Category 1: Life Insurance -->
+<div class="auth-category-card">
+<div class="auth-cat-header" style="color: #2563eb;">
 <i class="fas fa-shield-heart"></i>
+<h4>Life Insurance</h4>
 </div>
-<span class="service-tag">Family Protection</span>
-<h3>Life Insurance</h3>
-<p>Ensure financial independence for your dependents with term life, whole life, endowment, and child milestone plans.</p>
-<ul class="service-perks">
-<li><i class="fas fa-check"></i> High cover at affordable premiums</li>
-<li><i class="fas fa-check"></i> Tax savings up to ₹1.5L under 80C</li>
-<li><i class="fas fa-check"></i> Dedicated claim assistance guarantee</li>
-</ul>
-<a href="/life-insurance" class="service-card-btn">
-Explore Life Plans <i class="fas fa-arrow-right"></i>
-</a>
+<div class="auth-brands-list">
+<span class="auth-brand-pill" style="border-color: #2563eb; color: #1d4ed8; background: rgba(37,99,235,0.06);">
+<i class="fas fa-certificate"></i> LIC of India
+</span>
+</div>
+<p style="font-size: 12.5px; color: #64748b; margin-top: 14px; line-height: 1.5;">
+Corporate Club Member &amp; Galaxy Club Agency. Over 22 years of continuous policy servicing.
+</p>
 </div>
 
-<!-- Service 2: Health Insurance -->
-<div class="service-card health">
-<div class="service-icon-box health">
+<!-- Category 2: Health Insurance -->
+<div class="auth-category-card">
+<div class="auth-cat-header" style="color: #10b981;">
+<i class="fas fa-hospital-user"></i>
+<h4>Health Insurance</h4>
+</div>
+<div class="auth-brands-list">
+<span class="auth-brand-pill"><i class="fas fa-star text-gold"></i> Star Health (Specialist)</span>
+<span class="auth-brand-pill">The New India Assurance</span>
+<span class="auth-brand-pill">Aditya Birla Capital</span>
+<span class="auth-brand-pill">Galaxy Health Insurance</span>
+<span class="auth-brand-pill">Bajaj Allianz</span>
+</div>
+</div>
+
+<!-- Category 3: Home Loans & Mortgage -->
+<div class="auth-category-card">
+<div class="auth-cat-header" style="color: #f59e0b;">
+<i class="fas fa-house-chimney"></i>
+<h4>Home Loans</h4>
+</div>
+<div class="auth-brands-list">
+<span class="auth-brand-pill">LIC HFL</span>
+<span class="auth-brand-pill">SBI Home Loans</span>
+<span class="auth-brand-pill">Indian Bank</span>
+<span class="auth-brand-pill">Canara Bank</span>
+<span class="auth-brand-pill">Federal Bank</span>
+<span class="auth-brand-pill">Can Fin Homes</span>
+<span class="auth-brand-pill">Repco Home Finance</span>
+<span class="auth-brand-pill">Equitas Bank</span>
+<span class="auth-brand-pill">Tata Capital</span>
+<span class="auth-brand-pill">HDB Financial</span>
+</div>
+</div>
+
+<!-- Category 4: Mutual Funds -->
+<div class="auth-category-card">
+<div class="auth-cat-header" style="color: #8b5cf6;">
+<i class="fas fa-chart-line"></i>
+<h4>Mutual Funds</h4>
+</div>
+<div class="auth-brands-list">
+<span class="auth-brand-pill">LIC Mutual Fund</span>
+<span class="auth-brand-pill">HDFC Mutual Fund</span>
+<span class="auth-brand-pill">SBI Mutual Fund</span>
+<span class="auth-brand-pill">ICICI Prudential</span>
+<span class="auth-brand-pill">Nippon India MF</span>
+<span class="auth-brand-pill">UTI Mutual Fund</span>
+<span class="auth-brand-pill">Axis Mutual Fund</span>
+<span class="auth-brand-pill">Bandhan Mutual Fund</span>
+<span class="auth-brand-pill">Canara Robeco</span>
+<span class="auth-brand-pill">Aditya Birla MF</span>
+<span class="auth-brand-pill">Mahindra Manulife</span>
+<span class="auth-brand-pill">SAMCO MF</span>
+</div>
+</div>
+</div>
+</section>
+
+<!-- Specialist In Section (10 Domains from Signboard) -->
+<section class="section" style="padding-top: 0;">
+<div class="section-title">
+<span class="pill-badge">Specialist In • எங்கள் சிறப்பு சேவைகள்</span>
+<h2>Tailored Solutions for Every Life Milestone</h2>
+<p>Specialized advisory designed to safeguard families, fund children's futures, and multiply wealth.</p>
+</div>
+
+<div class="specialists-grid">
+<!-- 1. Children Education & Marriage -->
+<div class="specialist-card-item">
+<div class="spec-icon-box" style="background: rgba(37,99,235,0.1); color: #2563eb;">
+<i class="fas fa-graduation-cap"></i>
+</div>
+<h4>Children's Education &amp; Marriage</h4>
+<span class="spec-tamil">குழந்தைகளின் மேற்படிப்பு &amp; திருமண திட்டங்கள்</span>
+</div>
+
+<!-- 2. Old Age Pension -->
+<div class="specialist-card-item">
+<div class="spec-icon-box" style="background: rgba(245,158,11,0.1); color: #d97706;">
+<i class="fas fa-umbrella-beach"></i>
+</div>
+<h4>Old Age Pension Schemes</h4>
+<span class="spec-tamil">நிம்மதியான ஓய்வூதிய திட்டங்கள்</span>
+</div>
+
+<!-- 3. Wealth Creations -->
+<div class="specialist-card-item">
+<div class="spec-icon-box" style="background: rgba(16,185,129,0.1); color: #10b981;">
+<i class="fas fa-seedling"></i>
+</div>
+<h4>Wealth Creations</h4>
+<span class="spec-tamil">சொத்து சேர்க்கைக்கான வழிகள்</span>
+</div>
+
+<!-- 4. Star Health Insurance Policy -->
+<div class="specialist-card-item">
+<div class="spec-icon-box" style="background: rgba(239,68,68,0.1); color: #ef4444;">
 <i class="fas fa-hospital-user"></i>
 </div>
-<span class="service-tag">Medical Security</span>
-<h3>Health Insurance</h3>
-<p>Comprehensive medical covers shielding you from escalating hospital costs with instant cashless settlement.</p>
-<ul class="service-perks">
-<li><i class="fas fa-check"></i> 10,000+ Cashless network hospitals</li>
-<li><i class="fas fa-check"></i> Pre &amp; post hospitalization expenses</li>
-<li><i class="fas fa-check"></i> Tax deduction up to ₹75,000 (80D)</li>
-</ul>
-<a href="/health-insurance" class="service-card-btn">
-Explore Health Plans <i class="fas fa-arrow-right"></i>
-</a>
+<h4>Star Health Insurance Policy</h4>
+<span class="spec-tamil">மருத்துவ இன்சூரன்ஸ் பாலிசிகள்</span>
 </div>
 
-<!-- Service 3: Mutual Funds -->
-<div class="service-card mutual">
-<div class="service-icon-box mutual">
+<!-- 5. Home & Mortgage Loans -->
+<div class="specialist-card-item">
+<div class="spec-icon-box" style="background: rgba(139,92,246,0.1); color: #8b5cf6;">
+<i class="fas fa-house-circle-check"></i>
+</div>
+<h4>Home &amp; Mortgage Loans</h4>
+<span class="spec-tamil">புதிய வீட்டுக்கடன் &amp; அடமானக்கடன்</span>
+</div>
+
+<!-- 6. Agricultural Loans -->
+<div class="specialist-card-item">
+<div class="spec-icon-box" style="background: rgba(5,150,105,0.1); color: #059669;">
+<i class="fas fa-tractor"></i>
+</div>
+<h4>Agricultural Loans</h4>
+<span class="spec-tamil">விவசாயம் &amp; சார்ந்த கடன் சேவைகள்</span>
+</div>
+
+<!-- 7. Business Loans -->
+<div class="specialist-card-item">
+<div class="spec-icon-box" style="background: rgba(99,102,241,0.1); color: #4f46e5;">
+<i class="fas fa-briefcase"></i>
+</div>
+<h4>Business Loans</h4>
+<span class="spec-tamil">தொழில் கடன் சேவைகள்</span>
+</div>
+
+<!-- 8. Income Tax Solutions -->
+<div class="specialist-card-item">
+<div class="spec-icon-box" style="background: rgba(2,132,199,0.1); color: #0284c7;">
+<i class="fas fa-receipt"></i>
+</div>
+<h4>Income Tax Solutions</h4>
+<span class="spec-tamil">வருமானவரி தாக்கல் செய்தல்</span>
+</div>
+
+<!-- 9. Individual Financial Assessment -->
+<div class="specialist-card-item">
+<div class="spec-icon-box" style="background: rgba(217,70,239,0.1); color: #c026d3;">
 <i class="fas fa-chart-pie"></i>
 </div>
-<span class="service-tag">Wealth Creation</span>
-<h3>Mutual Funds &amp; SIP</h3>
-<p>Harness the power of compounding with expert-selected equity, hybrid, and debt portfolios suited to your risk appetite.</p>
-<ul class="service-perks">
-<li><i class="fas fa-check"></i> Start automated SIP from ₹500/month</li>
-<li><i class="fas fa-check"></i> ELSS tax saver with 3-year lock-in</li>
-<li><i class="fas fa-check"></i> Continuous portfolio review &amp; rebalancing</li>
-</ul>
-<a href="/mutual-funds" class="service-card-btn">
-Explore Mutual Funds <i class="fas fa-arrow-right"></i>
-</a>
+<h4>Individual Financial Assessment</h4>
+<span class="spec-tamil">தனிநபர் நிதி மதிப்பீடு</span>
 </div>
 
-<!-- Service 4: Loans -->
-<div class="service-card loans">
-<div class="service-icon-box loans">
-<i class="fas fa-landmark"></i>
+<!-- 10. Mutual Fund Savings -->
+<div class="specialist-card-item">
+<div class="spec-icon-box" style="background: rgba(16,185,129,0.1); color: #059669;">
+<i class="fas fa-chart-line"></i>
 </div>
-<span class="service-tag">Financing Solutions</span>
-<h3>Loans &amp; Mortgage</h3>
-<p>Competitive interest rates and hassle-free paperless approvals for home purchases, business expansion, and personal needs.</p>
-<ul class="service-perks">
-<li><i class="fas fa-check"></i> Home loans starting from 8.35% p.a.</li>
-<li><i class="fas fa-check"></i> Loan against property (LAP) &amp; MSME</li>
-<li><i class="fas fa-check"></i> Zero advisory fee &amp; quick disbursal</li>
-</ul>
-<a href="/loans" class="service-card-btn">
-Explore Loan Offers <i class="fas fa-arrow-right"></i>
-</a>
-</div>
-</div>
-</section>
-
-<!-- Why Choose Us / Value Proposition -->
-<section class="section" style="padding-top: 0;">
-<div class="section-title">
-<span class="pill-badge">Why Partner With Us</span>
-<h2>The MRP Associates Advantage</h2>
-<p>We work for you, not the insurance companies. Our advice is strictly fiduciary and client-centric.</p>
-</div>
-
-<div class="why-us-grid">
-<div class="why-card">
-<div class="why-icon">
-<i class="fas fa-scale-balanced"></i>
-</div>
-<h4>100% Unbiased Advice</h4>
-<p>We evaluate schemes across 30+ leading AMCs and insurers to find the product that truly fits your goals, not commissions.</p>
-</div>
-
-<div class="why-card">
-<div class="why-icon">
-<i class="fas fa-hands-holding-circle"></i>
-</div>
-<h4>End-to-End Claim Support</h4>
-<p>During medical emergencies or insurance claims, our team personally assists with hospital paperwork and claim settlements.</p>
-</div>
-
-<div class="why-card">
-<div class="why-icon">
-<i class="fas fa-user-tie"></i>
-</div>
-<h4>Certified Professionals</h4>
-<p>Our advisors hold accredited AMFI and IRDA credentials with regular training on regulatory updates and market shifts.</p>
-</div>
-
-<div class="why-card">
-<div class="why-icon">
-<i class="fas fa-clock-rotate-left"></i>
-</div>
-<h4>Zero Advisory Charges</h4>
-<p>Our initial advisory, portfolio diagnosis, and loan assistance are completely free of cost for our clients.</p>
-</div>
-</div>
-</section>
-
-<!-- 3-Step Process -->
-<section class="section" style="padding-top: 0;">
-<div class="section-title">
-<span class="pill-badge">Simple 3-Step Process</span>
-<h2>How We Secure Your Financial Journey</h2>
-<p>Getting your family protected or investing for retirement is simpler than you think.</p>
-</div>
-
-<div class="process-grid">
-<div class="process-step-card">
-<div class="step-num-bubble">01</div>
-<h4>Discovery &amp; Goal Mapping</h4>
-<p>We listen to your life goals, existing policies, debts, and cash flows to assess your exact risk profile and coverage gap.</p>
-</div>
-
-<div class="process-step-card">
-<div class="step-num-bubble">02</div>
-<h4>Comparative Blueprint</h4>
-<p>We present a clear side-by-side comparison of top-rated plans, transparent costs, historical returns, and payout ratios.</p>
-</div>
-
-<div class="process-step-card">
-<div class="step-num-bubble">03</div>
-<h4>Execution &amp; Lifetime Care</h4>
-<p>We handle seamless digital paperwork, policy issuance, annual rebalancing, and stand beside your family during claim events.</p>
+<h4>Mutual Fund Savings &amp; Schemes</h4>
+<span class="spec-tamil">மியூச்சல் பண்ட் சேமிப்பு &amp; முதலீடு</span>
 </div>
 </div>
 </section>
@@ -478,7 +508,7 @@ Explore Loan Offers <i class="fas fa-arrow-right"></i>
 <div class="section-title">
 <span class="pill-badge">Interactive Planning Suite</span>
 <h2>Smart Financial Calculators</h2>
-<p>Run simulations for your investments, monthly loan EMIs, retirement readiness, and income tax savings.</p>
+<p>Run instant simulations for your mutual fund investments, monthly home loan EMIs, retirement readiness, and income tax savings.</p>
 </div>
 
 <div class="calculators-hub-grid">
@@ -496,7 +526,7 @@ Explore Loan Offers <i class="fas fa-arrow-right"></i>
 <i class="fas fa-calculator"></i>
 </div>
 <h3>Loan EMI Calculator</h3>
-<p>Calculate your exact monthly payments and total interest breakdown for home, car, or personal loans.</p>
+<p>Calculate your exact monthly payments and total interest breakdown for home, mortgage, or business loans.</p>
 <span class="calc-link-text">Calculate EMI <i class="fas fa-arrow-right"></i></span>
 </a>
 
@@ -542,8 +572,8 @@ Explore Loan Offers <i class="fas fa-arrow-right"></i>
 <section class="testimonials-section">
 <div class="section-title">
 <span class="pill-badge">Client Stories</span>
-<h2>Trusted by Over 10,000 Families</h2>
-<p>Read what our clients across Tamil Nadu and beyond have to say about their experience with MRP Associates.</p>
+<h2>Trusted by Over 2,500 Families</h2>
+<p>Read what our clients across Tamil Nadu have to say about their 22-year journey with MRP Associates.</p>
 </div>
 
 <div class="testimonials-grid">
@@ -552,7 +582,7 @@ Explore Loan Offers <i class="fas fa-arrow-right"></i>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
 </div>
 <p class="testimonial-quote">
-"MRP Associates helped me choose the perfect term life and health insurance combination for my family. When my father was hospitalized last year, their claim support was instant and completely cashless. Truly dependable partners."
+"MRP Associates helped me choose the perfect combination of LIC life cover and Star Health insurance for my family. When my father was hospitalized in Karur, their cashless claim support was immediate and stress-free. Truly dependable partners."
 </p>
 <div class="client-info-row">
 <div class="client-avatar-monogram">RG</div>
@@ -568,7 +598,7 @@ Explore Loan Offers <i class="fas fa-arrow-right"></i>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
 </div>
 <p class="testimonial-quote">
-"I have been investing in mutual funds through MRP Associates for over 6 years now. Their disciplined SIP strategy and regular portfolio rebalancing have delivered incredible results toward my children's college fund."
+"I have been investing in mutual funds through MRP Associates for over 10 years now. Their disciplined SIP guidance, annual rebalancing, and MDRT USA quality advice have built an exceptional education corpus for my children."
 </p>
 <div class="client-info-row">
 <div class="client-avatar-monogram">PR</div>
@@ -584,13 +614,13 @@ Explore Loan Offers <i class="fas fa-arrow-right"></i>
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
 </div>
 <p class="testimonial-quote">
-"When securing a commercial property loan, MRP Associates compared 5 different banks and negotiated an interest rate that saved our firm lakhs over the tenure. Extremely professional and transparent documentation."
+"When securing our commercial property and agricultural machinery loans, MRP Associates negotiated with leading banks and obtained sanctions that saved our firm lakhs in interest. Extremely transparent and professional documentation."
 </p>
 <div class="client-info-row">
 <div class="client-avatar-monogram">RS</div>
 <div class="client-details">
 <h4>Dr. Ram Sundar</h4>
-<span>Clinic Director, Salem</span>
+<span>Clinic Director &amp; Landowner, Salem</span>
 </div>
 </div>
 </div>
