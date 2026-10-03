@@ -86,22 +86,22 @@ const socialLinks = [
             <span class="topbar-badge">
               <span class="pulse-dot"></span> AMFI &amp; IRDA Certified Advisory
             </span>
-            <span class="topbar-divider">|</span>
-            <span class="topbar-info">
+            <span class="topbar-divider topbar-loc-divider">|</span>
+            <span class="topbar-info topbar-loc-info">
               <i class="fas fa-location-dot"></i> Karur, Tamil Nadu
             </span>
-            <span class="topbar-divider">|</span>
-            <span class="topbar-info">
+            <span class="topbar-divider topbar-hours-divider">|</span>
+            <span class="topbar-info topbar-hours-info">
               <i class="far fa-clock"></i> Mon - Sat: 9:30 AM - 7:00 PM
             </span>
           </div>
 
           <div class="topbar-right">
-            <a href="tel:+919443339889" class="topbar-link">
+            <a href="tel:+919443339889" class="topbar-link topbar-phone">
               <i class="fas fa-phone-volume"></i> +91 94433 39889
             </a>
-            <span class="topbar-divider">|</span>
-            <a href="mailto:contact@mrpassociates.co.in" class="topbar-link">
+            <span class="topbar-divider topbar-email-divider">|</span>
+            <a href="mailto:contact@mrpassociates.co.in" class="topbar-link topbar-email">
               <i class="far fa-envelope"></i> contact@mrpassociates.co.in
             </a>
             <div class="topbar-social">
@@ -1617,7 +1617,8 @@ const socialLinks = [
 
 /* ===== Responsive Breakpoints ===== */
 @media (max-width: 1100px) {
-  .topbar-info:last-child {
+  .topbar-hours-info,
+  .topbar-hours-divider {
     display: none;
   }
 
@@ -1629,11 +1630,20 @@ const socialLinks = [
 
 @media (max-width: 960px) {
   .header-topbar {
+    display: block; /* Show top ribbon on mobile/tablets */
+    font-size: 11.5px;
+  }
+
+  .topbar-content {
+    padding: 5px 16px;
+  }
+
+  .topbar-social {
     display: none;
   }
 
   .site-content {
-    padding-top: 68px;
+    padding-top: 96px; /* Offset for topbar + main navbar */
   }
 
   .desktop-nav {
@@ -1660,6 +1670,46 @@ const socialLinks = [
   .cta-banner-actions {
     width: 100%;
     justify-content: center;
+  }
+}
+
+@media (max-width: 768px) {
+  .header-topbar {
+    font-size: 11px;
+  }
+
+  .topbar-content {
+    padding: 5px 14px;
+    gap: 8px;
+  }
+
+  .topbar-left, .topbar-right {
+    gap: 8px;
+  }
+
+  .topbar-email,
+  .topbar-email-divider,
+  .topbar-loc-info,
+  .topbar-loc-divider,
+  .topbar-hours-info,
+  .topbar-hours-divider,
+  .topbar-divider {
+    display: none;
+  }
+
+  .topbar-badge {
+    font-size: 10.5px;
+    white-space: nowrap;
+  }
+
+  .topbar-phone {
+    font-size: 11px;
+    font-weight: 600;
+    white-space: nowrap;
+  }
+
+  .site-content {
+    padding-top: 94px;
   }
 }
 
@@ -1692,6 +1742,30 @@ const socialLinks = [
 
   .brand-tagline {
     display: none;
+  }
+}
+
+@media (max-width: 480px) {
+  .header-topbar {
+    font-size: 10px;
+  }
+
+  .topbar-content {
+    padding: 4px 10px;
+  }
+
+  .topbar-badge {
+    font-size: 10px;
+    gap: 4px;
+  }
+
+  .topbar-phone {
+    font-size: 10.5px;
+    gap: 4px;
+  }
+
+  .site-content {
+    padding-top: 90px;
   }
 }
 </style>
