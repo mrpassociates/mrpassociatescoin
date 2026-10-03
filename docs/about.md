@@ -1,124 +1,163 @@
 ---
-title: About Us
-description: Learn more about MRP Associates - Your trusted partner for all financial services
+title: About Us - MRP Associates
+description: Learn more about MRP Associates - Your trusted financial planning, wealth management and insurance partner for over 15 years.
 ---
 
 <div class="page-header">
-  <h1>About Us</h1>
-  <p>Your trusted partner in financial planning for over 15 years</p>
+  <div class="page-header-badge">
+    <i class="fas fa-shield-halved"></i> Since 2009 • Karur, Tamil Nadu
+  </div>
+  <h1>About MRP Associates</h1>
+  <p>Fostering financial security and multi-generational wealth creation for over 10,000 families across India.</p>
 </div>
 
 <div class="content-section">
 
 ## Who We Are
 
-MRP Associates is a leading financial services firm dedicated to helping individuals and families achieve their financial goals. With over 15 years of experience in the industry, we have built a reputation for trust, expertise, and personalized service.
+**MRP Associates** is a premier financial advisory and wealth planning firm headquartered in Karur, Tamil Nadu. Founded with the singular mission of democratizing sound, unbiased financial advice, we bridge the gap between complex financial instruments and individual family aspirations.
 
-Our team of certified financial advisors works closely with each client to understand their unique needs and provide tailored solutions across life insurance, health insurance, mutual funds, and loans.
+With over **15 years of industry leadership**, our licensed team of AMFI-registered mutual fund distributors and IRDA-certified insurance consultants manages end-to-end portfolios spanning Term Life, Comprehensive Health, Wealth Accumulation through SIPs, and Low-Cost Debt Financing.
 
-We partner with India's top insurance companies and fund houses to bring you the best products at competitive rates. Our commitment to transparency and client satisfaction has earned us the trust of over 10,000 families across the nation.
+<div class="hero-trust-row" style="margin: 30px 0 40px; border-bottom: 1px solid rgba(226, 232, 240, 0.8); padding-bottom: 24px;">
+  <div class="trust-metric-item">
+    <span class="metric-val">15+</span>
+    <span class="metric-lbl">Years Industry Experience</span>
+  </div>
+  <div class="trust-metric-item">
+    <span class="metric-val">10,000+</span>
+    <span class="metric-lbl">Satisfied Families</span>
+  </div>
+  <div class="trust-metric-item">
+    <span class="metric-val">30+</span>
+    <span class="metric-lbl">AMC &amp; Insurance Partners</span>
+  </div>
+  <div class="trust-metric-item">
+    <span class="metric-val">98.2%</span>
+    <span class="metric-lbl">Prompt Claim Support</span>
+  </div>
+</div>
 
 ## Our Core Values
 
-<div class="features-list">
-  <div class="feature-item">
-    <div class="feature-icon">🤝</div>
-    <div>
-      <h4>Trust & Integrity</h4>
-      <p>We believe in complete transparency and always put our clients' interests first.</p>
-    </div>
-  </div>
-  <div class="feature-item">
-    <div class="feature-icon">💡</div>
-    <div>
-      <h4>Expert Knowledge</h4>
-      <p>Our certified advisors stay updated with the latest market trends and regulations.</p>
-    </div>
-  </div>
-  <div class="feature-item">
-    <div class="feature-icon">👥</div>
-    <div>
-      <h4>Client-Centric</h4>
-      <p>Every solution we offer is tailored to meet your unique financial needs.</p>
-    </div>
-  </div>
-</div>
-
-## Our Mission
-
-To empower every Indian family with the knowledge and tools they need to achieve financial security and prosperity. We strive to make financial planning accessible, understandable, and effective for everyone.
-
-## Our Vision
-
-To be India's most trusted financial advisory firm, known for our integrity, expertise, and unwavering commitment to client success.
-
-## Why Choose MRP Associates?
+Our advisory framework is built on three unshakeable pillars:
 
 <div class="features-list">
   <div class="feature-item">
-    <div class="feature-icon">✓</div>
+    <div class="feature-icon" style="color: #2563eb;">
+      <i class="fas fa-hand-holding-heart"></i>
+    </div>
     <div>
-      <h4>15+ Years of Experience</h4>
-      <p>Deep industry knowledge and proven track record of success</p>
+      <h4>Fiduciary Trust &amp; Transparency</h4>
+      <p>We work exclusively in the best financial interest of our clients, offering 100% transparent fee disclosures and unbiased product comparisons.</p>
     </div>
   </div>
   <div class="feature-item">
-    <div class="feature-icon">✓</div>
+    <div class="feature-icon" style="color: #10b981;">
+      <i class="fas fa-lightbulb"></i>
+    </div>
     <div>
-      <h4>Certified Professionals</h4>
-      <p>IRDA and AMFI certified advisors with continuous training</p>
+      <h4>Research-Driven Advice</h4>
+      <p>Our advisors continuously analyze fund performance, macroeconomic indicators, and claim payout ratios before recommending any plan.</p>
     </div>
   </div>
   <div class="feature-item">
-    <div class="feature-icon">✓</div>
-    <div>
-      <h4>Wide Product Range</h4>
-      <p>Access to products from 30+ insurance companies and fund houses</p>
+    <div class="feature-icon" style="color: #f59e0b;">
+      <i class="fas fa-people-roof"></i>
     </div>
-  </div>
-  <div class="feature-item">
-    <div class="feature-icon">✓</div>
     <div>
-      <h4>Personalized Service</h4>
-      <p>One-on-one consultations and customized financial plans</p>
-    </div>
-  </div>
-  <div class="feature-item">
-    <div class="feature-icon">✓</div>
-    <div>
-      <h4>Claim Assistance</h4>
-      <p>Dedicated support for all your insurance claims</p>
-    </div>
-  </div>
-  <div class="feature-item">
-    <div class="feature-icon">✓</div>
-    <div>
-      <h4>Digital Access</h4>
-      <p>Easy online access to your portfolio and documents</p>
+      <h4>Lifelong Client Relationships</h4>
+      <p>From early-career SIP planning to retirement pension execution and death benefit claims, we stand beside your family at every crossroad.</p>
     </div>
   </div>
 </div>
 
-## Our Partners
+## Mission &amp; Vision
 
-We are proud to partner with India's leading financial institutions to bring you the best products:
-
-- **Life Insurance:** LIC, HDFC Life, ICICI Prudential, SBI Life, Max Life, Tata AIA
-- **Health Insurance:** Star Health, HDFC Ergo, ICICI Lombard, Care Health, Niva Bupa
-- **Mutual Funds:** SBI MF, HDFC MF, ICICI Prudential MF, Axis MF, Nippon India MF
-- **Loans:** SBI, HDFC Bank, ICICI Bank, Axis Bank, Bajaj Finance
-
+<div class="features-list">
+  <div class="feature-item" style="border-left: 4px solid #2563eb;">
+    <div class="feature-icon" style="color: #2563eb;">
+      <i class="fas fa-bullseye"></i>
+    </div>
+    <div>
+      <h4>Our Mission</h4>
+      <p>To empower everyday Indian households with customized financial literacy, adequate risk protection, and disciplined wealth compounding tools to achieve true financial independence.</p>
+    </div>
+  </div>
+  <div class="feature-item" style="border-left: 4px solid #10b981;">
+    <div class="feature-icon" style="color: #10b981;">
+      <i class="fas fa-eye"></i>
+    </div>
+    <div>
+      <h4>Our Vision</h4>
+      <p>To be recognized as South India's most dependable and client-centric private financial consultancy, distinguished by our ethical standards and flawless claim settlement record.</p>
+    </div>
+  </div>
 </div>
 
-<section class="cta-section">
-  <h2>Let's Plan Your Financial Future Together</h2>
-  <p>Schedule a free consultation with our expert advisors today.</p>
-  <a href="/contact" class="cta-btn">Contact Us</a>
-</section>
+## Why Clients Choose Us
 
-<style>
-.feature-icon {
-  font-size: 1.5rem;
-  min-width: 40px;
-}
-</style>
+<div class="features-list">
+  <div class="feature-item">
+    <div class="feature-icon" style="color: #10b981;"><i class="fas fa-check-double"></i></div>
+    <div>
+      <h4>Certified &amp; Licensed Advisors</h4>
+      <p>Accredited by AMFI (Association of Mutual Funds in India) and IRDA (Insurance Regulatory and Development Authority).</p>
+    </div>
+  </div>
+  <div class="feature-item">
+    <div class="feature-icon" style="color: #10b981;"><i class="fas fa-check-double"></i></div>
+    <div>
+      <h4>Unrivaled Network of 30+ Partners</h4>
+      <p>Access the entire marketplace of policies and fund houses under a single roof without sales quotas or biases.</p>
+    </div>
+  </div>
+  <div class="feature-item">
+    <div class="feature-icon" style="color: #10b981;"><i class="fas fa-check-double"></i></div>
+    <div>
+      <h4>Human-First Claim Assistance</h4>
+      <p>Direct bedside and desk claim assistance for cashless hospitalizations and policy survivor benefits.</p>
+    </div>
+  </div>
+  <div class="feature-item">
+    <div class="feature-icon" style="color: #10b981;"><i class="fas fa-check-double"></i></div>
+    <div>
+      <h4>Personalized Financial Roadmaps</h4>
+      <p>No cookie-cutter packages. Every recommendation is tailored to your cash flow, family dependents, and horizon.</p>
+    </div>
+  </div>
+</div>
+
+## Institutional Alliances
+
+We are authorized distributors and partners with India's leading financial institutions:
+
+<div class="partners-grid-row" style="margin: 24px 0 40px; justify-content: flex-start;">
+  <div class="partner-badge-pill"><span class="partner-dot"></span> LIC of India</div>
+  <div class="partner-badge-pill"><span class="partner-dot"></span> HDFC Life &amp; Ergo</div>
+  <div class="partner-badge-pill"><span class="partner-dot"></span> ICICI Prudential</div>
+  <div class="partner-badge-pill"><span class="partner-dot"></span> SBI Life &amp; SBI MF</div>
+  <div class="partner-badge-pill"><span class="partner-dot"></span> Star Health Insurance</div>
+  <div class="partner-badge-pill"><span class="partner-dot"></span> Care Health</div>
+  <div class="partner-badge-pill"><span class="partner-dot"></span> Nippon India MF</div>
+  <div class="partner-badge-pill"><span class="partner-dot"></span> Axis Bank &amp; Axis MF</div>
+  <div class="partner-badge-pill"><span class="partner-dot"></span> Max Life Insurance</div>
+  <div class="partner-badge-pill"><span class="partner-dot"></span> Kotak Mahindra Bank</div>
+  <div class="partner-badge-pill"><span class="partner-dot"></span> Tata AIA Life</div>
+  <div class="partner-badge-pill"><span class="partner-dot"></span> Bajaj Finance</div>
+</div>
+
+<div class="cta-box">
+  <h3 style="color: #ffffff; margin-top: 0; font-size: 1.5rem;">Speak with a Certified Wealth Advisor Today</h3>
+  <p>Schedule a confidential, zero-obligation portfolio review and customized family protection consultation.</p>
+  <div style="margin-top: 20px; display: flex; gap: 14px; justify-content: center; flex-wrap: wrap;">
+    <a href="/contact" class="btn-primary" style="background: #ffffff; color: #1d4ed8 !important;">
+      <i class="fas fa-calendar-check"></i> Book Consultation
+    </a>
+    <a href="tel:+919443339889" class="btn-secondary" style="background: rgba(255,255,255,0.15); color: #ffffff !important; border-color: rgba(255,255,255,0.3);">
+      <i class="fas fa-phone-alt"></i> Call +91 94433 39889
+    </a>
+  </div>
+</div>
+
+</div>

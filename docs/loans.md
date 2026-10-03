@@ -1,223 +1,187 @@
 ---
-title: Loans
-description: Quick and easy loan solutions for all your financial needs
+title: Loans & Financing Solutions - MRP Associates
+description: Low-interest Home Loans, Loans Against Property, Business & MSME Loans, and quick Personal Loans with zero advisory fees.
 ---
 
 <div class="page-header">
-  <h1>Loans</h1>
-  <p>Fast, flexible financing solutions tailored to your needs</p>
+  <div class="page-header-badge">
+    <i class="fas fa-landmark"></i> Fast Approval &amp; Low Interest
+  </div>
+  <h1>Loans &amp; Mortgage Solutions</h1>
+  <p>Secure the most competitive interest rates from 20+ leading banks and NBFCs with zero advisory charges.</p>
 </div>
 
 <div class="content-section">
 
-## Finance Your Dreams
+## Finance Your Personal &amp; Business Aspirations
 
-Whether you're buying your dream home, funding your child's education, expanding your business, or handling an emergency—we're here to help you find the perfect loan solution with competitive interest rates and flexible terms.
+Whether acquiring your dream residential home, expanding business operations with working capital, or monetizing commercial real estate, obtaining optimal loan terms requires comparing multiple institutional lenders.
 
-At MRP Associates, we partner with leading banks and NBFCs to bring you the best loan offers with minimal documentation and quick processing.
+At MRP Associates, we act as your dedicated loan coordinator: comparing interest benchmarks, processing documentation digitally, and securing maximum sanctions with minimal turnaround time.
 
-## Types of Loans We Offer
+## Comprehensive Loan Categories We Coordinate
 
 <div class="insurance-types">
-  <div class="insurance-type-card">
-    <h4>Home Loans</h4>
-    <p>Make your dream home a reality with attractive interest rates, long tenure options up to 30 years, and tax benefits.</p>
+  <div class="insurance-type-card" style="border-left-color: #2563eb;">
+    <h4>Home Loans (Purchase &amp; Construction)</h4>
+    <p>Attractive floating rates starting from 8.35% p.a., loan tenure up to 30 years, balance transfer facilities, and top-up loan options for home extensions.</p>
   </div>
-  <div class="insurance-type-card">
-    <h4>Personal Loans</h4>
-    <p>Unsecured loans for any purpose—travel, wedding, medical emergencies, or home renovation. Quick disbursal.</p>
+  <div class="insurance-type-card" style="border-left-color: #10b981;">
+    <h4>Loan Against Property (LAP)</h4>
+    <p>Monetize the market value of your existing residential or commercial property for business expansion or debt consolidation at much lower rates than personal loans.</p>
   </div>
-  <div class="insurance-type-card">
-    <h4>Business Loans</h4>
-    <p>Fuel your business growth with working capital loans, machinery finance, and business expansion loans.</p>
+  <div class="insurance-type-card" style="border-left-color: #f59e0b;">
+    <h4>Business &amp; MSME Working Capital</h4>
+    <p>Unsecured business loans, machinery finance, and CGTMSE schemes tailored for manufacturers, traders, and service enterprises.</p>
   </div>
-  <div class="insurance-type-card">
-    <h4>Vehicle Loans</h4>
-    <p>Drive home your dream car or bike with up to 100% financing and flexible EMI options.</p>
+  <div class="insurance-type-card" style="border-left-color: #ec4899;">
+    <h4>Instant Personal Loans</h4>
+    <p>Unsecured credit up to ₹40 Lakhs for urgent medical events, wedding planning, or home renovations with fast digital sanctions.</p>
   </div>
-  <div class="insurance-type-card">
-    <h4>Education Loans</h4>
-    <p>Invest in your future with loans covering tuition, living expenses, and education abroad.</p>
+  <div class="insurance-type-card" style="border-left-color: #8b5cf6;">
+    <h4>Commercial &amp; Vehicle Loans</h4>
+    <p>Financing for passenger cars, commercial transport vehicles, and fleet expansion with flexible EMI schedules.</p>
   </div>
-  <div class="insurance-type-card">
-    <h4>Loan Against Property</h4>
-    <p>Unlock the value of your property with high loan amounts at lower interest rates than personal loans.</p>
+  <div class="insurance-type-card" style="border-left-color: #06b6d4;">
+    <h4>Higher Education Loans</h4>
+    <p>Comprehensive funding covering tuition, living expenses, and travel for accredited domestic and international universities.</p>
   </div>
 </div>
-
-## Why Choose Us for Your Loan?
-
-<ul class="benefits-list">
-  <li>
-    <span class="check">✓</span>
-    <span><strong>Best Rates:</strong> Access to competitive rates from 20+ banks and NBFCs</span>
-  </li>
-  <li>
-    <span class="check">✓</span>
-    <span><strong>Quick Processing:</strong> Loan approval within 24-72 hours</span>
-  </li>
-  <li>
-    <span class="check">✓</span>
-    <span><strong>Minimal Documentation:</strong> Paperless processing with digital verification</span>
-  </li>
-  <li>
-    <span class="check">✓</span>
-    <span><strong>Expert Guidance:</strong> We help you choose the right loan for your needs</span>
-  </li>
-  <li>
-    <span class="check">✓</span>
-    <span><strong>No Hidden Charges:</strong> Complete transparency on fees and charges</span>
-  </li>
-  <li>
-    <span class="check">✓</span>
-    <span><strong>Free Service:</strong> Our loan advisory service is completely free</span>
-  </li>
-</ul>
 
 ## Loan Comparison Overview
 
-| Loan Type | Interest Rate | Tenure | Max Amount |
-|-----------|---------------|--------|------------|
-| Home Loan | 8.35% - 9.50% | Up to 30 years | ₹10 Crore+ |
-| Personal Loan | 10.50% - 18% | 1-5 years | ₹40 Lakhs |
-| Business Loan | 11% - 16% | 1-5 years | ₹50 Lakhs |
-| Vehicle Loan | 7.25% - 12% | 1-7 years | 100% On-road |
-| Education Loan | 8.5% - 11.5% | Up to 15 years | No Limit* |
-| LAP | 8% - 12% | Up to 20 years | ₹10 Crore+ |
+<div style="overflow-x: auto; margin: 24px 0 32px;" class="table-container">
+  <table style="width: 100%; border-collapse: collapse; text-align: left; font-size: 14.5px;">
+    <thead>
+      <tr style="background: #0f172a; color: #ffffff;">
+        <th style="padding: 14px 18px; border-radius: 8px 0 0 0;">Loan Type</th>
+        <th style="padding: 14px 18px;">Typical Interest Rate</th>
+        <th style="padding: 14px 18px;">Max Tenure</th>
+        <th style="padding: 14px 18px; border-radius: 0 8px 0 0;">Maximum Sanction</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr style="border-bottom: 1px solid #e2e8f0;">
+        <td style="padding: 14px 18px; font-weight: 700; color: #2563eb;">Home Loan</td>
+        <td style="padding: 14px 18px;">8.35% – 9.25%</td>
+        <td style="padding: 14px 18px;">Up to 30 Years</td>
+        <td style="padding: 14px 18px; font-weight: 700;">₹10 Crore+</td>
+      </tr>
+      <tr style="border-bottom: 1px solid #e2e8f0; background: rgba(248, 250, 252, 0.6);">
+        <td style="padding: 14px 18px; font-weight: 700; color: #2563eb;">Loan Against Property (LAP)</td>
+        <td style="padding: 14px 18px;">8.90% – 10.50%</td>
+        <td style="padding: 14px 18px;">Up to 20 Years</td>
+        <td style="padding: 14px 18px; font-weight: 700;">Up to 70% Property Value</td>
+      </tr>
+      <tr style="border-bottom: 1px solid #e2e8f0;">
+        <td style="padding: 14px 18px; font-weight: 700; color: #2563eb;">Business / MSME Loan</td>
+        <td style="padding: 14px 18px;">10.50% – 15.00%</td>
+        <td style="padding: 14px 18px;">1 – 7 Years</td>
+        <td style="padding: 14px 18px; font-weight: 700;">₹50 Lakhs (Unsecured)</td>
+      </tr>
+      <tr style="background: rgba(248, 250, 252, 0.6);">
+        <td style="padding: 14px 18px; font-weight: 700; color: #2563eb;">Personal Loan</td>
+        <td style="padding: 14px 18px;">10.25% – 16.00%</td>
+        <td style="padding: 14px 18px;">1 – 5 Years</td>
+        <td style="padding: 14px 18px; font-weight: 700;">₹40 Lakhs</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
-*Interest rates and terms vary based on profile. Contact us for personalized quotes.*
+<div style="background: #eff6ff; border: 1px solid #bfdbfe; border-radius: 14px; padding: 20px; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 14px;" class="loan-cta-banner">
+  <div>
+    <h4 style="margin: 0; color: #1e40af; font-size: 1.1rem;"><i class="fas fa-calculator"></i> Calculate Your Monthly Outgo</h4>
+    <p style="margin: 4px 0 0; font-size: 13.5px; color: #3b82f6;">Check your exact EMI, principal repayment, and total interest.</p>
+  </div>
+  <a href="/calculators/emi-calculator" class="btn-primary" style="padding: 10px 20px; font-size: 13.5px;">
+    Try Loan EMI Calculator →
+  </a>
+</div>
 
-## Loan Details
-
-### Home Loans
-
-Your home is one of the biggest investments of your life. We help you finance it right:
+## Document Checklist for Fast Processing
 
 <div class="features-list">
-  <div class="feature-item">
-    <div class="feature-icon">💰</div>
+  <div class="feature-item" style="border-top: 3px solid #2563eb;">
+    <div class="feature-icon" style="color: #2563eb;"><i class="fas fa-user-check"></i></div>
     <div>
-      <h4>Lowest Interest Rates</h4>
-      <p>Starting from 8.35% p.a. with leading banks</p>
+      <h4>For Salaried Individuals</h4>
+      <p style="line-height: 1.6;">
+        • PAN Card &amp; Aadhaar Card<br>
+        • Last 3 months Salary Slips<br>
+        • Last 6 months Bank Statements<br>
+        • Form 16 / Latest 2 years ITR
+      </p>
     </div>
   </div>
-  <div class="feature-item">
-    <div class="feature-icon">⏰</div>
+  <div class="feature-item" style="border-top: 3px solid #10b981;">
+    <div class="feature-icon" style="color: #10b981;"><i class="fas fa-briefcase"></i></div>
     <div>
-      <h4>Long Tenure</h4>
-      <p>EMIs spread over up to 30 years for lower monthly payments</p>
-    </div>
-  </div>
-  <div class="feature-item">
-    <div class="feature-icon">📋</div>
-    <div>
-      <h4>Tax Benefits</h4>
-      <p>Deductions on principal (80C) and interest (24b) payments</p>
+      <h4>For Self-Employed &amp; Business</h4>
+      <p style="line-height: 1.6;">
+        • Business KYC &amp; GST Registration<br>
+        • Last 2 years ITR with Balance Sheet &amp; P&amp;L<br>
+        • Last 12 months Bank Account Statements<br>
+        • Property Ownership Documents (if collateralized)
+      </p>
     </div>
   </div>
 </div>
 
-### Personal Loans
+## Premier Banking &amp; NBFC Partners
 
-For all your immediate financial needs without collateral:
-
-- Wedding expenses
-- Medical emergencies
-- Home renovation
-- Travel and vacation
-- Debt consolidation
-- Gadget purchase
-
-**Processing time:** As fast as 4 hours with instant approval banks.
-
-### Business Loans
-
-Grow your business with the right financial support:
-
-- **Working Capital Loans:** Manage day-to-day operations
-- **Term Loans:** Long-term business investments
-- **Equipment Finance:** Purchase machinery and equipment
-- **Invoice Financing:** Get cash against pending invoices
-- **MSME Loans:** Special schemes for small businesses
-
-## Our Lending Partners
-
-<div class="features-list">
-  <div class="feature-item">
-    <div class="feature-icon">🏦</div>
-    <div>
-      <h4>Banks</h4>
-      <p>SBI, HDFC Bank, ICICI Bank, Axis Bank, Kotak Bank, Bank of Baroda, PNB</p>
-    </div>
-  </div>
-  <div class="feature-item">
-    <div class="feature-icon">🏢</div>
-    <div>
-      <h4>Housing Finance</h4>
-      <p>HDFC Ltd, LIC Housing, Bajaj Housing, PNB Housing, Tata Capital</p>
-    </div>
-  </div>
-  <div class="feature-item">
-    <div class="feature-icon">💳</div>
-    <div>
-      <h4>NBFCs</h4>
-      <p>Bajaj Finserv, Tata Capital, L&T Finance, Fullerton, IIFL</p>
-    </div>
-  </div>
+<div class="partners-grid-row" style="margin: 24px 0 40px; justify-content: flex-start;">
+  <div class="partner-badge-pill"><span class="partner-dot"></span> State Bank of India (SBI)</div>
+  <div class="partner-badge-pill"><span class="partner-dot"></span> HDFC Bank</div>
+  <div class="partner-badge-pill"><span class="partner-dot"></span> ICICI Bank</div>
+  <div class="partner-badge-pill"><span class="partner-dot"></span> Axis Bank</div>
+  <div class="partner-badge-pill"><span class="partner-dot"></span> Bajaj Housing Finance</div>
+  <div class="partner-badge-pill"><span class="partner-dot"></span> LIC Housing Finance</div>
+  <div class="partner-badge-pill"><span class="partner-dot"></span> Tata Capital</div>
+  <div class="partner-badge-pill"><span class="partner-dot"></span> Bank of Baroda</div>
 </div>
-
-## Documents Required
-
-### For Salaried Individuals
-- PAN Card and Aadhaar Card
-- Latest 3 months salary slips
-- Last 6 months bank statements
-- Form 16 or ITR
-
-### For Self-Employed / Business
-- PAN Card and Aadhaar Card
-- Business proof and registration
-- Last 2 years ITR with computation
-- Last 12 months bank statements
-- GST returns (if applicable)
 
 ## Frequently Asked Questions
 
 <div class="faq-section">
   <div class="faq-item">
-    <h4>❓ What is the minimum credit score required for a loan?</h4>
-    <p>Generally, a CIBIL score of 700+ is preferred. However, different lenders have different criteria. We can help you find options even with lower scores or help improve your creditworthiness.</p>
+    <h4><i class="fas fa-circle-question" style="color: #2563eb;"></i> What is the minimum CIBIL credit score required for loan approval?</h4>
+    <p>A CIBIL credit score of 750+ qualifies you for the lowest preferential interest rates. However, we also have partner institutions that sanction loans for scores between 650–749, and we provide advisory on how to repair and boost your credit profile.</p>
   </div>
   <div class="faq-item">
-    <h4>❓ How is loan eligibility calculated?</h4>
-    <p>Eligibility depends on income, existing obligations, credit score, employment stability, and age. Typically, EMIs should not exceed 50-60% of your net monthly income.</p>
+    <h4><i class="fas fa-circle-question" style="color: #2563eb;"></i> Are there prepayment penalties on home loans?</h4>
+    <p>Under Reserve Bank of India (RBI) directives, individual floating rate home loans carry <strong>ZERO prepayment or foreclosure penalties</strong>. You can prepay part or all of your principal anytime without extra fees.</p>
   </div>
   <div class="faq-item">
-    <h4>❓ Can I prepay my loan before tenure ends?</h4>
-    <p>Yes, most loans allow part or full prepayment. Floating rate home loans have zero prepayment charges. Personal and fixed-rate loans may have nominal charges (typically 2-4%).</p>
+    <h4><i class="fas fa-circle-question" style="color: #2563eb;"></i> Do you charge clients any loan advisory or processing fees?</h4>
+    <p>No! Our loan coordination service is 100% free of charge for borrowers. We are authorized corporate associates of leading banks and NBFCs.</p>
   </div>
-  <div class="faq-item">
-    <h4>❓ How long does loan approval take?</h4>
-    <p>Personal loans can be approved within hours. Home loans typically take 5-7 working days from document submission to sanction. Business loans take 7-10 days.</p>
+</div>
+
+<div class="cta-box">
+  <h3 style="color: #ffffff; margin-top: 0; font-size: 1.5rem;">Check Your Maximum Loan Eligibility</h3>
+  <p>Find out how much you can borrow and receive instant rate comparisons across top lenders.</p>
+  <div style="margin-top: 20px; display: flex; gap: 14px; justify-content: center; flex-wrap: wrap;">
+    <a href="/contact" class="btn-primary" style="background: #ffffff; color: #1d4ed8 !important;">
+      <i class="fas fa-check-circle"></i> Check Loan Eligibility
+    </a>
+    <a href="tel:+919443339889" class="btn-secondary" style="background: rgba(255,255,255,0.15); color: #ffffff !important; border-color: rgba(255,255,255,0.3);">
+      <i class="fas fa-phone-alt"></i> Speak to Loan Advisor
+    </a>
   </div>
 </div>
 
 </div>
-
-<section class="cta-section">
-  <h2>Check Your Loan Eligibility</h2>
-  <p>Get instant quotes from multiple lenders and find the best deal.</p>
-  <a href="/contact" class="cta-btn">Apply Now</a>
-</section>
 
 <style>
-.check {
-  color: #10b981;
-  font-weight: bold;
-  margin-right: 10px;
+.dark .loan-cta-banner {
+  background: #111827 !important;
+  border-color: rgba(255, 255, 255, 0.08) !important;
 }
-.feature-icon {
-  font-size: 1.5rem;
-  min-width: 40px;
+.dark .loan-cta-banner h4 {
+  color: #60a5fa !important;
+}
+.dark .loan-cta-banner p {
+  color: #94a3b8 !important;
 }
 </style>

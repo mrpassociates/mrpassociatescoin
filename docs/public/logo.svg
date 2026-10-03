@@ -1,16 +1,48 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 50">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 54" fill="none">
   <defs>
-    <linearGradient id="brandGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1d4ed8;stop-opacity:1" />
+    <linearGradient id="shieldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3b82f6" />
+      <stop offset="50%" stop-color="#2563eb" />
+      <stop offset="100%" stop-color="#1d4ed8" />
     </linearGradient>
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#10b981" />
+      <stop offset="100%" stop-color="#059669" />
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fbbf24" />
+      <stop offset="100%" stop-color="#f59e0b" />
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="130%" height="130%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#2563eb" flood-opacity="0.3"/>
+    </filter>
   </defs>
-  <!-- Shield Icon -->
-  <path d="M10 8 L25 4 L40 8 L40 22 C40 32 25 40 25 40 C25 40 10 32 10 22 Z" fill="url(#brandGradient)"/>
-  <path d="M20 20 L23 23 L32 14" stroke="white" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-  <!-- Text -->
-  <text x="50" y="32" font-family="Poppins, sans-serif" font-size="24" font-weight="700" fill="#1e293b">
-    <tspan fill="url(#brandGradient)">MRP</tspan>
-    <tspan fill="#64748b"> Associates</tspan>
-  </text>
+  
+  <!-- Emblem Group -->
+  <g transform="translate(6, 4)" filter="url(#shadow)">
+    <!-- Outer Shield -->
+    <path d="M23 2 L41 9 C41 24 33 38 23 44 C13 38 5 24 5 9 Z" fill="url(#shieldGrad)" />
+    <!-- Inner Accent Layer -->
+    <path d="M23 6 L37 11.5 C37 23 30.5 34.5 23 39.5 C15.5 34.5 9 23 9 11.5 Z" fill="#ffffff" fill-opacity="0.12" />
+    <!-- Growth Bars / Leaf -->
+    <path d="M16 28 L16 22 L20 22 L20 28 Z" fill="#ffffff" fill-opacity="0.9" rx="1"/>
+    <path d="M21 28 L21 17 L25 17 L25 28 Z" fill="#ffffff" rx="1"/>
+    <path d="M26 28 L26 12 L30 12 L30 28 Z" fill="url(#goldGrad)" rx="1"/>
+    <!-- Growth Sparkle Arrow -->
+    <path d="M14 18 L21 11 L26 15 L32 7" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M28 7 L32 7 L32 11" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <!-- Typography -->
+  <g transform="translate(60, 0)">
+    <!-- MRP text -->
+    <text x="0" y="27" font-family="'Plus Jakarta Sans', 'Inter', -apple-system, sans-serif" font-size="22" font-weight="800" letter-spacing="-0.02em" fill="#0f172a">
+      <tspan fill="url(#shieldGrad)">MRP</tspan>
+      <tspan fill="#1e293b" font-weight="700"> Associates</tspan>
+    </text>
+    <!-- Tagline -->
+    <text x="1" y="42" font-family="'Plus Jakarta Sans', 'Inter', sans-serif" font-size="9" font-weight="600" letter-spacing="0.16em" fill="#64748b" text-transform="uppercase">
+      Wealth &amp; Insurance Solutions
+    </text>
+  </g>
 </svg>

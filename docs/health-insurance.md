@@ -1,182 +1,157 @@
 ---
-title: Health Insurance
-description: Quality health insurance coverage for you and your family
+title: Health Insurance Plans - MRP Associates
+description: Comprehensive medical coverage, cashless hospitalization in 10,000+ hospitals, critical illness and family floater health plans.
 ---
 
 <div class="page-header">
-  <h1>Health Insurance</h1>
-  <p>Comprehensive medical coverage for complete peace of mind</p>
+  <div class="page-header-badge">
+    <i class="fas fa-hospital-user"></i> 100% Cashless Medical Shield
+  </div>
+  <h1>Health Insurance Solutions</h1>
+  <p>Protect your hard-earned savings from escalating healthcare inflation with comprehensive family hospitalization coverage.</p>
 </div>
 
 <div class="content-section">
 
-## Your Health Deserves the Best Protection
+## Your Health Deserves Uncompromised Protection
 
-Medical emergencies can strike anytime, and healthcare costs are rising every year. A good health insurance policy ensures that you and your family receive the best medical care without worrying about finances.
+A single hospitalization can wipe out years of accumulated savings. With medical inflation running at 12–14% annually in India, adequate health coverage is not a luxury—it is an indispensable safety net.
 
-At MRP Associates, we help you navigate through hundreds of health plans to find the one that perfectly matches your healthcare needs and budget.
+At MRP Associates, we help you choose transparent health plans without restrictive room-rent caps, unreasonable waiting periods, or cumbersome co-payment clauses.
 
-## Types of Health Insurance Plans
+## Health Insurance Options We Recommend
 
 <div class="insurance-types">
-  <div class="insurance-type-card">
-    <h4>Individual Health Insurance</h4>
-    <p>Personal coverage for hospitalization, surgeries, and treatments. Ideal sum insured based on your city and lifestyle.</p>
-  </div>
-  <div class="insurance-type-card">
+  <div class="insurance-type-card" style="border-left-color: #10b981;">
     <h4>Family Floater Plans</h4>
-    <p>One policy covers the entire family with shared sum insured. Cost-effective way to protect parents, spouse, and children.</p>
+    <p>Single consolidated sum insured (₹10 Lakhs to ₹1 Crore) covering parents, spouse, and dependent children under one affordable annual premium.</p>
   </div>
-  <div class="insurance-type-card">
-    <h4>Critical Illness Cover</h4>
-    <p>Lump sum payout on diagnosis of specified critical illnesses like cancer, heart attack, or stroke.</p>
+  <div class="insurance-type-card" style="border-left-color: #2563eb;">
+    <h4>Comprehensive Individual Cover</h4>
+    <p>Dedicated sum insured specifically for working professionals or young adults, providing personalized protection tailored to city healthcare costs.</p>
   </div>
-  <div class="insurance-type-card">
-    <h4>Super Top-Up Plans</h4>
-    <p>Affordable way to enhance your existing coverage. Kicks in when base policy limit is exhausted.</p>
+  <div class="insurance-type-card" style="border-left-color: #f59e0b;">
+    <h4>Super Top-Up Enhancers</h4>
+    <p>Upgrade your existing employer or base policy from ₹5 Lakhs to ₹50 Lakhs or ₹1 Crore at a fraction of standard premium cost.</p>
   </div>
-  <div class="insurance-type-card">
-    <h4>Senior Citizen Plans</h4>
-    <p>Specially designed for parents and senior family members with features suited to their healthcare needs.</p>
+  <div class="insurance-type-card" style="border-left-color: #ec4899;">
+    <h4>Critical Illness Benefit Cover</h4>
+    <p>Guaranteed lump sum payout upon diagnosis of 30+ designated conditions (Cancer, CABG, Stroke, Organ Failure) irrespective of hospital bills.</p>
   </div>
-  <div class="insurance-type-card">
-    <h4>Personal Accident Cover</h4>
-    <p>Protection against accidental death, disability, and injury-related expenses.</p>
+  <div class="insurance-type-card" style="border-left-color: #8b5cf6;">
+    <h4>Senior Citizen Health Plans</h4>
+    <p>Specially curated policies for parents aged 60+ with reduced pre-existing waiting periods and specialized geriatric care provisions.</p>
+  </div>
+  <div class="insurance-type-card" style="border-left-color: #06b6d4;">
+    <h4>Personal Accident &amp; Disability</h4>
+    <p>24x7 worldwide protection covering accidental demise, permanent total disability, and temporary loss of weekly income.</p>
   </div>
 </div>
 
-## Key Features and Benefits
+## Key Plan Inclusions &amp; Advantages
 
 <ul class="benefits-list">
   <li>
-    <span class="check">✓</span>
-    <span><strong>Cashless Treatment:</strong> Get treated at 10,000+ network hospitals without paying upfront</span>
+    <span class="check"><i class="fas fa-check-circle"></i></span>
+    <span><strong>10,000+ Cashless Network Hospitals:</strong> Walk in with your health e-card; the insurer settles medical bills directly.</span>
   </li>
   <li>
-    <span class="check">✓</span>
-    <span><strong>Pre and Post Hospitalization:</strong> Covers medical expenses 30-60 days before and 60-180 days after hospitalization</span>
+    <span class="check"><i class="fas fa-check-circle"></i></span>
+    <span><strong>Pre &amp; Post Hospitalization:</strong> Medical tests, scans, and medicines covered 60 days prior and 180 days after discharge.</span>
   </li>
   <li>
-    <span class="check">✓</span>
-    <span><strong>Day Care Procedures:</strong> Coverage for 500+ procedures that don't require 24-hour hospitalization</span>
+    <span class="check"><i class="fas fa-check-circle"></i></span>
+    <span><strong>No Room Rent Capping:</strong> Choose single private AC rooms or suites without proportionate deduction penalties.</span>
   </li>
   <li>
-    <span class="check">✓</span>
-    <span><strong>No Claim Bonus:</strong> Your sum insured increases every claim-free year, up to 100% bonus</span>
+    <span class="check"><i class="fas fa-check-circle"></i></span>
+    <span><strong>Automatic Restoration Benefit:</strong> Recharges 100% of your sum insured if exhausted during the policy year.</span>
   </li>
   <li>
-    <span class="check">✓</span>
-    <span><strong>AYUSH Coverage:</strong> Treatment under Ayurveda, Yoga, Unani, Siddha, and Homeopathy</span>
+    <span class="check"><i class="fas fa-check-circle"></i></span>
+    <span><strong>Annual Cumulative Bonus (NCB):</strong> Earn up to 100% additional coverage bonus for every claim-free year without extra premium.</span>
   </li>
   <li>
-    <span class="check">✓</span>
-    <span><strong>Tax Benefits:</strong> Premiums qualify for deduction under Section 80D (up to ₹25,000/₹50,000 for seniors)</span>
-  </li>
-  <li>
-    <span class="check">✓</span>
-    <span><strong>Restoration Benefit:</strong> Sum insured restored if exhausted, for different illness</span>
-  </li>
-  <li>
-    <span class="check">✓</span>
-    <span><strong>Maternity Cover:</strong> Coverage for childbirth expenses and newborn baby (with waiting period)</span>
+    <span class="check"><i class="fas fa-check-circle"></i></span>
+    <span><strong>Section 80D Tax Relief:</strong> Claim deductions up to ₹25,000 for self/family and up to ₹50,000 for senior citizen parents.</span>
   </li>
 </ul>
 
-## How to Choose the Right Health Plan
+## Key Factors When Choosing a Health Plan
 
-Consider these factors when selecting your health insurance:
-
-1. **Sum Insured:** Choose based on your city's healthcare costs. Metro cities need higher coverage.
-2. **Network Hospitals:** Check if your preferred hospitals are in the insurer's network.
-3. **Waiting Period:** Lower waiting periods for pre-existing conditions are better.
-4. **Room Rent Limit:** Opt for policies with no room rent capping.
-5. **Co-payment:** Avoid policies with co-payment clauses if possible.
-6. **Claim Settlement Ratio:** Higher ratio indicates reliable claim processing.
-
-## Our Health Insurance Partners
+When we review policies for clients, we audit 5 vital criteria:
 
 <div class="features-list">
   <div class="feature-item">
-    <div class="feature-icon">🏥</div>
+    <div class="feature-icon" style="color: #2563eb;"><i class="fas fa-hospital"></i></div>
     <div>
-      <h4>Star Health Insurance</h4>
-      <p>India's largest standalone health insurer with 97% claim settlement</p>
+      <h4>Cashless Hospital Network</h4>
+      <p>Ensuring major tertiary and super-specialty hospitals in your city (Karur, Coimbatore, Trichy, Chennai) are on the direct cashless panel.</p>
     </div>
   </div>
   <div class="feature-item">
-    <div class="feature-icon">🏥</div>
+    <div class="feature-icon" style="color: #10b981;"><i class="fas fa-clock"></i></div>
     <div>
-      <h4>HDFC Ergo Health</h4>
-      <p>Wide network coverage with innovative health plans</p>
+      <h4>Pre-Existing Disease (PED) Waiting Period</h4>
+      <p>Comparing policies with 1 to 2-year waiting periods over traditional 4-year restrictions for diabetes and hypertension.</p>
     </div>
   </div>
   <div class="feature-item">
-    <div class="feature-icon">🏥</div>
+    <div class="feature-icon" style="color: #f59e0b;"><i class="fas fa-ban"></i></div>
     <div>
-      <h4>Care Health Insurance</h4>
-      <p>Affordable premiums with comprehensive coverage</p>
+      <h4>Zero Co-Payment</h4>
+      <p>Selecting plans where you aren't forced to pay 10%–20% of the claim out of your pocket regardless of hospital tier.</p>
     </div>
   </div>
   <div class="feature-item">
-    <div class="feature-icon">🏥</div>
+    <div class="feature-icon" style="color: #8b5cf6;"><i class="fas fa-file-medical"></i></div>
     <div>
-      <h4>Niva Bupa Health</h4>
-      <p>International healthcare expertise with excellent service</p>
+      <h4>Claim Settlement Ratio &amp; In-House TPA</h4>
+      <p>Favoring insurers with &gt;97% ICR (Incurred Claim Ratio) and in-house claim desks for rapid 1-hour pre-authorizations.</p>
     </div>
   </div>
-  <div class="feature-item">
-    <div class="feature-icon">🏥</div>
-    <div>
-      <h4>ICICI Lombard</h4>
-      <p>Digital-first insurer with quick claim settlements</p>
-    </div>
-  </div>
-  <div class="feature-item">
-    <div class="feature-icon">🏥</div>
-    <div>
-      <h4>Bajaj Allianz Health</h4>
-      <p>Extensive hospital network pan-India</p>
-    </div>
-  </div>
+</div>
+
+## Health Insurance Partners We Trust
+
+<div class="partners-grid-row" style="margin: 24px 0 40px; justify-content: flex-start;">
+  <div class="partner-badge-pill"><span class="partner-dot"></span> Star Health Insurance</div>
+  <div class="partner-badge-pill"><span class="partner-dot"></span> HDFC Ergo Health</div>
+  <div class="partner-badge-pill"><span class="partner-dot"></span> Care Health Insurance</div>
+  <div class="partner-badge-pill"><span class="partner-dot"></span> Niva Bupa Health</div>
+  <div class="partner-badge-pill"><span class="partner-dot"></span> ICICI Lombard</div>
+  <div class="partner-badge-pill"><span class="partner-dot"></span> Bajaj Allianz Health</div>
+  <div class="partner-badge-pill"><span class="partner-dot"></span> ManipalCigna</div>
 </div>
 
 ## Frequently Asked Questions
 
 <div class="faq-section">
   <div class="faq-item">
-    <h4>❓ What is the ideal sum insured for health insurance?</h4>
-    <p>For metro cities, we recommend a minimum of ₹10-15 lakhs for a family. Tier-2 cities can consider ₹5-10 lakhs. Consider super top-up plans to enhance coverage affordably.</p>
+    <h4><i class="fas fa-circle-question" style="color: #10b981;"></i> My employer already provides group health insurance. Do I still need private cover?</h4>
+    <p>Yes, absolutely. Employer cover lapses immediately upon job transition or retirement. Furthermore, corporate limits (often ₹3L–₹5L) are inadequate for major surgeries or ICU care, and cannot be tailored with critical illness riders.</p>
   </div>
   <div class="faq-item">
-    <h4>❓ Are pre-existing diseases covered?</h4>
-    <p>Yes, after a waiting period (usually 2-4 years). Some insurers offer plans with reduced waiting periods at slightly higher premiums.</p>
+    <h4><i class="fas fa-circle-question" style="color: #10b981;"></i> What is the difference between Base Health Cover and Super Top-Up?</h4>
+    <p>A base cover pays claims from ₹0 up to your sum insured (e.g. ₹5 Lakhs). A super top-up covers hospital bills exceeding a threshold (deductible), allowing you to get an extra ₹20L–₹50L cover at roughly 20% of base policy cost.</p>
   </div>
   <div class="faq-item">
-    <h4>❓ What is cashless claim process?</h4>
-    <p>At network hospitals, the insurer directly settles the bill with the hospital. You only pay non-covered expenses. Pre-authorization is required for planned hospitalizations.</p>
+    <h4><i class="fas fa-circle-question" style="color: #10b981;"></i> Can I port my existing policy without losing waiting-period credits?</h4>
+    <p>Yes. Under IRDA portability regulations, you can migrate from your current insurer to a better provider while carrying over all waiting period credits for pre-existing conditions. We handle the entire 45-day porting documentation.</p>
   </div>
-  <div class="faq-item">
-    <h4>❓ Can I port my existing health policy?</h4>
-    <p>Yes, portability allows you to switch insurers while retaining waiting period benefits. Apply at least 45 days before renewal. We assist with hassle-free porting.</p>
+</div>
+
+<div class="cta-box">
+  <h3 style="color: #ffffff; margin-top: 0; font-size: 1.5rem;">Compare Health Plans for Your Family</h3>
+  <p>Get quotes tailored to your family age group and preferred network hospitals.</p>
+  <div style="margin-top: 20px; display: flex; gap: 14px; justify-content: center; flex-wrap: wrap;">
+    <a href="/contact" class="btn-primary" style="background: #ffffff; color: #1d4ed8 !important;">
+      <i class="fas fa-clipboard-check"></i> Free Health Plan Audit
+    </a>
+    <a href="tel:+919443339889" class="btn-secondary" style="background: rgba(255,255,255,0.15); color: #ffffff !important; border-color: rgba(255,255,255,0.3);">
+      <i class="fas fa-phone-alt"></i> Speak to Advisor
+    </a>
   </div>
 </div>
 
 </div>
-
-<section class="cta-section">
-  <h2>Compare Health Insurance Plans</h2>
-  <p>Get quotes from multiple insurers and find the best coverage for your family.</p>
-  <a href="/contact" class="cta-btn">Get Free Quote</a>
-</section>
-
-<style>
-.check {
-  color: #10b981;
-  font-weight: bold;
-  margin-right: 10px;
-}
-.feature-icon {
-  font-size: 1.5rem;
-  min-width: 40px;
-}
-</style>

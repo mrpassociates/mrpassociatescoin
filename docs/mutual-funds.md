@@ -1,207 +1,204 @@
 ---
-title: Mutual Funds
-description: Smart investment solutions to grow your wealth
+title: Mutual Funds & SIP Investment - MRP Associates
+description: Grow multi-generational wealth with AMFI-certified guidance in equity mutual funds, systematic investment plans (SIP), and ELSS tax saving schemes.
 ---
 
 <div class="page-header">
-  <h1>Mutual Funds</h1>
-  <p>Grow your wealth with expert-guided investments</p>
+  <div class="page-header-badge">
+    <i class="fas fa-chart-line"></i> Wealth Creation &amp; Compounding
+  </div>
+  <h1>Mutual Funds &amp; Systematic Investment</h1>
+  <p>Harness the power of rupee cost averaging and long-term compounding with scientifically curated mutual fund portfolios.</p>
 </div>
 
 <div class="content-section">
 
-## Start Your Wealth Creation Journey
+## Accelerate Your Financial Freedom
 
-Mutual funds are one of the most effective ways to build wealth over time. By pooling money from multiple investors, mutual funds provide access to professionally managed, diversified portfolios—even with small investment amounts.
+Mutual funds pool capital from thousands of investors to invest in professionally researched portfolios of equity equities, sovereign debt, and corporate bonds. They represent India's most effective vehicle to beat inflation and achieve life goals.
 
-At MRP Associates, our AMFI-certified advisors help you select the right funds based on your financial goals, risk appetite, and investment horizon.
+As **AMFI-certified Mutual Fund Distributors**, MRP Associates steers you clear of market timing and emotional biases, structuring automated Systematic Investment Plans (SIP) that systematically build your net worth.
 
-## Types of Mutual Funds
+## Categories of Mutual Funds We Advise
 
 <div class="insurance-types">
-  <div class="insurance-type-card">
-    <h4>Equity Funds</h4>
-    <p>Invest primarily in stocks for higher growth potential. Best for long-term goals like retirement or wealth creation.</p>
+  <div class="insurance-type-card" style="border-left-color: #2563eb;">
+    <h4>Equity &amp; Growth Funds</h4>
+    <p>Large-cap, flexi-cap, and mid-cap funds designed to deliver inflation-beating capital appreciation over 5+ year horizons for major long-term wealth creation.</p>
   </div>
-  <div class="insurance-type-card">
-    <h4>Debt Funds</h4>
-    <p>Invest in bonds and fixed-income securities. Lower risk, stable returns ideal for short to medium-term goals.</p>
+  <div class="insurance-type-card" style="border-left-color: #10b981;">
+    <h4>ELSS Tax-Saver Funds</h4>
+    <p>Equity Linked Savings Schemes providing dual benefits: deductions up to ₹1.5 Lakh under Section 80C with the shortest lock-in (only 3 years) among all tax-saving assets.</p>
   </div>
-  <div class="insurance-type-card">
-    <h4>Hybrid Funds</h4>
-    <p>Mix of equity and debt for balanced risk-return. Perfect for moderate risk investors seeking stability with growth.</p>
+  <div class="insurance-type-card" style="border-left-color: #f59e0b;">
+    <h4>Hybrid &amp; Balanced Advantage</h4>
+    <p>Dynamically allocates between equities and fixed-income debt instruments, providing capital protection during volatility while capturing upside surges.</p>
   </div>
-  <div class="insurance-type-card">
-    <h4>ELSS (Tax Saver)</h4>
-    <p>Equity funds with tax benefits under Section 80C. Shortest lock-in (3 years) among 80C investments.</p>
+  <div class="insurance-type-card" style="border-left-color: #8b5cf6;">
+    <h4>Low-Cost Index Funds</h4>
+    <p>Passively tracks premier market benchmarks like the Nifty 50 or BSE Sensex, delivering benchmark returns with minimal expense ratios.</p>
   </div>
-  <div class="insurance-type-card">
-    <h4>Index Funds</h4>
-    <p>Mirror market indices like Nifty 50 or Sensex. Low-cost passive investing with market-matching returns.</p>
+  <div class="insurance-type-card" style="border-left-color: #ec4899;">
+    <h4>Debt &amp; Short-Duration Funds</h4>
+    <p>Invests in high-grade government securities and corporate debt, ideal for conservative investors prioritizing capital preservation over 1–3 year windows.</p>
   </div>
-  <div class="insurance-type-card">
-    <h4>Liquid Funds</h4>
-    <p>Ultra-short-term debt funds for parking surplus cash. Better returns than savings account with high liquidity.</p>
+  <div class="insurance-type-card" style="border-left-color: #06b6d4;">
+    <h4>Liquid &amp; Overnight Funds</h4>
+    <p>Ultra-low volatility funds perfect for parking your emergency contingency reserve (3–6 months expenses) with instant T+1 business day liquidity.</p>
   </div>
 </div>
 
-## Why Invest in Mutual Funds?
+## The Magic of Compounding via SIP
 
-<ul class="benefits-list">
-  <li>
-    <span class="check">✓</span>
-    <span><strong>Professional Management:</strong> Expert fund managers make investment decisions on your behalf</span>
-  </li>
-  <li>
-    <span class="check">✓</span>
-    <span><strong>Diversification:</strong> Your money is spread across multiple securities, reducing risk</span>
-  </li>
-  <li>
-    <span class="check">✓</span>
-    <span><strong>Start Small:</strong> Begin with as low as ₹500 per month through SIP</span>
-  </li>
-  <li>
-    <span class="check">✓</span>
-    <span><strong>Liquidity:</strong> Most funds allow easy withdrawal (except ELSS lock-in)</span>
-  </li>
-  <li>
-    <span class="check">✓</span>
-    <span><strong>Tax Efficiency:</strong> ELSS offers tax deduction; long-term equity gains up to ₹1 lakh are tax-free</span>
-  </li>
-  <li>
-    <span class="check">✓</span>
-    <span><strong>Power of Compounding:</strong> Stay invested long-term and watch your wealth multiply</span>
-  </li>
-  <li>
-    <span class="check">✓</span>
-    <span><strong>Transparency:</strong> Daily NAV updates and regular portfolio disclosures</span>
-  </li>
-  <li>
-    <span class="check">✓</span>
-    <span><strong>Regulated:</strong> SEBI-regulated for investor protection</span>
-  </li>
-</ul>
+A **Systematic Investment Plan (SIP)** removes emotion and guesswork from investing. By investing a set amount monthly, you accumulate more fund units when markets dip and compound gains when markets rise.
 
-## SIP: The Smart Way to Invest
+### Potential Wealth Accumulation at 12% Annualized Return:
 
-**Systematic Investment Plan (SIP)** is the most popular way to invest in mutual funds. Here's why:
+<div style="overflow-x: auto; margin: 24px 0 32px;" class="table-container">
+  <table style="width: 100%; border-collapse: collapse; text-align: left; font-size: 14.5px;">
+    <thead>
+      <tr style="background: #0f172a; color: #ffffff;">
+        <th style="padding: 14px 18px; border-radius: 8px 0 0 0;">Monthly SIP</th>
+        <th style="padding: 14px 18px;">Investment Horizon</th>
+        <th style="padding: 14px 18px;">Total Invested</th>
+        <th style="padding: 14px 18px; border-radius: 0 8px 0 0;">Estimated Corpus (@12%)</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr style="border-bottom: 1px solid #e2e8f0;">
+        <td style="padding: 14px 18px; font-weight: 700; color: #2563eb;">₹5,000 / mo</td>
+        <td style="padding: 14px 18px;">10 Years</td>
+        <td style="padding: 14px 18px;">₹6,00,000</td>
+        <td style="padding: 14px 18px; font-weight: 800; color: #059669;">₹11.6 Lakhs</td>
+      </tr>
+      <tr style="border-bottom: 1px solid #e2e8f0; background: rgba(248, 250, 252, 0.6);">
+        <td style="padding: 14px 18px; font-weight: 700; color: #2563eb;">₹10,000 / mo</td>
+        <td style="padding: 14px 18px;">15 Years</td>
+        <td style="padding: 14px 18px;">₹18,00,000</td>
+        <td style="padding: 14px 18px; font-weight: 800; color: #059669;">₹50.5 Lakhs</td>
+      </tr>
+      <tr style="border-bottom: 1px solid #e2e8f0;">
+        <td style="padding: 14px 18px; font-weight: 700; color: #2563eb;">₹15,000 / mo</td>
+        <td style="padding: 14px 18px;">20 Years</td>
+        <td style="padding: 14px 18px;">₹36,00,000</td>
+        <td style="padding: 14px 18px; font-weight: 800; color: #059669;">₹1.50 Crore</td>
+      </tr>
+      <tr style="background: rgba(248, 250, 252, 0.6);">
+        <td style="padding: 14px 18px; font-weight: 700; color: #2563eb;">₹25,000 / mo</td>
+        <td style="padding: 14px 18px;">25 Years</td>
+        <td style="padding: 14px 18px;">₹75,00,000</td>
+        <td style="padding: 14px 18px; font-weight: 800; color: #059669;">₹4.74 Crores</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
-- **Rupee Cost Averaging:** Buy more units when prices are low, fewer when high
-- **Discipline:** Automate your investments like EMI
-- **Flexibility:** Increase, decrease, pause, or stop anytime
-- **No Timing Required:** Don't worry about market timing
-- **Goal-Based:** Align SIPs with specific financial goals
+<div style="background: #eff6ff; border: 1px solid #bfdbfe; border-radius: 14px; padding: 20px; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 14px;" class="sip-cta-banner">
+  <div>
+    <h4 style="margin: 0; color: #1e40af; font-size: 1.1rem;"><i class="fas fa-calculator"></i> Simulate Your Custom Numbers</h4>
+    <p style="margin: 4px 0 0; font-size: 13.5px; color: #3b82f6;">Adjust monthly amounts, tenure, and expected returns in real-time.</p>
+  </div>
+  <a href="/calculators/sip-calculator" class="btn-primary" style="padding: 10px 20px; font-size: 13.5px;">
+    Try SIP Calculator →
+  </a>
+</div>
 
-### SIP Investment Examples
-
-| Monthly SIP | Duration | Expected Return | Corpus |
-|-------------|----------|-----------------|--------|
-| ₹5,000 | 10 years | 12% p.a. | ₹11.6 Lakhs |
-| ₹10,000 | 15 years | 12% p.a. | ₹50.5 Lakhs |
-| ₹15,000 | 20 years | 12% p.a. | ₹1.5 Crore |
-| ₹25,000 | 25 years | 12% p.a. | ₹4.7 Crore |
-
-*Returns are illustrative. Actual returns may vary based on market conditions.*
-
-## Investment Solutions for Every Goal
+## Goal-Based Portfolios We Build
 
 <div class="features-list">
   <div class="feature-item">
-    <div class="feature-icon">🎓</div>
+    <div class="feature-icon" style="color: #2563eb;"><i class="fas fa-graduation-cap"></i></div>
     <div>
-      <h4>Children's Education</h4>
-      <p>Start early for college or higher education expenses. 15-18 year horizon works best.</p>
+      <h4>Children’s Higher Education</h4>
+      <p>Targeted corpus creation for engineering, medical, or international university degrees with strategic de-risking as college year approaches.</p>
     </div>
   </div>
   <div class="feature-item">
-    <div class="feature-icon">🏠</div>
+    <div class="feature-icon" style="color: #10b981;"><i class="fas fa-house-chimney"></i></div>
     <div>
-      <h4>Home Down Payment</h4>
-      <p>Build your dream home fund with balanced or equity funds over 5-7 years.</p>
+      <h4>Dream Home Down Payment</h4>
+      <p>Systematic medium-term accumulation in conservative hybrid or balanced advantage funds over a 5 to 7-year horizon.</p>
     </div>
   </div>
   <div class="feature-item">
-    <div class="feature-icon">🏖️</div>
+    <div class="feature-icon" style="color: #f59e0b;"><i class="fas fa-umbrella-beach"></i></div>
     <div>
-      <h4>Retirement Planning</h4>
-      <p>Create a substantial retirement corpus through disciplined long-term investing.</p>
+      <h4>Early Retirement &amp; FIRE Fund</h4>
+      <p>Building a self-sustaining dividend and systematic withdrawal plan (SWP) corpus for complete financial sovereignty.</p>
     </div>
   </div>
   <div class="feature-item">
-    <div class="feature-icon">💍</div>
+    <div class="feature-icon" style="color: #8b5cf6;"><i class="fas fa-coins"></i></div>
     <div>
-      <h4>Wedding Fund</h4>
-      <p>Plan for your or your children's wedding with goal-based investments.</p>
-    </div>
-  </div>
-  <div class="feature-item">
-    <div class="feature-icon">🚗</div>
-    <div>
-      <h4>Vehicle Purchase</h4>
-      <p>Save for your next car or bike without taking a loan.</p>
-    </div>
-  </div>
-  <div class="feature-item">
-    <div class="feature-icon">🐷</div>
-    <div>
-      <h4>Emergency Fund</h4>
-      <p>Park 6 months' expenses in liquid funds for easy access.</p>
+      <h4>Emergency Reserve Fund</h4>
+      <p>6 months of essential household expenses parked safely in liquid mutual funds delivering better post-tax returns than ordinary savings accounts.</p>
     </div>
   </div>
 </div>
 
-## Our Fund House Partners
+## Premier Asset Management Companies (AMCs) We Distribute
 
-We distribute mutual funds from India's top Asset Management Companies:
-
-- SBI Mutual Fund
-- HDFC Mutual Fund
-- ICICI Prudential MF
-- Axis Mutual Fund
-- Nippon India MF
-- Kotak Mutual Fund
-- Mirae Asset MF
-- UTI Mutual Fund
-- DSP Mutual Fund
-- Parag Parikh MF
+<div class="partners-grid-row" style="margin: 24px 0 40px; justify-content: flex-start;">
+  <div class="partner-badge-pill"><span class="partner-dot"></span> SBI Mutual Fund</div>
+  <div class="partner-badge-pill"><span class="partner-dot"></span> HDFC Mutual Fund</div>
+  <div class="partner-badge-pill"><span class="partner-dot"></span> ICICI Prudential MF</div>
+  <div class="partner-badge-pill"><span class="partner-dot"></span> Nippon India MF</div>
+  <div class="partner-badge-pill"><span class="partner-dot"></span> Axis Mutual Fund</div>
+  <div class="partner-badge-pill"><span class="partner-dot"></span> Kotak Mutual Fund</div>
+  <div class="partner-badge-pill"><span class="partner-dot"></span> Mirae Asset MF</div>
+  <div class="partner-badge-pill"><span class="partner-dot"></span> Parag Parikh (PPFAS)</div>
+  <div class="partner-badge-pill"><span class="partner-dot"></span> UTI Mutual Fund</div>
+  <div class="partner-badge-pill"><span class="partner-dot"></span> DSP Mutual Fund</div>
+</div>
 
 ## Frequently Asked Questions
 
 <div class="faq-section">
   <div class="faq-item">
-    <h4>❓ Is mutual fund investment safe?</h4>
-    <p>Mutual funds are market-linked and carry risk. However, with proper asset allocation and long-term horizon, they have historically delivered good returns. Diversification helps manage risk.</p>
+    <h4><i class="fas fa-circle-question" style="color: #2563eb;"></i> What is the minimum amount required to start a mutual fund SIP?</h4>
+    <p>You can begin an automated monthly SIP with as little as ₹500 or ₹1,000 per month in top-performing funds. The amount can be increased, paused, or withdrawn anytime without lock-in penalties (except ELSS).</p>
   </div>
   <div class="faq-item">
-    <h4>❓ What is the minimum investment in mutual funds?</h4>
-    <p>You can start a SIP with as low as ₹500 per month in most funds. Lump sum investments typically start at ₹1,000-5,000 depending on the fund.</p>
+    <h4><i class="fas fa-circle-question" style="color: #2563eb;"></i> How are capital gains taxed on mutual funds in India?</h4>
+    <p>For Equity Funds, Long Term Capital Gains (LTCG held &gt;1 year) are taxed at 12.5% on profits exceeding ₹1.25 Lakh per financial year. Short Term Capital Gains (STCG &lt;1 year) are taxed at 20%. Debt funds are taxed according to your individual income tax slab.</p>
   </div>
   <div class="faq-item">
-    <h4>❓ How are mutual fund returns taxed?</h4>
-    <p>Equity funds: STCG (under 1 year) at 15%, LTCG (over 1 year) at 10% above ₹1 lakh. Debt funds: Taxed as per income slab. ELSS offers ₹1.5 lakh deduction under 80C.</p>
+    <h4><i class="fas fa-circle-question" style="color: #2563eb;"></i> What happens if I miss a monthly SIP installment?</h4>
+    <p>Nothing! There is no penalty from the mutual fund house. If your bank account lacks sufficient balance on the SIP date, the installment simply skips that month and resumes automatically the next month.</p>
   </div>
-  <div class="faq-item">
-    <h4>❓ Can I withdraw my mutual fund investment anytime?</h4>
-    <p>Open-ended funds allow withdrawal anytime (except ELSS which has 3-year lock-in). Redemption amount is typically credited within 2-4 business days.</p>
+</div>
+
+<div class="cta-box">
+  <h3 style="color: #ffffff; margin-top: 0; font-size: 1.5rem;">Ready to Begin Your Wealth Creation?</h3>
+  <p>Receive a customized mutual fund portfolio allocation based on your target goals and risk tolerance.</p>
+  <div style="margin-top: 20px; display: flex; gap: 14px; justify-content: center; flex-wrap: wrap;">
+    <a href="/contact" class="btn-primary" style="background: #ffffff; color: #1d4ed8 !important;">
+      <i class="fas fa-chart-pie"></i> Free Portfolio Review
+    </a>
+    <a href="tel:+919443339889" class="btn-secondary" style="background: rgba(255,255,255,0.15); color: #ffffff !important; border-color: rgba(255,255,255,0.3);">
+      <i class="fas fa-phone-alt"></i> Talk to AMFI Advisor
+    </a>
   </div>
 </div>
 
 </div>
-
-<section class="cta-section">
-  <h2>Start Your Investment Journey Today</h2>
-  <p>Get personalized fund recommendations based on your goals and risk profile.</p>
-  <a href="/contact" class="cta-btn">Free Investment Consultation</a>
-</section>
 
 <style>
-.check {
-  color: #10b981;
-  font-weight: bold;
-  margin-right: 10px;
+.dark .table-container table {
+  color: #f1f5f9;
 }
-.feature-icon {
-  font-size: 1.5rem;
-  min-width: 40px;
+.dark .table-container tbody tr {
+  border-bottom-color: rgba(255, 255, 255, 0.08) !important;
+  background: transparent !important;
+}
+.dark .sip-cta-banner {
+  background: #111827 !important;
+  border-color: rgba(255, 255, 255, 0.08) !important;
+}
+.dark .sip-cta-banner h4 {
+  color: #60a5fa !important;
+}
+.dark .sip-cta-banner p {
+  color: #94a3b8 !important;
 }
 </style>
