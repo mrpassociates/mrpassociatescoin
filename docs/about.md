@@ -38,6 +38,31 @@ Guided by our belief that true financial prosperity requires tailored planning f
   </div>
 </div>
 
+<!-- Founder Spotlight Card -->
+<div class="founder-spotlight-card" style="margin: 35px 0 45px;">
+  <div class="founder-photo-col">
+    <img src="/images/office/mr-pr-prabhakaran-portrait.jpg" alt="Mr. PR. Prabhakaran - Founder & Chief Financial Advisor" />
+    <span class="founder-badge-overlay"><i class="fas fa-crown"></i> 22+ Years in Service</span>
+  </div>
+  <div class="founder-info-col">
+    <span class="founder-role">Founder &amp; Chief Wealth Advisor</span>
+    <h3 style="margin: 6px 0 10px;">Mr. PR. Prabhakaran, <span style="font-size: 1.25rem; color: #2563eb; font-weight: 700;">FChFP</span></h3>
+    <div class="founder-designations">
+      <span class="desig-pill"><i class="fas fa-graduation-cap"></i> FChFP Chartered Practitioner</span>
+      <span class="desig-pill"><i class="fas fa-globe"></i> 17-Yr MDRT (USA) Qualifier</span>
+      <span class="desig-pill"><i class="fas fa-crown"></i> LIC Corporate Club</span>
+      <span class="desig-pill"><i class="fas fa-heart-pulse"></i> Star Health ED Club</span>
+    </div>
+    <p>
+      Mr. PR. Prabhakaran is one of South India's most accomplished financial advisory leaders. Conferred with the prestigious <strong>FChFP (Fellow Chartered Financial Practitioner)</strong> international designation, he has achieved the premier <strong>Million Dollar Round Table (MDRT, USA)</strong> qualification for 17 consecutive years (including 3 years Court of the Table), LIC's apex <strong>Corporate Club Membership</strong>, and Star Health Insurance's <strong>Executive Director (ED) Club</strong> honors.
+    </p>
+    <p style="margin: 0; font-size: 13.5px; color: #64748b;">
+      <i class="fas fa-quote-left" style="color: #2563eb; margin-right: 6px;"></i>
+      <em>"Our sole commitment is to provide friendly, transparent, and lifelong financial guidance so every family can achieve security and prosperity without compromise."</em>
+    </p>
+  </div>
+</div>
+
 ## Official Vision &amp; Mission
 
 Our foundational pillars, proudly displayed in our Karur headquarters in both English and Tamil:
@@ -144,11 +169,75 @@ In recognition of extraordinary advisory benchmarks, international standards, an
   </div>
 </div>
 
+<h3 style="font-size: 1.4rem; font-weight: 800; margin: 40px 0 20px;">Accolades &amp; Stage Recognition Gallery</h3>
+
+<div class="photo-gallery-grid cols-2">
+  <div class="gallery-item-card">
+    <div class="gallery-thumb-wrap" style="height: 260px;">
+      <img src="/images/awards/lic-toppers-meet-zonal-manager-2025.jpg" alt="LIC Toppers Meet with Zonal Manager 2025" />
+      <span class="gallery-thumb-tag">Feb 2025 • Trichy Femina</span>
+    </div>
+    <div class="gallery-caption">
+      <h5>LIC Toppers Meet with Zonal Manager (2025)</h5>
+      <p>Mr. PR. Prabhakaran and family receiving top honors from the LIC Zonal Manager and senior division officers at Femina, Trichy.</p>
+    </div>
+  </div>
+
+  <div class="gallery-item-card">
+    <div class="gallery-thumb-wrap" style="height: 260px;">
+      <img src="/images/awards/star-health-ed-club-award-2020.jpg" alt="Star Health Insurance ED Club Award" />
+      <span class="gallery-thumb-tag">ED Club Convention • Trichy</span>
+    </div>
+    <div class="gallery-caption">
+      <h5>Star Health Executive Director (ED) Club Honor</h5>
+      <p>Conferred with the premier ED Club Trophy at the Star Health Convention with over ₹53.7 Lakhs in mobilized healthcare premiums.</p>
+    </div>
+  </div>
+
+  <div class="gallery-item-card">
+    <div class="gallery-thumb-wrap" style="height: 260px;">
+      <img src="/images/awards/fchfp-graduation-convocation.jpg" alt="FChFP Convocation Ceremony" />
+      <span class="gallery-thumb-tag">FChFP Convocation</span>
+    </div>
+    <div class="gallery-caption">
+      <h5>FChFP International Designation Convocation</h5>
+      <p>Graduating as Fellow Chartered Financial Practitioner (FChFP) in academic regalia alongside the Life Underwriters Guild of India (LUGI).</p>
+    </div>
+  </div>
+
+  <div class="gallery-item-card">
+    <div class="gallery-thumb-wrap" style="height: 260px;">
+      <img src="/images/awards/presidents-club-stage-award.jpg" alt="President's Club Award Presentation" />
+      <span class="gallery-thumb-tag">President's Club Grand Stage</span>
+    </div>
+    <div class="gallery-caption">
+      <h5>President's Club Grand Stage Felicitation</h5>
+      <p>Honored on the grand stage with executive dignitaries in recognition of elite multi-product volume and exemplary client retention.</p>
+    </div>
+  </div>
+</div>
+
 ## Grassroots Social Impact: Historic Bima Gramam 2003
 
 In 2003, MRP Associates accomplished the historic **Bima Gramam Milestone** in the rural village of **Elavanur** (*பீமா கிராமம் சாதனை 2003-ம் ஆண்டு எலவனூர்*). By educating and securing 100 life insurance policies across rural households, we earned dedicated village development funding from LIC of India.
 
 Using these funds, a complete **clean drinking water infrastructure** was established in Elavanur, providing life-saving relief to the villagers during severe drought. This project stands as enduring proof of our commitment to social welfare beyond financial commerce.
+
+<div class="photo-showcase-card">
+  <div class="showcase-media">
+    <img src="/images/events/milestone-terrace-celebration.jpg" alt="MRP Associates Milestone Celebration with Family and Team" />
+    <span class="media-badge"><i class="fas fa-users"></i> Milestone Celebration</span>
+  </div>
+  <div class="showcase-body">
+    <h4>Celebrating People's Trust Across Karur &amp; Beyond</h4>
+    <p>A milestone gathering with family, senior advisors, and colleagues celebrating over two decades of grassroots client service in Karur district.</p>
+    <div class="showcase-meta">
+      <span><i class="fas fa-medal text-gold"></i> Community Honor</span>
+      <span><i class="fas fa-location-dot"></i> Karur, Tamil Nadu</span>
+      <span><i class="fas fa-heart text-blue"></i> 2,500+ Families Served</span>
+    </div>
+  </div>
+</div>
 
 ## Specialist In: Comprehensive Financial Solutions
 
@@ -256,6 +345,61 @@ We are officially licensed and empanelled with India's premier financial, bankin
 - **LIC Mutual Fund** • **HDFC Mutual Fund** • **SBI Mutual Fund** • **ICICI Prudential Mutual Fund**
 - **Nippon India Mutual Fund** • **UTI Mutual Fund** • **Axis Mutual Fund** • **Bandhan Mutual Fund**
 - **Canara Robeco Mutual Fund** • **Aditya Birla Capital MF** • **Mahindra Manulife MF** • **SAMCO Mutual Fund**
+
+## Our Karur Office &amp; Team Culture
+
+Headquartered centrally in Karur, MRP Associates is driven by an energetic, client-first team of certified financial planners, loan documentation specialists, and dedicated claim coordinators.
+
+<div class="photo-showcase-card">
+  <div class="showcase-media">
+    <img src="/images/office/mrp-office-trophies-team.jpg" alt="MRP Associates Karur Office Awards Wall and Advisory Team" />
+    <span class="media-badge"><i class="fas fa-trophy"></i> Wall of Honors</span>
+  </div>
+  <div class="showcase-body">
+    <h4>Karur Head Office — Wall of Trophies &amp; Decades of Excellence</h4>
+    <p>Our office walls reflect 22+ continuous years of public service: dozens of state, national, and international citations, LIC branch awards, and MDRT recognitions earned through genuine client care.</p>
+    <div class="showcase-meta">
+      <span><i class="fas fa-building text-blue"></i> Head Office, Karur</span>
+      <span><i class="fas fa-users text-gold"></i> Full-Time Advisory Team</span>
+      <span><i class="fas fa-award text-emerald"></i> 100+ Trophies &amp; Citations</span>
+    </div>
+  </div>
+</div>
+
+<div class="photo-gallery-grid cols-3" style="margin-top: 24px;">
+  <div class="gallery-item-card">
+    <div class="gallery-thumb-wrap">
+      <img src="/images/office/milestone-celebration-cake.jpg" alt="Team Milestone Celebration" />
+      <span class="gallery-thumb-tag">Team Culture</span>
+    </div>
+    <div class="gallery-caption">
+      <h5>Milestone Cake Cutting</h5>
+      <p>Celebrating annual advisory records and festival milestones with our dedicated office staff and colleagues.</p>
+    </div>
+  </div>
+
+  <div class="gallery-item-card">
+    <div class="gallery-thumb-wrap">
+      <img src="/images/office/branch-team-felicitation.jpg" alt="Branch Team Felicitation" />
+      <span class="gallery-thumb-tag">Branch Leadership</span>
+    </div>
+    <div class="gallery-caption">
+      <h5>Golden Shawl Branch Felicitation</h5>
+      <p>Receiving traditional ceremonial shawls and honors from senior branch leaders and development officers.</p>
+    </div>
+  </div>
+
+  <div class="gallery-item-card">
+    <div class="gallery-thumb-wrap">
+      <img src="/images/office/lic-branch-celebration.jpg" alt="LIC Karur Branch Celebration" />
+      <span class="gallery-thumb-tag">LIC Karur Branch</span>
+    </div>
+    <div class="gallery-caption">
+      <h5>LIC Karur II Branch Team Honors</h5>
+      <p>Celebrating leading branch advisor recognition alongside Development Officer Mr. M. Karnan.</p>
+    </div>
+  </div>
+</div>
 
 <div class="cta-box" style="margin-top: 50px;">
   <h3 style="color: #ffffff; margin-top: 0; font-size: 1.6rem;">Connect with Karur's Premier Financial Advisory</h3>

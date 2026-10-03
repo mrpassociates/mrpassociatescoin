@@ -38,6 +38,49 @@ Backed by **17 consecutive years as an MDRT (USA) Global Qualifier** and **Court
   </div>
 </div>
 
+<!-- Authentic LIC Leadership Showcase -->
+<div class="photo-showcase-card">
+  <div class="showcase-media">
+    <img src="/images/awards/lic-toppers-meet-zonal-manager-2025.jpg" alt="LIC Toppers Meet with Zonal Manager at Femina Trichy" />
+    <span class="media-badge" style="background: rgba(37, 99, 235, 0.9);"><i class="fas fa-crown"></i> 2025 Zonal Felicitation</span>
+  </div>
+  <div class="showcase-body">
+    <h4>LIC Toppers Meet with Zonal Manager — Femina, Trichy (February 2025)</h4>
+    <p>
+      Chief Advisor Mr. PR. Prabhakaran and family receiving premier division leadership honors from the <strong>Zonal Manager (ZM)</strong> and senior LIC executives. As a Corporate Club Member and 17-consecutive-year MDRT qualifier, MRP Associates delivers unmatched claim settlement priority and policy underwriting access for every client family.
+    </p>
+    <div class="showcase-meta">
+      <span><i class="fas fa-crown text-gold"></i> LIC Corporate Club Member</span>
+      <span><i class="fas fa-trophy text-emerald"></i> Leading Advisor Thanjavur Division</span>
+      <span><i class="fas fa-calendar-check text-blue"></i> Feb 18, 2025 • Femina Trichy</span>
+    </div>
+  </div>
+</div>
+
+<div class="photo-gallery-grid cols-2" style="margin-top: 24px; margin-bottom: 36px;">
+  <div class="gallery-item-card">
+    <div class="gallery-thumb-wrap">
+      <img src="/images/events/mdrt-karur-unit2-felicitation.jpg" alt="1st MDRT Karur Unit 2 LIC Branch Felicitation" />
+      <span class="gallery-thumb-tag">Karur Unit 2 Felicitation</span>
+    </div>
+    <div class="gallery-caption">
+      <h5>1st MDRT Qualifier — Karur Unit 2</h5>
+      <p>Official branch felicitation banner honoring Mr. PR. Prabhakaran alongside Development Officer Mr. M. Karnan at Karur Unit 2.</p>
+    </div>
+  </div>
+
+  <div class="gallery-item-card">
+    <div class="gallery-thumb-wrap">
+      <img src="/images/office/lic-branch-celebration.jpg" alt="LIC Karur Branch Office Celebration" />
+      <span class="gallery-thumb-tag">Branch Leadership</span>
+    </div>
+    <div class="gallery-caption">
+      <h5>Branch Office Milestone Celebration</h5>
+      <p>Senior branch officers and colleagues honoring consistent Crorepati and Galaxy Club achievements at Karur branch.</p>
+    </div>
+  </div>
+</div>
+
 ## Specialized Life &amp; Pension Solutions
 
 We specialize in tailor-made protection packages covering:

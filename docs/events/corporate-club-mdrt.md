@@ -13,12 +13,12 @@ description: Conferred with LIC of India's highest Corporate Club Membership and
 
 <div class="content-section">
 
-<div style="border-radius: 16px; overflow: hidden; box-shadow: 0 16px 36px -6px rgba(15, 23, 42, 0.15); margin-bottom: 36px; height: 380px; position: relative; background: url('https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=1600&q=80') center/cover no-repeat;">
+<div style="border-radius: 16px; overflow: hidden; box-shadow: 0 16px 36px -6px rgba(15, 23, 42, 0.15); margin-bottom: 36px; height: 420px; position: relative; background: url('/images/awards/presidents-club-stage-award.jpg') center/cover no-repeat;">
 <div style="position: absolute; inset: 0; background: linear-gradient(180deg, rgba(7,13,30,0.1) 0%, rgba(7,13,30,0.85) 100%);"></div>
 <div style="position: absolute; bottom: 24px; left: 24px; right: 24px; color: #fff;">
 <span style="background: #f59e0b; color: #fff; padding: 4px 12px; border-radius: 20px; font-size: 12px; font-weight: 700; text-transform: uppercase;">Apex Industry Accolade</span>
 <h2 style="color: #fff; margin: 8px 0 4px; font-size: 1.8rem;">Pinnacle of Financial Advisory in India &amp; Globally</h2>
-<p style="margin: 0; color: #cbd5e1; font-size: 13.5px;"><i class="fas fa-award"></i> LIC Corporate Club • 3-Year MDRT COT (USA)</p>
+<p style="margin: 0; color: #cbd5e1; font-size: 13.5px;"><i class="fas fa-award"></i> LIC Corporate Club • 3-Year MDRT COT (USA) • President's Club</p>
 </div>
 </div>
 
@@ -60,6 +60,30 @@ Complementing this national honor is the international **Court of the Table (COT
 ### 3. Galaxy Club Member Award (Since 2019)
 - *LIC -யின் உயரிய விருதான Galaxy Club Member Award -யை 2019-ல் பெறத்தொடங்கினோம்.*
 - Precursor elite membership demonstrating consistent multi-year high-volume client onboarding and policy servicing excellence across Karur and Tamil Nadu.
+
+<div class="photo-gallery-grid cols-2" style="margin: 36px 0;">
+  <div class="gallery-item-card">
+    <div class="gallery-thumb-wrap" style="height: 250px;">
+      <img src="/images/awards/presidents-club-stage-award.jpg" alt="President's Club Award Presentation" />
+      <span class="gallery-thumb-tag">President's Club</span>
+    </div>
+    <div class="gallery-caption">
+      <h5>President's Club Stage Felicitation</h5>
+      <p>Receiving executive recognition on stage in the presence of industry leadership.</p>
+    </div>
+  </div>
+
+  <div class="gallery-item-card">
+    <div class="gallery-thumb-wrap" style="height: 250px;">
+      <img src="/images/awards/lugi-leap-certificate-stage.jpg" alt="LUGI LEAP Stage Certificate of Achievement" />
+      <span class="gallery-thumb-tag">LEAP National Awards</span>
+    </div>
+    <div class="gallery-caption">
+      <h5>LUGI LEAP Certificate of Achievement</h5>
+      <p>Presented with the prestigious Certificate of Achievement by senior institutional dignitaries.</p>
+    </div>
+  </div>
+</div>
 
 ## What This Means for Our Clients
 

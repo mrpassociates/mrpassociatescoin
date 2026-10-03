@@ -43,6 +43,25 @@ With over **22 years of dedicated advisory**, we provide direct bedside and desk
   </div>
 </div>
 
+<!-- Authentic Star Health ED Club Award Showcase -->
+<div class="photo-showcase-card">
+  <div class="showcase-media">
+    <img src="/images/awards/star-health-ed-club-award-2020.jpg" alt="Mr. PR. Prabhakaran receiving Star Health Insurance ED Club Award" />
+    <span class="media-badge" style="background: rgba(16, 185, 129, 0.9);"><i class="fas fa-crown"></i> ED Club Qualifier</span>
+  </div>
+  <div class="showcase-body">
+    <h4>Star Health Insurance Club Convention — Executive Director (ED) Club Honor</h4>
+    <p>
+      Felicitated on stage at the Star Health Insurance Club Convention (Trichy) for achieving the premier <strong>Executive Director (ED) Club</strong> status with over <strong>₹53,76,421</strong> in total mobilized health insurance premium. This elite standing ensures our policyholders receive priority claim liaison, dedicated regional underwriter access, and expedited bedside cashless approvals.
+    </p>
+    <div class="showcase-meta">
+      <span><i class="fas fa-award text-emerald"></i> Executive Director (ED) Club</span>
+      <span><i class="fas fa-coins text-gold"></i> ₹53.76+ Lakhs Premium Mobilized</span>
+      <span><i class="fas fa-location-dot text-blue"></i> Branch Office: Karur</span>
+    </div>
+  </div>
+</div>
+
 ## Health Insurance Solutions We Recommend
 
 <div class="insurance-types">

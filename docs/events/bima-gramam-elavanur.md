@@ -56,6 +56,22 @@ Through the Bima Gramam award, LIC of India sanctioned direct village infrastruc
 This historic landmark established the foundational philosophy that drives MRP Associates to this day:
 - Financial advisory is not merely an investment instrument; it is a vehicle for **human dignity, community empowerment, and social welfare**.
 
+<div class="photo-showcase-card" style="margin-top: 36px;">
+  <div class="showcase-media">
+    <img src="/images/events/milestone-terrace-celebration.jpg" alt="MRP Associates Community Service & Leadership Celebration" />
+    <span class="media-badge"><i class="fas fa-hand-holding-heart"></i> People's Service</span>
+  </div>
+  <div class="showcase-body">
+    <h4>Over Two Decades of Public Service Across Karur &amp; Central Tamil Nadu</h4>
+    <p>Mr. PR. Prabhakaran and associates celebrating community trust, grassroots outreach, and client welfare milestones built through 22+ continuous years of service.</p>
+    <div class="showcase-meta">
+      <span><i class="fas fa-medal text-gold"></i> Bima Gramam Legacy</span>
+      <span><i class="fas fa-users text-blue"></i> 2,500+ Rural &amp; Urban Families</span>
+      <span><i class="fas fa-location-dot text-emerald"></i> Karur District</span>
+    </div>
+  </div>
+</div>
+
 <div class="cta-box" style="margin-top: 50px;">
   <h3 style="color: #ffffff; margin-top: 0; font-size: 1.5rem;">Dedicated to People's Service for 22+ Years</h3>
   <p>Speak to our certified advisors for tailored family security, agricultural loans, or wealth solutions.</p>

@@ -18,7 +18,7 @@ const eventSlides = [
     tag: 'Pinnacle Achievement',
     tagIcon: 'fa-crown',
     dateLoc: 'Corporate Club • 3-Yr MDRT COT (USA)',
-    image: 'https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=1920&q=85',
+    image: '/images/awards/presidents-club-stage-award.jpg',
     link: '/events/corporate-club-mdrt',
     btnText: 'Read Corporate Club Story'
   },
@@ -28,7 +28,7 @@ const eventSlides = [
     tag: 'Global Standard',
     tagIcon: 'fa-globe',
     dateLoc: '2007 – Present • MDRT USA',
-    image: 'https://images.unsplash.com/photo-1511578314322-379afb476865?w=1920&q=85',
+    image: '/images/events/mdrt-karur-unit2-felicitation.jpg',
     link: '/events/17-years-mdrt-qualifier',
     btnText: 'View 17-Year Journey'
   },
@@ -38,9 +38,19 @@ const eventSlides = [
     tag: 'Division Leader',
     tagIcon: 'fa-trophy',
     dateLoc: 'Thanjavur Division & Karur II Branch',
-    image: 'https://images.unsplash.com/photo-1475721027785-f74eccf877e2?w=1920&q=85',
+    image: '/images/awards/lic-toppers-meet-zonal-manager-2025.jpg',
     link: '/events/thanjavur-division-karur-leading-advisor',
     btnText: 'Explore Division Accolades'
+  },
+  {
+    title: 'Star Health Executive Director (ED) Club Qualifier',
+    desc: 'Felicitated at Star Health Insurance Club Convention for exceptional client healthcare protection, achieving ED Club distinction with over ₹53 Lakhs premium.',
+    tag: 'Health Specialist',
+    tagIcon: 'fa-heart-pulse',
+    dateLoc: 'Star Health Club Convention • Karur Branch',
+    image: '/images/awards/star-health-ed-club-award-2020.jpg',
+    link: '/health-insurance',
+    btnText: 'Explore Health Insurance'
   },
   {
     title: 'Historic Bima Gramam 2003: Elavanur Drinking Water Initiative',
@@ -48,7 +58,7 @@ const eventSlides = [
     tag: 'Social Impact Landmark',
     tagIcon: 'fa-hand-holding-droplet',
     dateLoc: 'Elavanur Village • Karur District',
-    image: 'https://images.unsplash.com/photo-1541888946425-d0fbb1861593?w=1920&q=85',
+    image: '/images/events/milestone-terrace-celebration.jpg',
     link: '/events/bima-gramam-elavanur',
     btnText: 'Read Historic Village Story'
   }
@@ -316,6 +326,37 @@ Full Detailed Calculator &amp; Planning →
 <p class="vm-tamil">"அனைவருக்கும் நட்புடன் கூடிய நிதி தீர்வுகள் மற்றும் நிதி சேவைகளை வழங்குதல்"</p>
 </div>
 </div>
+</section>
+
+<!-- Founder & Advisory Leadership Spotlight -->
+<section class="section" style="padding-top: 20px; padding-bottom: 20px;">
+  <div class="founder-spotlight-card">
+    <div class="founder-photo-col">
+      <img src="/images/office/mr-pr-prabhakaran-portrait.jpg" alt="Mr. PR. Prabhakaran - Founder & Chief Financial Advisor" />
+      <span class="founder-badge-overlay"><i class="fas fa-crown"></i> 22+ Yrs Service</span>
+    </div>
+    <div class="founder-info-col">
+      <span class="founder-role">Founder &amp; Chief Financial Advisor</span>
+      <h3>Mr. PR. Prabhakaran, <span style="font-size: 1.2rem; color: #2563eb; font-weight: 700;">FChFP</span></h3>
+      <div class="founder-designations">
+        <span class="desig-pill"><i class="fas fa-graduation-cap"></i> FChFP Chartered Practitioner</span>
+        <span class="desig-pill"><i class="fas fa-globe"></i> 17-Yr MDRT (USA) Qualifier</span>
+        <span class="desig-pill"><i class="fas fa-crown"></i> LIC Corporate Club</span>
+        <span class="desig-pill"><i class="fas fa-heart-pulse"></i> Star Health ED Club</span>
+      </div>
+      <p>
+        "For over two decades in Karur and across Tamil Nadu, our sacred mission has been simple: to guide families toward genuine financial security, protect their health against unexpected burdens, and compound wealth across generations with unshakeable fiduciary ethics."
+      </p>
+      <div style="display: flex; gap: 14px; flex-wrap: wrap;">
+        <a href="/about" class="btn-primary" style="padding: 10px 22px; font-size: 13.5px;">
+          <span>Founder Bio &amp; Credentials</span> <i class="fas fa-arrow-right"></i>
+        </a>
+        <a href="/events" class="btn-secondary" style="padding: 10px 22px; font-size: 13.5px;">
+          <i class="fas fa-trophy"></i> <span>View Milestones &amp; Gallery</span>
+        </a>
+      </div>
+    </div>
+  </div>
 </section>
 
 <!-- Authorised Agent Partner Institutions Board -->

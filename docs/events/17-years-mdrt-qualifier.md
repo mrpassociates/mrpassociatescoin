@@ -13,12 +13,12 @@ description: Commemorating 17 continuous years (2007–Present) of Million Dolla
 
 <div class="content-section">
 
-<div style="border-radius: 16px; overflow: hidden; box-shadow: 0 16px 36px -6px rgba(15, 23, 42, 0.15); margin-bottom: 36px; height: 380px; position: relative; background: url('https://images.unsplash.com/photo-1511578314322-379afb476865?w=1600&q=80') center/cover no-repeat;">
+<div style="border-radius: 16px; overflow: hidden; box-shadow: 0 16px 36px -6px rgba(15, 23, 42, 0.15); margin-bottom: 36px; height: 420px; position: relative; background: url('/images/events/mdrt-karur-unit2-felicitation.jpg') center/cover no-repeat;">
 <div style="position: absolute; inset: 0; background: linear-gradient(180deg, rgba(7,13,30,0.1) 0%, rgba(7,13,30,0.85) 100%);"></div>
 <div style="position: absolute; bottom: 24px; left: 24px; right: 24px; color: #fff;">
 <span style="background: #2563eb; color: #fff; padding: 4px 12px; border-radius: 20px; font-size: 12px; font-weight: 700; text-transform: uppercase;">Global Financial Standard</span>
 <h2 style="color: #fff; margin: 8px 0 4px; font-size: 1.8rem;">A Legacy of International Fiduciary Honor: 2007 to Present</h2>
-<p style="margin: 0; color: #cbd5e1; font-size: 13.5px;"><i class="fas fa-certificate"></i> MDRT USA • உலகத்தரம் வாய்ந்த முகவர் விருது</p>
+<p style="margin: 0; color: #cbd5e1; font-size: 13.5px;"><i class="fas fa-certificate"></i> MDRT USA • 1st MDRT from Karur Unit 2 • உலகத்தரம் வாய்ந்த முகவர் விருது</p>
 </div>
 </div>
 
@@ -44,6 +44,23 @@ Qualifying for MDRT even once is a career defining milestone. Maintaining this q
   <div class="trust-metric-item">
     <span class="metric-val">100%</span>
     <span class="metric-lbl">Strict Fiduciary Ethics</span>
+  </div>
+</div>
+
+<!-- Authentic Convocation & Credential Showcase -->
+<div class="photo-showcase-card">
+  <div class="showcase-media">
+    <img src="/images/awards/fchfp-graduation-convocation.jpg" alt="Mr. PR. Prabhakaran FChFP Convocation and MDRT Member" />
+    <span class="media-badge"><i class="fas fa-graduation-cap"></i> Professional Fellowship</span>
+  </div>
+  <div class="showcase-body">
+    <h4>FChFP (Fellow Chartered Financial Practitioner) &amp; MDRT Member</h4>
+    <p>Chief Advisor Mr. PR. Prabhakaran in academic convocation regalia, having attained the globally recognized FChFP designation alongside consecutive MDRT and Court of the Table distinctions.</p>
+    <div class="showcase-meta">
+      <span><i class="fas fa-graduation-cap text-blue"></i> Fellow Chartered Financial Practitioner</span>
+      <span><i class="fas fa-globe text-emerald"></i> MDRT Court of the Table Member</span>
+      <span><i class="fas fa-award text-gold"></i> LEAP National Honors</span>
+    </div>
   </div>
 </div>
 

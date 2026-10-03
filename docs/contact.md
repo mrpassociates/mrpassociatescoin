@@ -177,6 +177,25 @@ style="width: 100%; justify-content: center; cursor: pointer; border: none; padd
 </div>
 </div>
 
+<!-- Office & Advisory Headquarters Card -->
+<div class="photo-showcase-card" style="margin: 40px 0 30px;">
+  <div class="showcase-media">
+    <img src="/images/office/mrp-office-trophies-team.jpg" alt="MRP Associates Head Office in Karur - Wall of Honors & Dedicated Team" />
+    <span class="media-badge"><i class="fas fa-building"></i> Karur Headquarters</span>
+  </div>
+  <div class="showcase-body">
+    <h4>Welcome to MRP Associates — 22+ Years in Service of the People</h4>
+    <p>
+      Visit our advisory office located conveniently near the Central Bus Stand in Karur. Walk in to meet Chief Advisor Mr. PR. Prabhakaran and our dedicated team for policy servicing, portfolio checkups, loan documentation, or claim filing assistance.
+    </p>
+    <div class="showcase-meta">
+      <span><i class="fas fa-trophy text-gold"></i> 100+ Honors &amp; Awards Wall</span>
+      <span><i class="fas fa-clock text-blue"></i> Mon - Sat: 9:30 AM – 7:00 PM</span>
+      <span><i class="fas fa-phone-alt text-emerald"></i> +91 94433 39889</span>
+    </div>
+  </div>
+</div>
+
 <!-- Google Maps Interactive Location -->
 <h2 style="font-size: 1.6rem; font-weight: 800; margin-top: 40px; margin-bottom: 16px;">Visit Our Karur Office</h2>
 <div class="map-container">

@@ -13,12 +13,12 @@ description: Consecutively honored as the Leading Advisor in Thanjavur Division 
 
 <div class="content-section">
 
-<div style="border-radius: 16px; overflow: hidden; box-shadow: 0 16px 36px -6px rgba(15, 23, 42, 0.15); margin-bottom: 36px; height: 380px; position: relative; background: url('https://images.unsplash.com/photo-1475721027785-f74eccf877e2?w=1600&q=80') center/cover no-repeat;">
+<div style="border-radius: 16px; overflow: hidden; box-shadow: 0 16px 36px -6px rgba(15, 23, 42, 0.15); margin-bottom: 36px; height: 440px; position: relative; background: url('/images/awards/lic-toppers-meet-zonal-manager-2025.jpg') center/cover no-repeat;">
 <div style="position: absolute; inset: 0; background: linear-gradient(180deg, rgba(7,13,30,0.1) 0%, rgba(7,13,30,0.85) 100%);"></div>
 <div style="position: absolute; bottom: 24px; left: 24px; right: 24px; color: #fff;">
 <span style="background: #10b981; color: #fff; padding: 4px 12px; border-radius: 20px; font-size: 12px; font-weight: 700; text-transform: uppercase;">Regional Leadership</span>
 <h2 style="color: #fff; margin: 8px 0 4px; font-size: 1.8rem;">Leading the Advisory Benchmark Across Central Tamil Nadu</h2>
-<p style="margin: 0; color: #cbd5e1; font-size: 13.5px;"><i class="fas fa-location-dot"></i> Thanjavur Division &amp; Karur II Branch • LIC of India</p>
+<p style="margin: 0; color: #cbd5e1; font-size: 13.5px;"><i class="fas fa-location-dot"></i> Toppers Meet with Zonal Manager • Thanjavur Division &amp; Karur II Branch • LIC of India</p>
 </div>
 </div>
 
@@ -59,6 +59,30 @@ Excellence in financial advisory is built on daily commitment to clients in good
 
 ### 4. Continuous Crorepati Agent Award (கோடீஸ்வர முகவர் விருது)
 - Consistently achieved and received the coveted **Crorepati Advisor Award** from the start of advisory operations to date.
+
+<div class="photo-gallery-grid cols-2" style="margin: 36px 0;">
+  <div class="gallery-item-card">
+    <div class="gallery-thumb-wrap" style="height: 250px;">
+      <img src="/images/awards/lugi-thanjavur-trophy.jpg" alt="LUGI Thanjavur Division Trophy Presentation" />
+      <span class="gallery-thumb-tag">Division Felicitation</span>
+    </div>
+    <div class="gallery-caption">
+      <h5>LUGI Thanjavur Division Trophy</h5>
+      <p>Senior LIC division officials and guild leadership presenting trophy to Mr. PR. Prabhakaran.</p>
+    </div>
+  </div>
+
+  <div class="gallery-item-card">
+    <div class="gallery-thumb-wrap" style="height: 250px;">
+      <img src="/images/awards/grand-stage-trophy-presentation.jpg" alt="Grand Stage Trophy Presentation" />
+      <span class="gallery-thumb-tag">Stage Honors</span>
+    </div>
+    <div class="gallery-caption">
+      <h5>Grand Stage Trophy Presentation</h5>
+      <p>Conferred prestigious stage honors in recognition of multi-year advisory leadership.</p>
+    </div>
+  </div>
+</div>
 
 <div class="cta-box" style="margin-top: 50px;">
   <h3 style="color: #ffffff; margin-top: 0; font-size: 1.5rem;">Work with Karur &amp; Thanjavur's Top Advisory Team</h3>

@@ -13,12 +13,12 @@ description: MRP Associates awarded the Best Financial Advisory Firm of the Year
 
 <div class="content-section">
 
-<div style="border-radius: 16px; overflow: hidden; box-shadow: 0 16px 36px -6px rgba(15, 23, 42, 0.15); margin-bottom: 36px; height: 380px; position: relative; background: url('https://images.unsplash.com/photo-1511578314322-379afb476865?w=1600&q=80') center/cover no-repeat;">
+<div style="border-radius: 16px; overflow: hidden; box-shadow: 0 16px 36px -6px rgba(15, 23, 42, 0.15); margin-bottom: 36px; height: 420px; position: relative; background: url('/images/awards/grand-stage-trophy-presentation.jpg') center/cover no-repeat;">
 <div style="position: absolute; inset: 0; background: linear-gradient(180deg, rgba(7,13,30,0.1) 0%, rgba(7,13,30,0.85) 100%);"></div>
 <div style="position: absolute; bottom: 24px; left: 24px; right: 24px; color: #fff;">
 <span style="background: #2563eb; color: #fff; padding: 4px 12px; border-radius: 20px; font-size: 12px; font-weight: 700; text-transform: uppercase;">Excellence in Fiduciary Advisory</span>
 <h2 style="color: #fff; margin: 8px 0 4px; font-size: 1.8rem;">South India Wealth Leadership Conclave 2025</h2>
-<p style="margin: 0; color: #cbd5e1; font-size: 13.5px;"><i class="fas fa-location-dot"></i> Grand Chola, Chennai • December 14, 2025</p>
+<p style="margin: 0; color: #cbd5e1; font-size: 13.5px;"><i class="fas fa-location-dot"></i> Grand Stage Felicitation • Chennai &amp; Tamil Nadu</p>
 </div>
 </div>
 

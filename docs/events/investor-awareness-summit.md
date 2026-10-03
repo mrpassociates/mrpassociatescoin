@@ -13,12 +13,12 @@ description: Highlights from the Grand Investor Awareness & Financial Literacy S
 
 <div class="content-section">
 
-<div style="border-radius: 16px; overflow: hidden; box-shadow: 0 16px 36px -6px rgba(15, 23, 42, 0.15); margin-bottom: 36px; height: 380px; position: relative; background: url('https://images.unsplash.com/photo-1475721027785-f74eccf877e2?w=1600&q=80') center/cover no-repeat;">
+<div style="border-radius: 16px; overflow: hidden; box-shadow: 0 16px 36px -6px rgba(15, 23, 42, 0.15); margin-bottom: 36px; height: 420px; position: relative; background: url('/images/events/lugi-marriott-kochi-convention.jpg') center/cover no-repeat;">
 <div style="position: absolute; inset: 0; background: linear-gradient(180deg, rgba(7,13,30,0.1) 0%, rgba(7,13,30,0.85) 100%);"></div>
 <div style="position: absolute; bottom: 24px; left: 24px; right: 24px; color: #fff;">
 <span style="background: #10b981; color: #fff; padding: 4px 12px; border-radius: 20px; font-size: 12px; font-weight: 700; text-transform: uppercase;">Community Literacy Initiative</span>
 <h2 style="color: #fff; margin: 8px 0 4px; font-size: 1.8rem;">Empowering Investors for Financial Independence</h2>
-<p style="margin: 0; color: #cbd5e1; font-size: 13.5px;"><i class="fas fa-location-dot"></i> Karur City Convention Hall • November 18, 2025</p>
+<p style="margin: 0; color: #cbd5e1; font-size: 13.5px;"><i class="fas fa-location-dot"></i> Investor Awareness &amp; Guild Convention • Tamil Nadu</p>
 </div>
 </div>
 
@@ -64,6 +64,21 @@ The most celebrated portion of the summit was the 90-minute open-floor Q&amp;A s
 Every attendee received a complimentary **"Financial Independence Blueprint Kit"** prepared by MRP Associates, detailing asset allocation guidelines and personal emergency fund calculators.
 
 ## Photo Highlights &amp; Attendee Feedback
+
+<div class="photo-showcase-card">
+  <div class="showcase-media">
+    <img src="/images/events/seminar-training-recognition.jpg" alt="Investor Masterclass & Training Recognition" />
+    <span class="media-badge"><i class="fas fa-chalkboard-user"></i> Masterclass</span>
+  </div>
+  <div class="showcase-body">
+    <h4>Investor Masterclass &amp; Financial Education Workshop</h4>
+    <p>Mr. PR. Prabhakaran receiving recognition during advanced investor training workshops dedicated to fostering grassroots financial literacy.</p>
+    <div class="showcase-meta">
+      <span><i class="fas fa-users text-blue"></i> 500+ Attendees</span>
+      <span><i class="fas fa-graduation-cap text-gold"></i> Financial Literacy Drive</span>
+    </div>
+  </div>
+</div>
 
 <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 16px; padding: 24px; margin: 30px 0;" class="feedback-card">
 <h4 style="margin-top: 0; color: #1e293b; font-size: 1.15rem;"><i class="fas fa-comment-dots" style="color: #2563eb;"></i> What Participants Said</h4>
