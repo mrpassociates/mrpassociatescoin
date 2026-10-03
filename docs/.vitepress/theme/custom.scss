@@ -149,6 +149,59 @@ h1, h2, h3, h4, h5, h6 {
   overflow-x: hidden;
 }
 
+// ===== FULL-WIDTH DOCUMENT PAGES & HIDE ASIDE / "ON THIS PAGE" OUTLINE =====
+.aside,
+.VPDocAside,
+.aside-container,
+.aside-curtain,
+.VPLocalNav,
+.VPDocAsideOutline {
+  display: none !important;
+  width: 0 !important;
+  max-width: 0 !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  visibility: hidden !important;
+}
+
+.VPDoc {
+  padding: 0 !important;
+  width: 100% !important;
+  max-width: 100% !important;
+
+  .container {
+    max-width: 100% !important;
+    width: 100% !important;
+    display: block !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  .content {
+    max-width: 100% !important;
+    width: 100% !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  .content-container {
+    max-width: 100% !important;
+    width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  .main {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+
+  .vp-doc {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+}
+
 // Global Section Containers
 .section {
   padding: 80px 24px;
@@ -1481,9 +1534,10 @@ h1, h2, h3, h4, h5, h6 {
 
 // Content Section for Inner Docs Pages
 .content-section {
-  max-width: 1040px;
+  max-width: 1320px;
+  width: 100%;
   margin: 0 auto;
-  padding: 50px 24px 80px;
+  padding: 50px 32px 80px;
 
   @media (max-width: 768px) {
     padding: 30px 16px 60px;
@@ -1710,9 +1764,10 @@ h1, h2, h3, h4, h5, h6 {
 
 // ===== CALCULATOR PAGES STYLES =====
 .calculator-page {
-  max-width: 880px;
+  max-width: 1280px;
+  width: 100%;
   margin: 0 auto;
-  padding: 40px 20px 80px;
+  padding: 40px 24px 80px;
 }
 
 .calculator-container {
@@ -1970,9 +2025,10 @@ h1, h2, h3, h4, h5, h6 {
 
 // ===== CONTACT PAGE =====
 .contact-page {
-  max-width: 1100px;
+  max-width: 1280px;
+  width: 100%;
   margin: 0 auto;
-  padding: 40px 20px 80px;
+  padding: 40px 24px 80px;
 }
 
 .contact-cards {
