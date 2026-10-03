@@ -91,6 +91,32 @@ const resumeSlider = () => {
   isSliderPaused.value = false
 }
 
+// Mobile Touch Swipe Handling
+let touchStartX = 0
+let touchEndX = 0
+
+const handleTouchStart = (e) => {
+  if (e.changedTouches && e.changedTouches.length > 0) {
+    touchStartX = e.changedTouches[0].clientX
+    pauseSlider()
+  }
+}
+
+const handleTouchEnd = (e) => {
+  if (e.changedTouches && e.changedTouches.length > 0) {
+    touchEndX = e.changedTouches[0].clientX
+    const diff = touchStartX - touchEndX
+    if (Math.abs(diff) > 40) {
+      if (diff > 0) {
+        nextEventSlide()
+      } else {
+        prevEventSlide()
+      }
+    }
+    resumeSlider()
+  }
+}
+
 onMounted(() => {
   sliderInterval = setInterval(() => {
     if (!isSliderPaused.value) {
@@ -141,6 +167,8 @@ const formatCurrency = (val) => {
 class="events-hero-slider"
 @mouseenter="pauseSlider"
 @mouseleave="resumeSlider"
+@touchstart.passive="handleTouchStart"
+@touchend="handleTouchEnd"
 >
 <div 
 class="events-slides-track" 
