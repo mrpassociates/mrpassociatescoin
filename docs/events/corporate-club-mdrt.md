@@ -61,7 +61,32 @@ Complementing this national honor is the international **Court of the Table (COT
 - *LIC -யின் உயரிய விருதான Galaxy Club Member Award -யை 2019-ல் பெறத்தொடங்கினோம்.*
 - Precursor elite membership demonstrating consistent multi-year high-volume client onboarding and policy servicing excellence across Karur and Tamil Nadu.
 
+### 4. Early Bird MDRT-2024 (Karur Unit 2)
+- Achieved **Early Bird MDRT-2024** qualification ahead of schedule on **March 31, 2023** under the leadership and mentorship of Development Officer **Mr. M. Karnan (DO)** at LIC Karur Unit 2.
+
 <div class="photo-gallery-grid cols-2" style="margin: 36px 0;">
+  <div class="gallery-item-card">
+    <div class="gallery-thumb-wrap" style="height: 250px;">
+      <img src="/images/awards/lic-75-road-ahead-stage-award.jpg" alt="LIC @ 75 The Road Ahead Felicitation" />
+      <span class="gallery-thumb-tag">LIC @ 75 Milestone</span>
+    </div>
+    <div class="gallery-caption">
+      <h5>LIC @ 75 "The Road Ahead" Felicitation</h5>
+      <p>Traditional turban and shawl stage honor presented by executive leadership for corporate-tier performance.</p>
+    </div>
+  </div>
+
+  <div class="gallery-item-card">
+    <div class="gallery-thumb-wrap" style="height: 250px;">
+      <img src="/images/events/lic-galaxy-club-sammelan.jpg" alt="LIC 5th Galaxy Club Sammelan" />
+      <span class="gallery-thumb-tag">Galaxy Club Convention</span>
+    </div>
+    <div class="gallery-caption">
+      <h5>LIC 5th Galaxy Club Sammelan</h5>
+      <p>Mr. P.R. Prabhakaran representing the branch at the national Galaxy Club Sammelan convention.</p>
+    </div>
+  </div>
+
   <div class="gallery-item-card">
     <div class="gallery-thumb-wrap" style="height: 250px;">
       <img src="/images/awards/presidents-club-stage-award.jpg" alt="President's Club Award Presentation" />

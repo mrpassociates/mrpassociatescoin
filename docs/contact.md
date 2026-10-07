@@ -42,8 +42,12 @@ const sendToWhatsApp = () => {
 <i class="fas fa-phone-volume"></i>
 </div>
 <h3>Call Directly</h3>
-<p>Speak to our senior advisor</p>
-<p style="margin-top: 8px;"><a href="tel:+919443339889" style="font-weight: 700; color: #2563eb; text-decoration: none;">+91 94433 39889</a></p>
+<p>Speak to our senior advisors</p>
+<p style="margin-top: 8px;">
+  <a href="tel:+919443339889" style="font-weight: 700; color: #2563eb; text-decoration: none;">+91 94433 39889</a><br>
+  <a href="tel:+918072074278" style="font-size: 13.5px; font-weight: 600; color: #475569; text-decoration: none;">+91 80720 74278</a>
+</p>
+<p style="margin-top: 4px; font-size: 11.5px; color: #64748b;">Office: 94875 57689 • 98433 89889</p>
 </div>
 
 <div class="contact-card">
@@ -53,6 +57,7 @@ const sendToWhatsApp = () => {
 <h3>Instant WhatsApp</h3>
 <p>Quick chat &amp; quote queries</p>
 <p style="margin-top: 8px;"><a href="https://wa.me/919443339889?text=Hello%20MRP%20Associates,%20I%20would%20like%20to%20inquire%20about%20your%20services." target="_blank" rel="noopener" style="font-weight: 700; color: #059669; text-decoration: none;">Chat on WhatsApp →</a></p>
+<p style="margin-top: 4px; font-size: 11.5px; color: #64748b;">Direct response from founder &amp; team</p>
 </div>
 
 <div class="contact-card">
@@ -61,7 +66,8 @@ const sendToWhatsApp = () => {
 </div>
 <h3>Email Inquiries</h3>
 <p>Send documentation &amp; questions</p>
-<p style="margin-top: 8px;"><a href="mailto:contact@mrpassociates.co.in" style="font-weight: 700; color: #0284c7; text-decoration: none; word-break: break-all;">contact@mrpassociates.co.in</a></p>
+<p style="margin-top: 8px;"><a href="mailto:mrpassociateskarur@gmail.com" style="font-weight: 700; color: #0284c7; text-decoration: none; word-break: break-all;">mrpassociateskarur@gmail.com</a></p>
+<p style="margin-top: 4px; font-size: 11.5px; color: #64748b;">Alt: contact@mrpassociates.co.in</p>
 </div>
 
 <div class="contact-card">
@@ -69,7 +75,7 @@ const sendToWhatsApp = () => {
 <i class="fas fa-location-dot"></i>
 </div>
 <h3>Office Location</h3>
-<p>123 Near Bus Stand, Karur<br>Tamil Nadu 639001</p>
+<p>No. 4, SR Complex (Near Uzhavar Sandhai / Police Station), Karur - 639 001</p>
 <p style="margin-top: 8px; font-size: 12px; color: #64748b;">Mon - Sat: 9:30 AM - 7:00 PM</p>
 </div>
 </div>
@@ -180,18 +186,57 @@ style="width: 100%; justify-content: center; cursor: pointer; border: none; padd
 <!-- Office & Advisory Headquarters Card -->
 <div class="photo-showcase-card" style="margin: 40px 0 30px;">
   <div class="showcase-media">
-    <img src="/images/office/mrp-office-trophies-team.jpg" alt="MRP Associates Head Office in Karur - Wall of Honors & Dedicated Team" />
+    <img src="/images/office/office-team-workstations.jpg" alt="MRP Associates Head Office in Karur - Workstations & Team" />
     <span class="media-badge"><i class="fas fa-building"></i> Karur Headquarters</span>
   </div>
   <div class="showcase-body">
     <h4>Welcome to MRP Associates — 22+ Years in Service of the People</h4>
     <p>
-      Visit our advisory office located conveniently near the Central Bus Stand in Karur. Walk in to meet Chief Advisor Mr. PR. Prabhakaran and our dedicated team for policy servicing, portfolio checkups, loan documentation, or claim filing assistance.
+      Visit our advisory office located at <strong>No. 4, SR Complex (Near Uzhavar Sandhai / Police Station), Karur - 639 001</strong>. Meet Chief Advisor Mr. P.R. Prabhakaran and our dedicated advisory team for comprehensive financial planning, policy servicing, portfolio checkups, loan processing, or emergency claim filing assistance.
     </p>
     <div class="showcase-meta">
       <span><i class="fas fa-trophy text-gold"></i> 100+ Honors &amp; Awards Wall</span>
       <span><i class="fas fa-clock text-blue"></i> Mon - Sat: 9:30 AM – 7:00 PM</span>
-      <span><i class="fas fa-phone-alt text-emerald"></i> +91 94433 39889</span>
+      <span><i class="fas fa-phone-alt text-emerald"></i> +91 94433 39889 / 80720 74278</span>
+    </div>
+  </div>
+</div>
+
+<!-- Authentic Office Facilities & Consultation Gallery -->
+<h2 style="font-size: 1.5rem; font-weight: 800; margin: 35px 0 16px;">Our Karur Advisory Premises</h2>
+<p style="color: #64748b; margin-bottom: 24px;">Equipped with dedicated consultation cabins, modern document processing workstations, and welcoming client facilities.</p>
+
+<div class="photo-gallery-grid cols-3" style="margin-bottom: 40px;">
+  <div class="gallery-item-card">
+    <div class="gallery-thumb-wrap">
+      <img src="/images/office/client-consultation-desk.jpg" alt="Client Advisory Desk with Founder" />
+      <span class="gallery-thumb-tag">Advisory Desk</span>
+    </div>
+    <div class="gallery-caption">
+      <h5>One-on-One Client Consultation</h5>
+      <p>Personalized portfolio review and retirement planning directly with Chief Advisor Mr. P.R. Prabhakaran.</p>
+    </div>
+  </div>
+
+  <div class="gallery-item-card">
+    <div class="gallery-thumb-wrap">
+      <img src="/images/office/executive-cabin.jpg" alt="Executive Advisory Cabin" />
+      <span class="gallery-thumb-tag">Executive Cabin</span>
+    </div>
+    <div class="gallery-caption">
+      <h5>Executive Consultation Cabin</h5>
+      <p>Quiet, private advisory chambers featuring our comprehensive wall of trophies and credentials.</p>
+    </div>
+  </div>
+
+  <div class="gallery-item-card">
+    <div class="gallery-thumb-wrap">
+      <img src="/images/office/office-client-meeting.jpg" alt="Client Family Advisory Meeting" />
+      <span class="gallery-thumb-tag">Family Advisory</span>
+    </div>
+    <div class="gallery-caption">
+      <h5>Whole-Family Milestone Planning</h5>
+      <p>Consultations for multi-generational wealth preservation, children's marriage, and sovereign guaranteed savings.</p>
     </div>
   </div>
 </div>

@@ -399,21 +399,21 @@ const socialLinks = [
                     <i class="fas fa-location-dot contact-ic"></i>
                     <div>
                       <strong>MRP Associates</strong>
-                      <p>123 Near Bus Stand, Karur,<br>Tamil Nadu 639001, India</p>
+                      <p>No. 4, SR Complex (Near Uzhavar Sandhai / Police Station), Karur - 639 001, Tamil Nadu</p>
                     </div>
                   </div>
                   <div class="footer-contact-item">
                     <i class="fas fa-phone-volume contact-ic"></i>
                     <div>
                       <strong>Call Directly</strong>
-                      <p><a href="tel:+919443339889">+91 94433 39889</a></p>
+                      <p><a href="tel:+919443339889">+91 94433 39889</a> / <a href="tel:+918072074278">+91 80720 74278</a></p>
                     </div>
                   </div>
                   <div class="footer-contact-item">
                     <i class="far fa-envelope contact-ic"></i>
                     <div>
                       <strong>Email Support</strong>
-                      <p><a href="mailto:contact@mrpassociates.co.in">contact@mrpassociates.co.in</a></p>
+                      <p><a href="mailto:mrpassociateskarur@gmail.com">mrpassociateskarur@gmail.com</a></p>
                     </div>
                   </div>
                   <div class="footer-contact-item">

@@ -156,12 +156,78 @@ View Founder Credentials <i class="fas fa-arrow-right"></i>
 <div class="photo-gallery-grid cols-3" style="margin-bottom: 50px;">
   <div class="gallery-item-card">
     <div class="gallery-thumb-wrap">
+      <img src="/images/events/mdrt-global-india-delegates.jpg" alt="MDRT Global Conference Indian Delegates" />
+      <span class="gallery-thumb-tag">MDRT Global</span>
+    </div>
+    <div class="gallery-caption">
+      <h5>MDRT Global India Delegation</h5>
+      <p>Mr. P.R. Prabhakaran proudly holding the Indian National Flag at the MDRT Global Conference hall.</p>
+    </div>
+  </div>
+
+  <div class="gallery-item-card">
+    <div class="gallery-thumb-wrap">
+      <img src="/images/events/dr-sanjay-tolani-mdrt.jpg" alt="With Dr Sanjay Tolani at MDRT" />
+      <span class="gallery-thumb-tag">Global Masterclass</span>
+    </div>
+    <div class="gallery-caption">
+      <h5>With Dr. Sanjay Tolani (MDRT)</h5>
+      <p>Networking and masterclass sessions with international author &amp; MDRT keynote Dr. Sanjay Tolani.</p>
+    </div>
+  </div>
+
+  <div class="gallery-item-card">
+    <div class="gallery-thumb-wrap">
+      <img src="/images/awards/lugi-21st-annual-convention-award.jpg" alt="LUGI Chennai 21st Convention" />
+      <span class="gallery-thumb-tag">LUGI 21st Convention</span>
+    </div>
+    <div class="gallery-caption">
+      <h5>LUGI 21st Convention (Chennai Trade Centre)</h5>
+      <p>Conferred "Exceed Excellence" stage honors at Nandambakkam before national guild delegates.</p>
+    </div>
+  </div>
+
+  <div class="gallery-item-card">
+    <div class="gallery-thumb-wrap">
+      <img src="/images/awards/lic-75-road-ahead-stage-award.jpg" alt="LIC 75 The Road Ahead" />
+      <span class="gallery-thumb-tag">LIC @ 75 Honors</span>
+    </div>
+    <div class="gallery-caption">
+      <h5>LIC @ 75 "The Road Ahead" Award</h5>
+      <p>Traditional turban and shawl stage felicitation by executive leadership for underwriting leadership.</p>
+    </div>
+  </div>
+
+  <div class="gallery-item-card">
+    <div class="gallery-thumb-wrap">
+      <img src="/images/awards/nop-topper-award.jpg" alt="Branch NOP Topper" />
+      <span class="gallery-thumb-tag">NOP Topper</span>
+    </div>
+    <div class="gallery-caption">
+      <h5>Number of Policies (NOP) Topper</h5>
+      <p>Honored with the NOP Topper Trophy for record-setting policy volume across the branch.</p>
+    </div>
+  </div>
+
+  <div class="gallery-item-card">
+    <div class="gallery-thumb-wrap">
+      <img src="/images/events/lic-galaxy-club-sammelan.jpg" alt="LIC 5th Galaxy Club Sammelan" />
+      <span class="gallery-thumb-tag">Galaxy Club</span>
+    </div>
+    <div class="gallery-caption">
+      <h5>LIC 5th Galaxy Club Sammelan</h5>
+      <p>Representing Karur Unit 2 at the elite national Galaxy Club convention.</p>
+    </div>
+  </div>
+
+  <div class="gallery-item-card">
+    <div class="gallery-thumb-wrap">
       <img src="/images/awards/fchfp-chartered-practitioner.jpg" alt="FChFP Regalia" />
       <span class="gallery-thumb-tag">FChFP Regalia</span>
     </div>
     <div class="gallery-caption">
       <h5>Chartered Financial Practitioner Convocation</h5>
-      <p>Mr. PR. Prabhakaran in convocation mortarboard and gown.</p>
+      <p>Mr. P.R. Prabhakaran in convocation mortarboard and gown.</p>
     </div>
   </div>
 
@@ -184,39 +250,6 @@ View Founder Credentials <i class="fas fa-arrow-right"></i>
     <div class="gallery-caption">
       <h5>13th Annual Convention "Stimulate" (Kollam)</h5>
       <p>Senior national financial advisory conclave delegation.</p>
-    </div>
-  </div>
-
-  <div class="gallery-item-card">
-    <div class="gallery-thumb-wrap">
-      <img src="/images/events/seminar-training-recognition.jpg" alt="Seminar & Training Recognition" />
-      <span class="gallery-thumb-tag">Masterclass</span>
-    </div>
-    <div class="gallery-caption">
-      <h5>Professional Training &amp; Seminar Honor</h5>
-      <p>Continuous education in advanced portfolio architecture &amp; estate planning.</p>
-    </div>
-  </div>
-
-  <div class="gallery-item-card">
-    <div class="gallery-thumb-wrap">
-      <img src="/images/office/leadership-shawl-felicitation.jpg" alt="Senior Leadership Shawl Felicitation" />
-      <span class="gallery-thumb-tag">Leadership Shawl</span>
-    </div>
-    <div class="gallery-caption">
-      <h5>Senior Leadership Shawl Felicitation</h5>
-      <p>Honored by senior institutional leadership at office.</p>
-    </div>
-  </div>
-
-  <div class="gallery-item-card">
-    <div class="gallery-thumb-wrap">
-      <img src="/images/events/lugi-leap-awards-2014.jpg" alt="LUGI LEAP Awards 2014" />
-      <span class="gallery-thumb-tag">LEAP 2014</span>
-    </div>
-    <div class="gallery-caption">
-      <h5>LUGI LEAP Awards 2014 Grand Stage</h5>
-      <p>Stage certificate presentation alongside industry veterans.</p>
     </div>
   </div>
 </div>

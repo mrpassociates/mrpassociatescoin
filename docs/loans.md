@@ -16,7 +16,7 @@ description: Low-interest Home Loans, Loans Against Property, Business & MSME Lo
 ## Official Authorised Loan &amp; Mortgage Agent
 
 **MRP Associates** is an authorised loan distributor empanelled with India's premier public banks, private institutions, and housing finance companies:
-- **LIC Housing Finance Ltd (LIC HFL)**
+- **LIC Housing Finance Ltd (LIC HFL)** — *Key Strategic Partner (ROI from 7.15%*)*
 - **State Bank of India (SBI Home Loans)**
 - **Indian Bank**
 - **Canara Bank**
@@ -27,7 +27,7 @@ description: Low-interest Home Loans, Loans Against Property, Business & MSME Lo
 - **Tata Capital**
 - **HDB Financial Services**
 
-With over **22 years of trust**, we provide seamless doorstep documentation, transparent interest comparisons, zero advisory charges, and maximum eligible sanctions.
+With over **22 years of trust**, Chief Advisor **Mr. P.R. Prabhakaran (Prabhu @ P.R. Prabhaakaran)** and our dedicated loan desk provide end-to-end guidance from document collection to disbursement with zero advisory fees.
 
 <div class="hero-trust-row" style="margin: 24px 0 36px; border-bottom: 1px solid rgba(226, 232, 240, 0.8); padding-bottom: 20px;">
   <div class="trust-metric-item">
@@ -35,8 +35,8 @@ With over **22 years of trust**, we provide seamless doorstep documentation, tra
     <span class="metric-lbl">Authorised Lenders</span>
   </div>
   <div class="trust-metric-item">
-    <span class="metric-val">8.35%</span>
-    <span class="metric-lbl">Starting ROI</span>
+    <span class="metric-val">7.15%*</span>
+    <span class="metric-lbl">Starting ROI (LIC HFL)</span>
   </div>
   <div class="trust-metric-item">
     <span class="metric-val">₹0</span>
@@ -48,12 +48,45 @@ With over **22 years of trust**, we provide seamless doorstep documentation, tra
   </div>
 </div>
 
+<!-- LIC HFL Consultant Spotlight Box -->
+<div class="photo-showcase-card" style="margin-bottom: 35px; border-left: 5px solid #2563eb;">
+  <div class="showcase-body" style="padding: 24px;">
+    <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px; margin-bottom: 12px;">
+      <h4 style="margin: 0; font-size: 1.3rem; color: #1e3a8a;"><i class="fas fa-house-chimney text-blue"></i> LIC Housing Finance Ltd (LIC HFL) Solutions</h4>
+      <span class="pill-badge" style="background: #2563eb; color: #fff; margin: 0; border: none; font-size: 12px;">ROI Starts from 7.15%*</span>
+    </div>
+    <p style="margin-bottom: 16px; color: #334155; font-size: 14.5px;">
+      Turning your dream home into reality with India's most trusted housing finance corporation. We provide dedicated assistance for:
+    </p>
+    <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px;">
+      <div style="background: #f8fafc; padding: 12px; border-radius: 8px; border: 1px solid #e2e8f0;">
+        <strong style="font-size: 13.5px; color: #0f172a;"><i class="fas fa-home" style="color: #2563eb;"></i> Home Purchase</strong>
+        <p style="margin: 4px 0 0; font-size: 12px; color: #64748b;">Ready-to-move flats &amp; independent villas</p>
+      </div>
+      <div style="background: #f8fafc; padding: 12px; border-radius: 8px; border: 1px solid #e2e8f0;">
+        <strong style="font-size: 13.5px; color: #0f172a;"><i class="fas fa-trowel-bricks" style="color: #10b981;"></i> Home Construction</strong>
+        <p style="margin: 4px 0 0; font-size: 12px; color: #64748b;">Financing construction on owned plots</p>
+      </div>
+      <div style="background: #f8fafc; padding: 12px; border-radius: 8px; border: 1px solid #e2e8f0;">
+        <strong style="font-size: 13.5px; color: #0f172a;"><i class="fas fa-paint-roller" style="color: #f59e0b;"></i> Renovation &amp; Extension</strong>
+        <p style="margin: 4px 0 0; font-size: 12px; color: #64748b;">Upgrading, extending, or modernizing</p>
+      </div>
+    </div>
+    <div style="margin-top: 14px; font-size: 13px; color: #475569; display: flex; gap: 20px; flex-wrap: wrap;">
+      <span><i class="fas fa-check-circle" style="color: #10b981;"></i> Minimum Documentation</span>
+      <span><i class="fas fa-check-circle" style="color: #10b981;"></i> Fast Track Approvals</span>
+      <span><i class="fas fa-check-circle" style="color: #10b981;"></i> Flexible EMI Options</span>
+      <span><i class="fas fa-phone-alt" style="color: #2563eb;"></i> Consultant: 944 333 9889 / 80720 74278</span>
+    </div>
+  </div>
+</div>
+
 ## Specialized Loan Solutions We Provide
 
 <div class="insurance-types">
   <div class="insurance-type-card" style="border-left-color: #2563eb;">
     <h4>Home Loans (Purchase &amp; Construction)</h4>
-    <p>Attractive floating rates starting from 8.35% p.a., loan tenure up to 30 years, balance transfer facilities, and top-up loan options for home extensions.</p>
+    <p>Attractive floating rates starting from 7.15%* p.a. (LIC HFL), loan tenure up to 30 years, balance transfer facilities, and top-up loan options for home extensions.</p>
   </div>
   <div class="insurance-type-card" style="border-left-color: #10b981;">
     <h4>Loan Against Property (LAP)</h4>

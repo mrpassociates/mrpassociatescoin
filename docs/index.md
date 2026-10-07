@@ -29,8 +29,8 @@ const eventSlides = [
     tag: 'Global Standard',
     tagIcon: 'fa-globe',
     dateLoc: '2007 – Present • MDRT USA',
-    image: '/images/awards/lugi-leap-certificate-stage.jpg',
-    bgPos: 'center 20%',
+    image: '/images/events/mdrt-global-india-delegates.jpg',
+    bgPos: 'center 35%',
     link: '/events/17-years-mdrt-qualifier',
     btnText: 'View 17-Year Journey'
   },
@@ -290,17 +290,19 @@ Proudly serving over 2,500 valued families and business owners across Tamil Nadu
 <section class="section" style="padding-top: 20px; padding-bottom: 20px;">
   <div class="founder-spotlight-card">
     <div class="founder-photo-col">
-      <img src="/images/office/mr-pr-prabhakaran-portrait.jpg" alt="Mr. PR. Prabhakaran - Founder & Chief Financial Advisor" />
+      <img src="/images/office/founder-mdrt-delegate.jpg" alt="Mr. P.R. Prabhakaran - Founder & Chief Financial Advisor" />
       <span class="founder-badge-overlay"><i class="fas fa-crown"></i> 22+ Yrs Service</span>
     </div>
     <div class="founder-info-col">
       <span class="founder-role">Founder &amp; Chief Financial Advisor</span>
-      <h3>Mr. PR. Prabhakaran, <span style="font-size: 1.2rem; color: #2563eb; font-weight: 700;">FChFP</span></h3>
+      <h3>Mr. P.R. Prabhakaran <span style="font-size: 0.95rem; color: #64748b; font-weight: 500;">(Prabhu @ P.R. Prabhaakaran)</span>, <span style="font-size: 1.2rem; color: #2563eb; font-weight: 700;">B.Com., FChFP, AMFI</span></h3>
       <div class="founder-designations">
         <span class="desig-pill"><i class="fas fa-graduation-cap"></i> FChFP Chartered Practitioner</span>
+        <span class="desig-pill"><i class="fas fa-certificate"></i> AMFI Certified Mutual Fund Advisor</span>
         <span class="desig-pill"><i class="fas fa-globe"></i> 17-Yr MDRT (USA) Qualifier</span>
+        <span class="desig-pill"><i class="fas fa-table-cells"></i> 3-Yr MDRT COT</span>
         <span class="desig-pill"><i class="fas fa-crown"></i> LIC Corporate Club</span>
-        <span class="desig-pill"><i class="fas fa-heart-pulse"></i> Star Health ED Club</span>
+        <span class="desig-pill"><i class="fas fa-star"></i> Galaxy Club Member</span>
       </div>
       <p>
         "For over two decades in Karur and across Tamil Nadu, our sacred mission has been simple: to guide families toward genuine financial security, protect their health against unexpected burdens, and compound wealth across generations with unshakeable fiduciary ethics."

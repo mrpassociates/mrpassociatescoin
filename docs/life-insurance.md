@@ -112,32 +112,107 @@ We specialize in tailor-made protection packages covering:
   </div>
 </div>
 
-## Key Benefits of Securing a Plan With Us
+## The "10-Minute Policy Review" Protocol
+
+Financial planning is never a one-time transaction; it is an evolving life partnership. At MRP Associates, we implement our structured **10-Minute Policy Review** (*10 நிமிட பாலிசி ஆய்வு*) for all client families annually:
+
+<div class="photo-showcase-card" style="margin: 30px 0;">
+  <div class="showcase-media">
+    <img src="/images/office/ten-minute-policy-review.jpg" alt="10-Minute Policy Review Protocol - MRP Associates" />
+    <span class="media-badge"><i class="fas fa-stopwatch"></i> Diagnostic Review</span>
+  </div>
+  <div class="showcase-body">
+    <h4>5 Essential Diagnostic Questions We Ask</h4>
+    <p>We do not push new plans for the sake of sales. Our advisory begins with discovering genuine life changes:</p>
+    <div class="features-list" style="margin-top: 15px;">
+      <div class="feature-item" style="padding: 10px 14px; margin-bottom: 8px;">
+        <div><strong>1. Has your household income increased?</strong> (Ensures coverage scales with your rising standard of living)</div>
+      </div>
+      <div class="feature-item" style="padding: 10px 14px; margin-bottom: 8px;">
+        <div><strong>2. Have your loans or liabilities changed?</strong> (Protects against newly acquired home, vehicle, or business loans)</div>
+      </div>
+      <div class="feature-item" style="padding: 10px 14px; margin-bottom: 8px;">
+        <div><strong>3. Have family responsibilities expanded?</strong> (Accounts for newborns, aging parents, or dependent family members)</div>
+      </div>
+      <div class="feature-item" style="padding: 10px 14px; margin-bottom: 8px;">
+        <div><strong>4. Have children's education milestones changed?</strong> (Recalibrates target corpus against real college fee inflation)</div>
+      </div>
+      <div class="feature-item" style="padding: 10px 14px;">
+        <div><strong>5. Is your existing life cover still adequate?</strong> (Checks if human life value matches current lifestyle expenses)</div>
+      </div>
+    </div>
+    <p style="margin-top: 16px; font-size: 13.5px; color: #475569; font-style: italic; border-left: 3px solid #2563eb; padding-left: 12px;">
+      "A professional insurance advisor does not create a need for a product; he discovers a need that already exists. Don't begin with: 'I have a new plan.' Begin with: 'Has anything changed in your financial life since we last reviewed your protection?'"
+    </p>
+  </div>
+</div>
+
+## Married Women's Property Act (MWPA 1874) Protection
+
+For business owners, entrepreneurs, and salaried professionals with commercial liabilities, safeguarding family wealth from future business risks is vital. Under **Section 6 of the Married Women's Property Act, 1874 (MWPA)**:
+
+<div class="features-list" style="margin: 24px 0 32px;">
+  <div class="feature-item" style="border-left: 5px solid #8b5cf6;">
+    <div class="feature-icon" style="color: #8b5cf6;"><i class="fas fa-scale-balanced"></i></div>
+    <div>
+      <h4>Absolute Immunity from Court Attachment</h4>
+      <p>Policies endorsed under MWPA create an irrevocable legal trust for the sole benefit of the policyholder's wife and children. Under Indian law, the policy proceeds **cannot be attached by any civil court, commercial creditor, debt recovery tribunal, or tax authority**.</p>
+    </div>
+  </div>
+
+  <div class="feature-item" style="border-left: 5px solid #10b981;">
+    <div class="feature-icon" style="color: #10b981;"><i class="fas fa-lock"></i></div>
+    <div>
+      <h4>Ring-Fenced Family Estate</h4>
+      <p>Even in the event of personal bankruptcy, business liquidation, or sudden debt distress, the insurance death benefit or maturity proceeds are disbursed **100% exclusively to the wife and children**, completely free from commercial encumbrance.</p>
+    </div>
+  </div>
+</div>
+
+## 10 Core Pillars of Securing a Plan with MRP Associates
+
+Every policy structured by Chief Advisor Mr. P.R. Prabhakaran adheres to these 10 fiduciary standards:
 
 <ul class="benefits-list">
   <li>
     <span class="check"><i class="fas fa-check-circle"></i></span>
-    <span><strong>Guaranteed Income Replacement:</strong> Replaces 10-15x your annual earnings so your dependents never face financial hardship.</span>
+    <span><strong>Create and Save Method:</strong> Creates an immediate full-value financial asset for your dependents on day one, while allowing you to save steadily over time.</span>
   </li>
   <li>
     <span class="check"><i class="fas fa-check-circle"></i></span>
-    <span><strong>Debt &amp; Home Loan Clearance:</strong> Protects your residential assets from bank repossession in unforeseen events.</span>
+    <span><strong>Sovereign Guarantee:</strong> Guaranteed under Section 37 of the LIC Act 1956, backed fully by the Government of India for absolute capital safety.</span>
   </li>
   <li>
     <span class="check"><i class="fas fa-check-circle"></i></span>
-    <span><strong>Tax Deductions Under 80C &amp; 10(10D):</strong> Save up to ₹46,800 annually in taxes while maturity proceeds remain tax-exempt.</span>
+    <span><strong>Emergency Liquidity via Policy Loan:</strong> Quick emergency cash access through official policy loans available after 3 years without breaking the life cover.</span>
   </li>
   <li>
     <span class="check"><i class="fas fa-check-circle"></i></span>
-    <span><strong>Add-on Critical Illness Riders:</strong> Receive immediate lump sum payout on detection of cancer, heart attack, or stroke.</span>
+    <span><strong>Guaranteed Income Replacement:</strong> Replaces 10–15x your annual earnings so your dependents never face financial hardship.</span>
   </li>
   <li>
     <span class="check"><i class="fas fa-check-circle"></i></span>
-    <span><strong>Waiver of Premium (WoP):</strong> Continues policy coverage without paying further premiums in case of accidental disability.</span>
+    <span><strong>Debt &amp; Home Loan Clearance:</strong> Insures residential mortgages against unexpected premature demise.</span>
   </li>
   <li>
     <span class="check"><i class="fas fa-check-circle"></i></span>
-    <span><strong>100% Claim Assistance Guarantee:</strong> We represent the family directly before the insurer for prompt, hassle-free settlement.</span>
+    <span><strong>Tax Benefits Under 80C &amp; 10(10D):</strong> Tax deductions under Section 80C up to ₹1,50,000, and 100% tax-free maturity payouts under Section 10(10D).</span>
+  </li>
+  <li>
+    <span class="check"><i class="fas fa-check-circle"></i></span>
+    <span><strong>Add-on Critical Illness Riders:</strong> Lump-sum payouts upon diagnosis of critical illnesses including cancer, heart disease, or stroke.</span>
+  </li>
+  <li>
+    <span class="check"><i class="fas fa-check-circle"></i></span>
+    <span><strong>Waiver of Premium (WoP):</strong> Waives all future premiums while maintaining full benefits in case of accidental disability.</span>
+  </li>
+  <li>
+    <span class="check"><i class="fas fa-check-circle"></i></span>
+    <span><strong>Saintly Product Philosophy:</strong> Ensuring financial support reaches grieving families directly and promptly during life's toughest moments.</span>
+  </li>
+  <li>
+    <span class="check"><i class="fas fa-check-circle"></i></span>
+    <span><strong>Dedicated Lifetime Support till Maturity:</strong> Comprehensive assistance for address updates, nominee additions, loan sanctions, and maturity claim payouts.</span>
   </li>
 </ul>
 

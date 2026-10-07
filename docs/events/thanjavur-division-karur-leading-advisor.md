@@ -60,7 +60,32 @@ Excellence in financial advisory is built on daily commitment to clients in good
 ### 4. Continuous Crorepati Agent Award (கோடீஸ்வர முகவர் விருது)
 - Consistently achieved and received the coveted **Crorepati Advisor Award** from the start of advisory operations to date.
 
+### 5. Number of Policies (NOP) Topper
+- Consecutively honored as the **Branch NOP Topper** for generating the highest volume of policies and comprehensive family protections in the division.
+
 <div class="photo-gallery-grid cols-2" style="margin: 36px 0;">
+  <div class="gallery-item-card">
+    <div class="gallery-thumb-wrap" style="height: 250px;">
+      <img src="/images/awards/nop-topper-award.jpg" alt="NOP Topper Trophy Presentation" />
+      <span class="gallery-thumb-tag">Branch NOP Topper</span>
+    </div>
+    <div class="gallery-caption">
+      <h5>Number of Policies (NOP) Topper Trophy</h5>
+      <p>Presented on stage with the Number of Policies Topper award by division leadership.</p>
+    </div>
+  </div>
+
+  <div class="gallery-item-card">
+    <div class="gallery-thumb-wrap" style="height: 250px;">
+      <img src="/images/office/lic-model-branch-shawl-felicitation.jpg" alt="LIC Model Branch Karur Unit 2 Felicitation" />
+      <span class="gallery-thumb-tag">Model Branch Honors</span>
+    </div>
+    <div class="gallery-caption">
+      <h5>LIC Karur Unit 2 Model Branch Honors</h5>
+      <p>Ceremonial shawl felicitation at the branch manager's office for record-setting policy servicing.</p>
+    </div>
+  </div>
+
   <div class="gallery-item-card">
     <div class="gallery-thumb-wrap" style="height: 250px;">
       <img src="/images/awards/lugi-thanjavur-trophy.jpg" alt="LUGI Thanjavur Division Trophy Presentation" />
@@ -68,7 +93,7 @@ Excellence in financial advisory is built on daily commitment to clients in good
     </div>
     <div class="gallery-caption">
       <h5>LUGI Thanjavur Division Trophy</h5>
-      <p>Senior LIC division officials and guild leadership presenting trophy to Mr. PR. Prabhakaran.</p>
+      <p>Senior LIC division officials and guild leadership presenting trophy to Mr. P.R. Prabhakaran.</p>
     </div>
   </div>
 

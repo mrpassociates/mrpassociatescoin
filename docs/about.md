@@ -41,20 +41,23 @@ Guided by our belief that true financial prosperity requires tailored planning f
 <!-- Founder Spotlight Card -->
 <div class="founder-spotlight-card" style="margin: 35px 0 45px;">
   <div class="founder-photo-col">
-    <img src="/images/office/mr-pr-prabhakaran-portrait.jpg" alt="Mr. PR. Prabhakaran - Founder & Chief Financial Advisor" />
+    <img src="/images/office/founder-mdrt-delegate.jpg" alt="Mr. P.R. Prabhakaran - Founder & Chief Financial Advisor" />
     <span class="founder-badge-overlay"><i class="fas fa-crown"></i> 22+ Years in Service</span>
   </div>
   <div class="founder-info-col">
     <span class="founder-role">Founder &amp; Chief Wealth Advisor</span>
-    <h3 style="margin: 6px 0 10px;">Mr. PR. Prabhakaran, <span style="font-size: 1.25rem; color: #2563eb; font-weight: 700;">FChFP</span></h3>
+    <h3 style="margin: 6px 0 10px;">Mr. P.R. Prabhakaran <span style="font-size: 1rem; color: #64748b; font-weight: 500;">(Prabhu @ P.R. Prabhaakaran)</span>, <span style="font-size: 1.25rem; color: #2563eb; font-weight: 700;">B.Com., FChFP, AMFI</span></h3>
     <div class="founder-designations">
       <span class="desig-pill"><i class="fas fa-graduation-cap"></i> FChFP Chartered Practitioner</span>
+      <span class="desig-pill"><i class="fas fa-certificate"></i> AMFI Certified Mutual Fund Advisor</span>
       <span class="desig-pill"><i class="fas fa-globe"></i> 17-Yr MDRT (USA) Qualifier</span>
-      <span class="desig-pill"><i class="fas fa-crown"></i> LIC Corporate Club</span>
+      <span class="desig-pill"><i class="fas fa-table-cells"></i> 3-Yr MDRT Court of the Table (COT)</span>
+      <span class="desig-pill"><i class="fas fa-crown"></i> LIC Corporate Club Member</span>
+      <span class="desig-pill"><i class="fas fa-star"></i> Galaxy Club Member (Since 2019)</span>
       <span class="desig-pill"><i class="fas fa-heart-pulse"></i> Star Health ED Club</span>
     </div>
     <p>
-      Mr. PR. Prabhakaran is one of South India's most accomplished financial advisory leaders. Conferred with the prestigious <strong>FChFP (Fellow Chartered Financial Practitioner)</strong> international designation, he has achieved the premier <strong>Million Dollar Round Table (MDRT, USA)</strong> qualification for 17 consecutive years (including 3 years Court of the Table), LIC's apex <strong>Corporate Club Membership</strong>, and Star Health Insurance's <strong>Executive Director (ED) Club</strong> honors.
+      Mr. P.R. Prabhakaran is one of South India's most accomplished financial advisory leaders. Conferred with the prestigious <strong>FChFP (Fellow Chartered Financial Practitioner)</strong> international designation, <strong>AMFI Certification</strong> for mutual fund advisory, and LIC's apex <strong>Corporate Club Membership</strong>, he has qualified for the premier <strong>Million Dollar Round Table (MDRT, USA)</strong> for 17 consecutive years (including 3 years Court of the Table). In 2023, he emerged as an <strong>Early Bird MDRT-2024 Qualifier</strong> on March 31 under Development Officer Mr. M. Karnan at LIC Karur Unit 2.
     </p>
     <p style="margin: 0; font-size: 13.5px; color: #64748b;">
       <i class="fas fa-quote-left" style="color: #2563eb; margin-right: 6px;"></i>
@@ -179,7 +182,51 @@ In recognition of extraordinary advisory benchmarks, international standards, an
     </div>
     <div class="gallery-caption">
       <h5>LIC Toppers Meet with Zonal Manager (2025)</h5>
-      <p>Mr. PR. Prabhakaran and family receiving top honors from the LIC Zonal Manager and senior division officers at Femina, Trichy.</p>
+      <p>Mr. P.R. Prabhakaran and family receiving top honors from the LIC Zonal Manager and senior division officers at Femina, Trichy.</p>
+    </div>
+  </div>
+
+  <div class="gallery-item-card">
+    <div class="gallery-thumb-wrap" style="height: 260px;">
+      <img src="/images/awards/lugi-21st-annual-convention-award.jpg" alt="LUGI Chennai 21st Annual Convention Exceed Excellence" />
+      <span class="gallery-thumb-tag">LUGI 21st Convention • Chennai</span>
+    </div>
+    <div class="gallery-caption">
+      <h5>LUGI Chennai 21st Convention "Exceed Excellence"</h5>
+      <p>Conferred prestigious stage award at Chennai Trade Centre Nandambakkam before industry leaders and delegates nationwide.</p>
+    </div>
+  </div>
+
+  <div class="gallery-item-card">
+    <div class="gallery-thumb-wrap" style="height: 260px;">
+      <img src="/images/awards/lic-75-road-ahead-stage-award.jpg" alt="LIC @ 75 The Road Ahead Felicitation" />
+      <span class="gallery-thumb-tag">LIC @ 75 Felicitation</span>
+    </div>
+    <div class="gallery-caption">
+      <h5>LIC @ 75 "The Road Ahead" Milestone Award</h5>
+      <p>Ceremonial honor with traditional golden turban and silk shawl presented by senior LIC executives for leadership in life underwriting.</p>
+    </div>
+  </div>
+
+  <div class="gallery-item-card">
+    <div class="gallery-thumb-wrap" style="height: 260px;">
+      <img src="/images/awards/nop-topper-award.jpg" alt="Number of Policies NOP Topper Trophy" />
+      <span class="gallery-thumb-tag">Branch NOP Topper</span>
+    </div>
+    <div class="gallery-caption">
+      <h5>Number of Policies (NOP) Topper Award</h5>
+      <p>Presented with the Number of Policies Topper Trophy on stage in recognition of the highest individual policy mobilization across the branch.</p>
+    </div>
+  </div>
+
+  <div class="gallery-item-card">
+    <div class="gallery-thumb-wrap" style="height: 260px;">
+      <img src="/images/events/lic-galaxy-club-sammelan.jpg" alt="LIC 5th Galaxy Club Sammelan" />
+      <span class="gallery-thumb-tag">Galaxy Club Sammelan</span>
+    </div>
+    <div class="gallery-caption">
+      <h5>LIC 5th Galaxy Club Sammelan Delegate</h5>
+      <p>Mr. P.R. Prabhakaran representing Karur Unit 2 at the national LIC Galaxy Club Sammelan conference.</p>
     </div>
   </div>
 
@@ -213,6 +260,80 @@ In recognition of extraordinary advisory benchmarks, international standards, an
     <div class="gallery-caption">
       <h5>President's Club Grand Stage Felicitation</h5>
       <p>Honored on the grand stage with executive dignitaries in recognition of elite multi-product volume and exemplary client retention.</p>
+    </div>
+  </div>
+</div>
+
+## Advisory Philosophy: The Financial Pyramid (சேமிக்கும் முறை)
+
+At MRP Associates, every financial recommendation is anchored in the **Financial Pyramid Framework** — the time-tested, mathematically sound architecture for family wealth creation. True financial planning cannot be left to speculation or chance (*பகடை உருட்டி சொல்ல முடியாது, அறிவியல் பூர்வமாகத்தான் கண்டறிய முடியும்*).
+
+<div class="photo-showcase-card" style="margin: 30px 0;">
+  <div class="showcase-media">
+    <img src="/images/office/financial-pyramid-framework.jpg" alt="Financial Pyramid Framework - MRP Associates Savings Hierarchy" />
+    <span class="media-badge"><i class="fas fa-layer-group"></i> Advisory Architecture</span>
+  </div>
+  <div class="showcase-body">
+    <h4>The 5 Layers of the Financial Pyramid</h4>
+    <p>A pyramid is the most structurally stable shape known to engineering. In family finance, stability comes from building an unshakeable foundation before chasing volatile returns:</p>
+    <div class="features-list" style="margin-top: 15px;">
+      <div class="feature-item" style="padding: 12px 16px; margin-bottom: 8px;">
+        <div>
+          <strong style="color: #0284c7;">Level 1: Protection (அடிப்படை பாதுகாப்பு)</strong> — Life Insurance, Health Insurance, Critical Illness, and Accidental Disability. Without this foundation, any market gain can be wiped out in a single medical or life emergency.
+        </div>
+      </div>
+      <div class="feature-item" style="padding: 12px 16px; margin-bottom: 8px;">
+        <div>
+          <strong style="color: #059669;">Level 2: Risk-Free Growth (அரசு உத்தரவாத வளர்ச்சி)</strong> — LIC Endowment Plans, Government Bonds, PPF, Post Office Savings, and Bank Fixed Deposits backed by Sovereign Guarantees.
+        </div>
+      </div>
+      <div class="feature-item" style="padding: 12px 16px; margin-bottom: 8px;">
+        <div>
+          <strong style="color: #d97706;">Level 3: Growth with Managed Risk (வளர்ச்சி முதலீடுகள்)</strong> — Mutual Fund SIPs, ULIPs, Index Equities, Gold, and Precious Metals for beating inflation over 5–15 year horizons.
+        </div>
+      </div>
+      <div class="feature-item" style="padding: 12px 16px; margin-bottom: 8px;">
+        <div>
+          <strong style="color: #ea580c;">Level 4: High Growth (அதிவேக வளர்ச்சி)</strong> — Real Estate, Property Assets, Venture Capital, and Direct Business Expansion.
+        </div>
+      </div>
+      <div class="feature-item" style="padding: 12px 16px;">
+        <div>
+          <strong style="color: #dc2626;">Level 5: Speculation (அபாய முதலீடுகள்)</strong> — F&amp;O, Intraday Trading, Swaps, and Derivatives (only with surplus discretionary capital, never with core family savings).
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+## The Map of Life Framework (வாழ்க்கை வரைபடம்)
+
+Our proprietary **Map of Life** (*Plan Today • Secure Tomorrow • Build a Better Life*) categorizes human existence into 4 distinct phases, matching financial instruments to each age bracket:
+
+<div class="photo-showcase-card" style="margin: 30px 0;">
+  <div class="showcase-media">
+    <img src="/images/office/map-of-life-framework.jpg" alt="Map of Life 4 Stages - MRP Associates" />
+    <span class="media-badge"><i class="fas fa-route"></i> Life Milestones</span>
+  </div>
+  <div class="showcase-body">
+    <h4>4 Key Stages of the Human Financial Journey</h4>
+    <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; margin-top: 15px;">
+      <div style="background: #eff6ff; padding: 14px; border-radius: 10px; border-left: 4px solid #2563eb;">
+        <strong style="color: #1e40af; font-size: 14px;">1. Childhood (Age 0–20)</strong>
+        <p style="margin: 6px 0 0; font-size: 13px; color: #475569;">Supported by parents. Foundation years focused on child education funding, health protection, and habit formation.</p>
+      </div>
+      <div style="background: #ecfdf5; padding: 14px; border-radius: 10px; border-left: 4px solid #10b981;">
+        <strong style="color: #065f46; font-size: 14px;">2. Growing Stage (Age 21–40)</strong>
+        <p style="margin: 6px 0 0; font-size: 13px; color: #475569;">Self-decided life. Career takeoff, marriage, home loan acquisition, and launching early disciplined SIP investments.</p>
+      </div>
+      <div style="background: #fffbeb; padding: 14px; border-radius: 10px; border-left: 4px solid #f59e0b;">
+        <strong style="color: #92400e; font-size: 14px;">3. Transforming Stage (Age 41–60)</strong>
+        <p style="margin: 6px 0 0; font-size: 13px; color: #475569;">Self-responsibility life. Home ownership completion, children's higher professional education, and pre-retirement wealth consolidation.</p>
+      </div>
+      <div style="background: #faf5ff; padding: 14px; border-radius: 10px; border-left: 4px solid #8b5cf6;">
+        <strong style="color: #5b21b6; font-size: 14px;">4. Living &amp; Legacy Generation (Age 61–80)</strong>
+        <p style="margin: 6px 0 0; font-size: 13px; color: #475569;">Children's marriage milestones completed. Guaranteed monthly pension inflows, health security, and transferring generational wealth.</p>
+      </div>
     </div>
   </div>
 </div>
@@ -352,16 +473,16 @@ Headquartered centrally in Karur, MRP Associates is driven by an energetic, clie
 
 <div class="photo-showcase-card">
   <div class="showcase-media">
-    <img src="/images/office/mrp-office-trophies-team.jpg" alt="MRP Associates Karur Office Awards Wall and Advisory Team" />
+    <img src="/images/awards/office-trophy-cabinet.jpg" alt="MRP Associates Karur Office Trophy Cabinet and Honor Wall" />
     <span class="media-badge"><i class="fas fa-trophy"></i> Wall of Honors</span>
   </div>
   <div class="showcase-body">
-    <h4>Karur Head Office — Wall of Trophies &amp; Decades of Excellence</h4>
-    <p>Our office walls reflect 22+ continuous years of public service: dozens of state, national, and international citations, LIC branch awards, and MDRT recognitions earned through genuine client care.</p>
+    <h4>Karur Head Office — Grand Trophy Cabinet &amp; Citations</h4>
+    <p>Our office showcases over two decades of peak performance: dozens of division shields, LUGI awards, MDRT medals, and branch topper recognitions earned through transparent fiduciary practice.</p>
     <div class="showcase-meta">
-      <span><i class="fas fa-building text-blue"></i> Head Office, Karur</span>
-      <span><i class="fas fa-users text-gold"></i> Full-Time Advisory Team</span>
-      <span><i class="fas fa-award text-emerald"></i> 100+ Trophies &amp; Citations</span>
+      <span><i class="fas fa-building text-blue"></i> No. 4, SR Complex, Karur</span>
+      <span><i class="fas fa-users text-gold"></i> Dedicated Operations Team</span>
+      <span><i class="fas fa-award text-emerald"></i> 50+ Regional &amp; National Shields</span>
     </div>
   </div>
 </div>
@@ -369,12 +490,45 @@ Headquartered centrally in Karur, MRP Associates is driven by an energetic, clie
 <div class="photo-gallery-grid cols-3" style="margin-top: 24px;">
   <div class="gallery-item-card">
     <div class="gallery-thumb-wrap">
-      <img src="/images/office/milestone-celebration-cake.jpg" alt="Team Milestone Celebration" />
-      <span class="gallery-thumb-tag">Team Culture</span>
+      <img src="/images/office/office-team-workstations.jpg" alt="MRP Associates Workstations & Operations Floor" />
+      <span class="gallery-thumb-tag">Operations Floor</span>
     </div>
     <div class="gallery-caption">
-      <h5>Milestone Cake Cutting</h5>
-      <p>Celebrating annual advisory records and festival milestones with our dedicated office staff and colleagues.</p>
+      <h5>Operations Floor &amp; Client Helpdesk</h5>
+      <p>Modern workstations, cash counter, and digital documentation systems manned by our full-time staff.</p>
+    </div>
+  </div>
+
+  <div class="gallery-item-card">
+    <div class="gallery-thumb-wrap">
+      <img src="/images/office/client-consultation-desk.jpg" alt="Advisory Desk Consultation" />
+      <span class="gallery-thumb-tag">Client Consultation</span>
+    </div>
+    <div class="gallery-caption">
+      <h5>Personalized Wealth Advisory Desk</h5>
+      <p>Consultations with Chief Advisor Mr. P.R. Prabhakaran against our 22-year milestone records.</p>
+    </div>
+  </div>
+
+  <div class="gallery-item-card">
+    <div class="gallery-thumb-wrap">
+      <img src="/images/office/executive-cabin.jpg" alt="Executive Advisory Cabin" />
+      <span class="gallery-thumb-tag">Executive Cabin</span>
+    </div>
+    <div class="gallery-caption">
+      <h5>Executive Consultation Cabin</h5>
+      <p>Private conference room for HNI estate planning, business debt structuring, and confidential portfolio audits.</p>
+    </div>
+  </div>
+
+  <div class="gallery-item-card">
+    <div class="gallery-thumb-wrap">
+      <img src="/images/office/lic-model-branch-shawl-felicitation.jpg" alt="LIC Model Branch Karur Unit 2 Felicitation" />
+      <span class="gallery-thumb-tag">Model Branch Honors</span>
+    </div>
+    <div class="gallery-caption">
+      <h5>LIC Model Branch Felicitation</h5>
+      <p>Felicitation by branch officials at Karur Unit 2 Model Branch in honor of continuous top performance.</p>
     </div>
   </div>
 
@@ -384,19 +538,19 @@ Headquartered centrally in Karur, MRP Associates is driven by an energetic, clie
       <span class="gallery-thumb-tag">Branch Leadership</span>
     </div>
     <div class="gallery-caption">
-      <h5>Golden Shawl Branch Felicitation</h5>
-      <p>Receiving traditional ceremonial shawls and honors from senior branch leaders and development officers.</p>
+      <h5>Ceremonial Shawl Honors</h5>
+      <p>Receiving ceremonial shawls and honors from senior branch development officers and leadership.</p>
     </div>
   </div>
 
   <div class="gallery-item-card">
     <div class="gallery-thumb-wrap">
-      <img src="/images/office/lic-branch-celebration.jpg" alt="LIC Karur Branch Celebration" />
-      <span class="gallery-thumb-tag">LIC Karur Branch</span>
+      <img src="/images/office/milestone-celebration-cake.jpg" alt="Team Milestone Celebration" />
+      <span class="gallery-thumb-tag">Team Culture</span>
     </div>
     <div class="gallery-caption">
-      <h5>LIC Karur II Branch Team Honors</h5>
-      <p>Celebrating leading branch advisor recognition alongside Development Officer Mr. M. Karnan.</p>
+      <h5>Milestone Cake Cutting</h5>
+      <p>Celebrating annual production records, festival milestones, and team achievements together.</p>
     </div>
   </div>
 </div>
