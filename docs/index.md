@@ -13,8 +13,20 @@ const isSliderPaused = ref(false)
 
 const eventSlides = [
   {
+    title: 'LIC 5th Galaxy Club Sammelan Delegate',
+    desc: 'Prabhu @ P.R.Prabhaakaran representing Karur Unit 2 at the elite national LIC Galaxy Club Sammelan conference.',
+    tag: 'Galaxy Club Honor',
+    tagIcon: 'fa-star',
+    dateLoc: 'National Galaxy Club Convention • Karur Unit 2',
+    image: '/images/events/lic-galaxy-club-home-slide.jpg',
+    bgPos: 'center 25%',
+    link: '/events/',
+    btnText: 'Explore Galaxy Club Honor'
+  },
+  {
     title: 'LIC Corporate Club Member & Court of the Table (COT)',
-    desc: 'Conferred with LIC of India\'s pinnacle Corporate Club Membership and MDRT (USA) Court of the Table (COT) for achieving 3x international financial advisory standards.',
+    desc: 'Conferred with LIC of India\'s pinnacle Corporate Club Membership and MDRT (USA) Court of the Table (COT) honors.',
+    highlight: 'COT is 3 Times of MDRT in a Calendar Year',
     tag: 'Pinnacle Achievement',
     tagIcon: 'fa-crown',
     dateLoc: 'Corporate Club • 3-Yr MDRT COT (USA)',
@@ -24,7 +36,7 @@ const eventSlides = [
     btnText: 'Read Corporate Club Story'
   },
   {
-    title: '17 Consecutive Years as MDRT (USA) Global Qualifier',
+    title: 'More than 20 years of MDRT Achievement',
     desc: 'Honored continuously from 2007 to present by the Premier Association of Financial Professionals, USA for world-class client advisory excellence.',
     tag: 'Global Standard',
     tagIcon: 'fa-globe',
@@ -32,10 +44,10 @@ const eventSlides = [
     image: '/images/events/mdrt-global-india-delegates.jpg',
     bgPos: 'center 35%',
     link: '/events/17-years-mdrt-qualifier',
-    btnText: 'View 17-Year Journey'
+    btnText: 'View MDRT Journey'
   },
   {
-    title: 'Thanjavur Division & Karur II Branch Leading Advisor',
+    title: 'Divisional Top Performer and Branch Leading Performing Advisor',
     desc: 'Consecutively awarded Leading Advisor at Karur II Branch since 2010 and Thanjavur Division Leading Advisor from 2020 to present, alongside Crorepati Agent honors.',
     tag: 'Division Leader',
     tagIcon: 'fa-trophy',
@@ -44,6 +56,17 @@ const eventSlides = [
     bgPos: 'center 35%',
     link: '/events/thanjavur-division-karur-leading-advisor',
     btnText: 'Explore Division Accolades'
+  },
+  {
+    title: 'Historic Bima Gramam 2003: Elavanur Drinking Water Initiative',
+    desc: 'Secured 100 life policies in Elavanur village to obtain special LIC village development funds, establishing drinking water infrastructure to save the community during severe drought.',
+    tag: 'Social Impact Landmark',
+    tagIcon: 'fa-hand-holding-droplet',
+    dateLoc: 'Elavanur Village • Karur District',
+    image: '/images/events/bima-gramam-elavanur-ceremony.jpg',
+    bgPos: 'center 20%',
+    link: '/events/bima-gramam-elavanur',
+    btnText: 'Read Historic Village Story'
   },
   {
     title: 'Star Health Executive Director (ED) Club Qualifier',
@@ -55,17 +78,6 @@ const eventSlides = [
     bgPos: 'center 35%',
     link: '/health-insurance',
     btnText: 'Explore Health Insurance'
-  },
-  {
-    title: 'Historic Bima Gramam 2003: Elavanur Drinking Water Initiative',
-    desc: 'Secured 100 life policies in Elavanur village to obtain special LIC village development funds, establishing drinking water infrastructure to save the community during severe drought.',
-    tag: 'Social Impact Landmark',
-    tagIcon: 'fa-hand-holding-droplet',
-    dateLoc: 'Elavanur Village • Karur District',
-    image: '/images/events/milestone-terrace-celebration.jpg',
-    bgPos: 'center 20%',
-    link: '/events/bima-gramam-elavanur',
-    btnText: 'Read Historic Village Story'
   }
 ]
 
@@ -169,7 +181,11 @@ class="event-slide-bg"
 </span>
 </div>
 <h2 class="event-slide-title">{{ slide.title }}</h2>
-<p class="event-slide-desc">{{ slide.desc }}</p>
+<div v-if="slide.highlight" class="event-slide-highlight-callout">
+  <i class="fas fa-medal"></i>
+  <span>{{ slide.highlight }}</span>
+</div>
+<p class="event-slide-desc" v-html="slide.desc"></p>
 <span class="event-slide-btn">
 {{ slide.btnText }} <i class="fas fa-arrow-right"></i>
 </span>
@@ -234,7 +250,7 @@ Proudly serving over 2,500 valued families and business owners across Tamil Nadu
 <div class="hero-actions">
 <a href="/contact" class="btn-primary">
 <i class="fas fa-handshake"></i>
-<span>Get Free Consultation</span>
+<span>Get Consultation</span>
 </a>
 <a href="/calculators/sip-calculator" class="btn-secondary">
 <i class="fas fa-calculator"></i>
@@ -290,12 +306,12 @@ Proudly serving over 2,500 valued families and business owners across Tamil Nadu
 <section class="section" style="padding-top: 20px; padding-bottom: 20px;">
   <div class="founder-spotlight-card">
     <div class="founder-photo-col">
-      <img src="/images/office/founder-mdrt-delegate.jpg" alt="Mr. P.R. Prabhakaran - Founder & Chief Financial Advisor" />
+      <img src="/images/office/founder-mdrt-delegate.jpg" alt="Prabhu @ P.R.Prabhaakaran B.Com,FChFP,AMFI - Founder & Chief Financial Advisor" />
       <span class="founder-badge-overlay"><i class="fas fa-crown"></i> 22+ Yrs Service</span>
     </div>
     <div class="founder-info-col">
       <span class="founder-role">Founder &amp; Chief Financial Advisor</span>
-      <h3>Mr. P.R. Prabhakaran <span style="font-size: 0.95rem; color: #64748b; font-weight: 500;">(Prabhu @ P.R. Prabhaakaran)</span>, <span style="font-size: 1.2rem; color: #2563eb; font-weight: 700;">B.Com., FChFP, AMFI</span></h3>
+      <h3>Prabhu @ P.R.Prabhaakaran <span style="font-size: 1.15rem; color: #2563eb; font-weight: 700;">B.Com,FChFP,AMFI</span></h3>
       <div class="founder-designations">
         <span class="desig-pill"><i class="fas fa-graduation-cap"></i> FChFP Chartered Practitioner</span>
         <span class="desig-pill"><i class="fas fa-certificate"></i> AMFI Certified Mutual Fund Advisor</span>

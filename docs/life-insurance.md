@@ -171,7 +171,7 @@ For business owners, entrepreneurs, and salaried professionals with commercial l
 
 ## 10 Core Pillars of Securing a Plan with MRP Associates
 
-Every policy structured by Chief Advisor Mr. P.R. Prabhakaran adheres to these 10 fiduciary standards:
+Every policy structured by Chief Advisor Prabhu @ P.R.Prabhaakaran B.Com,FChFP,AMFI adheres to these 10 fiduciary standards:
 
 <ul class="benefits-list">
   <li>
@@ -232,13 +232,6 @@ A sound rule of thumb is a **Sum Assured equal to 10 to 15 times your annual gro
 
 <div class="partners-grid-row" style="margin: 24px 0 40px; justify-content: flex-start;">
   <div class="partner-badge-pill"><span class="partner-dot"></span> LIC of India</div>
-  <div class="partner-badge-pill"><span class="partner-dot"></span> HDFC Life</div>
-  <div class="partner-badge-pill"><span class="partner-dot"></span> ICICI Prudential Life</div>
-  <div class="partner-badge-pill"><span class="partner-dot"></span> SBI Life Insurance</div>
-  <div class="partner-badge-pill"><span class="partner-dot"></span> Max Life Insurance</div>
-  <div class="partner-badge-pill"><span class="partner-dot"></span> Tata AIA Life</div>
-  <div class="partner-badge-pill"><span class="partner-dot"></span> Bajaj Allianz Life</div>
-  <div class="partner-badge-pill"><span class="partner-dot"></span> Kotak Life Insurance</div>
 </div>
 
 ## Frequently Asked Questions
@@ -254,17 +247,17 @@ A sound rule of thumb is a **Sum Assured equal to 10 to 15 times your annual gro
   </div>
   <div class="faq-item">
     <h4><i class="fas fa-circle-question" style="color: #2563eb;"></i> Can I purchase multiple life insurance policies?</h4>
-    <p>Yes. Many clients hold a base policy with LIC and an additional high-value term plan with private insurers like HDFC or ICICI Prudential. You must disclose all active covers during underwriting.</p>
+    <p>Yes. Many clients hold multiple LIC policies tailored to different financial milestones like child education, marriage, and retirement. You must disclose all active covers during underwriting.</p>
   </div>
   <div class="faq-item">
     <h4><i class="fas fa-circle-question" style="color: #2563eb;"></i> How does MRP Associates help during an insurance claim?</h4>
-    <p>During an unfortunate event, the nominee contacts us directly. We verify the paperwork, submit claims to the insurance headquarters, track underwriting approval, and ensure rapid direct credit to the nominee's account.</p>
+    <p>During an unfortunate event, we will be having a direct visit to the claimant house, helping them in getting documents like death certificate, police station documents and other documents and getting submitted to the Insurance Headquarters, track underwriting approval, and ensure rapid direct credit to the nominee's account.</p>
   </div>
 </div>
 
 <div class="cta-box">
-  <h3 style="color: #ffffff; margin-top: 0; font-size: 1.5rem;">Get Your Personalized Life Insurance Comparison</h3>
-  <p>Compare premiums and benefits across India's top 8 insurers with zero obligation.</p>
+  <h3 style="color: #ffffff; margin-top: 0; font-size: 1.5rem;">Get Your Personalized Life Insurance Advisory</h3>
+  <p>Consult with our senior advisor to tailor the right coverage for your family with zero obligation.</p>
   <div style="margin-top: 20px; display: flex; gap: 14px; justify-content: center; flex-wrap: wrap;">
     <a href="/contact" class="btn-primary" style="background: #ffffff; color: #1d4ed8 !important;">
       <i class="fas fa-file-invoice"></i> Request Free Quote

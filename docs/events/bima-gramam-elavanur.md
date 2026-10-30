@@ -58,12 +58,12 @@ This historic landmark established the foundational philosophy that drives MRP A
 
 <div class="photo-showcase-card" style="margin-top: 36px;">
   <div class="showcase-media">
-    <img src="/images/events/milestone-terrace-celebration.jpg" alt="MRP Associates Community Service & Leadership Celebration" />
-    <span class="media-badge"><i class="fas fa-hand-holding-heart"></i> People's Service</span>
+    <img src="/images/events/bima-gramam-elavanur-ceremony.jpg" alt="Historic Bima Gramam 2003: Elavanur Drinking Water Initiative Cheque Handover" />
+    <span class="media-badge"><i class="fas fa-hand-holding-heart"></i> 25 Years of People Service</span>
   </div>
   <div class="showcase-body">
-    <h4>Over Two Decades of Public Service Across Karur &amp; Central Tamil Nadu</h4>
-    <p>Mr. PR. Prabhakaran and associates celebrating community trust, grassroots outreach, and client welfare milestones built through 22+ continuous years of service.</p>
+    <h4>25 Years of People Service Across Karur &amp; Central Tamil Nadu</h4>
+    <p>Prabhu @ P.R.Prabhaakaran B.Com,FChFP,AMFI and associates celebrating community trust, grassroots outreach, and client welfare milestones built through 25 years of people service.</p>
     <div class="showcase-meta">
       <span><i class="fas fa-medal text-gold"></i> Bima Gramam Legacy</span>
       <span><i class="fas fa-users text-blue"></i> 2,500+ Rural &amp; Urban Families</span>
@@ -73,7 +73,7 @@ This historic landmark established the foundational philosophy that drives MRP A
 </div>
 
 <div class="cta-box" style="margin-top: 50px;">
-  <h3 style="color: #ffffff; margin-top: 0; font-size: 1.5rem;">Dedicated to People's Service for 22+ Years</h3>
+  <h3 style="color: #ffffff; margin-top: 0; font-size: 1.5rem;">Dedicated to 25 Years of People Service</h3>
   <p>Speak to our certified advisors for tailored family security, agricultural loans, or wealth solutions.</p>
   <div style="margin-top: 20px; display: flex; gap: 14px; justify-content: center; flex-wrap: wrap;">
     <a href="/contact" class="btn-primary" style="background: #ffffff; color: #166534 !important; font-weight: 700;">

@@ -1,6 +1,6 @@
 ---
 title: Health Insurance Plans - MRP Associates
-description: Comprehensive medical coverage, cashless hospitalization in 10,000+ hospitals, critical illness and family floater health plans.
+description: Comprehensive medical coverage, cashless hospitalization in 16,000+ hospitals, critical illness and family floater health plans.
 ---
 
 <div class="page-header">
@@ -34,7 +34,7 @@ With over **22 years of dedicated advisory**, we provide direct bedside and desk
     <span class="metric-lbl">Top Health Insurers</span>
   </div>
   <div class="trust-metric-item">
-    <span class="metric-val">10,000+</span>
+    <span class="metric-val">16,000+</span>
     <span class="metric-lbl">Cashless Hospitals</span>
   </div>
   <div class="trust-metric-item">
@@ -44,9 +44,9 @@ With over **22 years of dedicated advisory**, we provide direct bedside and desk
 </div>
 
 <!-- Authentic Star Health ED Club Award Showcase -->
-<div class="photo-showcase-card">
+<div class="photo-showcase-card" style="margin-top: 24px; margin-bottom: 28px;">
   <div class="showcase-media">
-    <img src="/images/awards/star-health-ed-club-award-2020.jpg" alt="Mr. PR. Prabhakaran receiving Star Health Insurance ED Club Award" />
+    <img src="/images/awards/star-health-ed-club-award-2020.jpg" alt="Star Health Insurance ED Club Award" />
     <span class="media-badge" style="background: rgba(16, 185, 129, 0.9);"><i class="fas fa-crown"></i> ED Club Qualifier</span>
   </div>
   <div class="showcase-body">
@@ -58,6 +58,29 @@ With over **22 years of dedicated advisory**, we provide direct bedside and desk
       <span><i class="fas fa-award text-emerald"></i> Executive Director (ED) Club</span>
       <span><i class="fas fa-coins text-gold"></i> ₹53.76+ Lakhs Premium Mobilized</span>
       <span><i class="fas fa-location-dot text-blue"></i> Branch Office: Karur</span>
+    </div>
+  </div>
+</div>
+
+<!-- Authentic New India Assurance Award Showcase -->
+<div class="photo-showcase-card" style="margin-top: 24px; margin-bottom: 36px;">
+  <div class="showcase-media">
+    <img 
+      src="/images/awards/new-india-assurance-performing-agent-award.jpg" 
+      alt="PERFORMING AGENT AWARD GIVEN BY New India Assurance company"
+      style="object-position: center 10%;" 
+    />
+    <span class="media-badge" style="background: rgba(37, 99, 235, 0.9);"><i class="fas fa-award"></i> Performing Agent Award</span>
+  </div>
+  <div class="showcase-body">
+    <h4>PERFORMING AGENT AWARD GIVEN BY New India Assurance company</h4>
+    <p>
+      Chief Advisor Prabhu @ P.R.Prabhaakaran B.Com,FChFP,AMFI receiving the prestigious <strong>Performing Agent Award</strong> from senior division leadership of <strong>The New India Assurance Co. Ltd.</strong> (Government of India Undertaking) in recognition of peak client advisory excellence and dedicated healthcare claim settlement support.
+    </p>
+    <div class="showcase-meta">
+      <span><i class="fas fa-trophy text-gold"></i> Performing Agent Award</span>
+      <span><i class="fas fa-building text-blue"></i> The New India Assurance Co. Ltd.</span>
+      <span><i class="fas fa-shield-halved text-emerald"></i> Govt. of India Undertaking</span>
     </div>
   </div>
 </div>
@@ -89,6 +112,14 @@ With over **22 years of dedicated advisory**, we provide direct bedside and desk
     <h4>Personal Accident &amp; Disability</h4>
     <p>24x7 worldwide protection covering accidental demise, permanent total disability, and temporary loss of weekly income.</p>
   </div>
+  <div class="insurance-type-card" style="border-left-color: #3b82f6;">
+    <h4>Company Group Health Insurance Policy</h4>
+    <p>Group Insurance policy for employees by employer with minimum of 50 members and maximum of 1,000 employees; provided with day-one coverage of all pre-existing diseases.</p>
+  </div>
+  <div class="insurance-type-card" style="border-left-color: #e11d48;">
+    <h4>Workmen Compensation Policy (Policy for Labourers)</h4>
+    <p>Workmen compensation policy for labourers with court settlement protection, with minimum of 25 and maximum of 1,000 labourers provided in an unnamed manner.</p>
+  </div>
 </div>
 
 ## Key Plan Inclusions &amp; Advantages
@@ -96,11 +127,11 @@ With over **22 years of dedicated advisory**, we provide direct bedside and desk
 <ul class="benefits-list">
   <li>
     <span class="check"><i class="fas fa-check-circle"></i></span>
-    <span><strong>10,000+ Cashless Network Hospitals:</strong> Walk in with your health e-card; the insurer settles medical bills directly.</span>
+    <span><strong>16,000+ Cashless Network Hospitals:</strong> Walk in with your health e-card; the insurer settles medical bills directly.</span>
   </li>
   <li>
     <span class="check"><i class="fas fa-check-circle"></i></span>
-    <span><strong>Pre &amp; Post Hospitalization:</strong> Medical tests, scans, and medicines covered 60 days prior and 180 days after discharge.</span>
+    <span><strong>Pre &amp; Post Hospitalization:</strong> Medical tests, scans, and medicines covered 90 days prior and 180 days after discharge.</span>
   </li>
   <li>
     <span class="check"><i class="fas fa-check-circle"></i></span>
@@ -108,7 +139,7 @@ With over **22 years of dedicated advisory**, we provide direct bedside and desk
   </li>
   <li>
     <span class="check"><i class="fas fa-check-circle"></i></span>
-    <span><strong>Automatic Restoration Benefit:</strong> Recharges 100% of your sum insured if exhausted during the policy year.</span>
+    <span><strong>Automatic Restoration Benefit:</strong> Recharges 500% of your sum insured if exhausted during the policy year.</span>
   </li>
   <li>
     <span class="check"><i class="fas fa-check-circle"></i></span>
@@ -136,7 +167,7 @@ When we review policies for clients, we audit 5 vital criteria:
     <div class="feature-icon" style="color: #10b981;"><i class="fas fa-clock"></i></div>
     <div>
       <h4>Pre-Existing Disease (PED) Waiting Period</h4>
-      <p>Comparing policies with 1 to 2-year waiting periods over traditional 4-year restrictions for diabetes and hypertension.</p>
+      <p>Comparing policies with 1 to 2-year waiting periods over traditional 4-year restrictions for diabetes and hypertension (waiting period shall be reduced to 18 months by paying 3 years premium at a single payment).</p>
     </div>
   </div>
   <div class="feature-item">
@@ -158,13 +189,10 @@ When we review policies for clients, we audit 5 vital criteria:
 ## Health Insurance Partners We Trust
 
 <div class="partners-grid-row" style="margin: 24px 0 40px; justify-content: flex-start;">
-  <div class="partner-badge-pill"><span class="partner-dot"></span> Star Health Insurance</div>
-  <div class="partner-badge-pill"><span class="partner-dot"></span> HDFC Ergo Health</div>
-  <div class="partner-badge-pill"><span class="partner-dot"></span> Care Health Insurance</div>
-  <div class="partner-badge-pill"><span class="partner-dot"></span> Niva Bupa Health</div>
-  <div class="partner-badge-pill"><span class="partner-dot"></span> ICICI Lombard</div>
-  <div class="partner-badge-pill"><span class="partner-dot"></span> Bajaj Allianz Health</div>
-  <div class="partner-badge-pill"><span class="partner-dot"></span> ManipalCigna</div>
+  <div class="partner-badge-pill"><span class="partner-dot"></span> New India Assurance Company Limited</div>
+  <div class="partner-badge-pill"><span class="partner-dot"></span> Galaxy Health Insurance</div>
+  <div class="partner-badge-pill"><span class="partner-dot"></span> Bajaj Allianz</div>
+  <div class="partner-badge-pill"><span class="partner-dot"></span> Aditya Birla Health Insurance Company</div>
 </div>
 
 ## Frequently Asked Questions

@@ -88,7 +88,7 @@ This milestone is a tribute to the unwavering faith of our client families and o
 <p>Experience transparent, certified, and personalized financial planning for your family's future.</p>
 <div style="margin-top: 20px; display: flex; gap: 14px; justify-content: center; flex-wrap: wrap;">
 <a href="/contact" class="btn-primary" style="background: #ffffff; color: #1d4ed8 !important;">
-<i class="fas fa-handshake"></i> Book Free Consultation
+<i class="fas fa-handshake"></i> Book Consultation
 </a>
 <a href="/events/" class="btn-secondary" style="background: rgba(255,255,255,0.15); color: #ffffff !important; border-color: rgba(255,255,255,0.3);">
 <i class="fas fa-arrow-left"></i> Back to All Events

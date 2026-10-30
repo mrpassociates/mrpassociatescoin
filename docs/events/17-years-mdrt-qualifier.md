@@ -78,12 +78,12 @@ Qualifying for MDRT even once is a career defining milestone. Maintaining this q
 <!-- Authentic Convocation & Credential Showcase -->
 <div class="photo-showcase-card">
   <div class="showcase-media">
-    <img src="/images/office/founder-mdrt-delegate.jpg" alt="Mr. P.R. Prabhakaran Official MDRT Delegate" />
+    <img src="/images/office/founder-mdrt-delegate.jpg" alt="Prabhu @ P.R.Prabhaakaran B.Com,FChFP,AMFI Official MDRT Delegate" />
     <span class="media-badge"><i class="fas fa-id-badge"></i> Official Delegate</span>
   </div>
   <div class="showcase-body">
     <h4>Official MDRT Qualifying Member Credentials</h4>
-    <p>Mr. P.R. Prabhakaran (Panduthakaranputhur Prabhakaran) wearing the official Million Dollar Round Table delegate badge. Under the mentorship of Development Officer Mr. M. Karnan at LIC Karur Unit 2, Mr. Prabhakaran qualified as an <strong>Early Bird MDRT-2024 Qualifier on March 31, 2023</strong>, continuing a 17-year streak of international advisory distinction.</p>
+    <p>Prabhu @ P.R.Prabhaakaran B.Com,FChFP,AMFI wearing the official Million Dollar Round Table delegate badge. Under the mentorship of Development Officer Mr. M. Karnan at LIC Karur Unit 2, Mr. Prabhakaran qualified as an <strong>Early Bird MDRT-2024 Qualifier on March 31, 2023</strong>, continuing a 17-year streak of international advisory distinction.</p>
     <div class="showcase-meta">
       <span><i class="fas fa-graduation-cap text-blue"></i> FChFP Chartered Practitioner</span>
       <span><i class="fas fa-globe text-emerald"></i> MDRT Court of the Table Member</span>
@@ -104,7 +104,7 @@ Qualifying for MDRT even once is a career defining milestone. Maintaining this q
   <p>Benefit from 17 years of continuous international MDRT standards tailored right here in Karur, Tamil Nadu.</p>
   <div style="margin-top: 20px; display: flex; gap: 14px; justify-content: center; flex-wrap: wrap;">
     <a href="/contact" class="btn-primary" style="background: #ffffff; color: #166534 !important; font-weight: 700;">
-      <i class="fas fa-calendar-check"></i> Schedule Free Consultation
+      <i class="fas fa-calendar-check"></i> Schedule Consultation
     </a>
     <a href="tel:+919443339889" class="btn-secondary" style="background: rgba(255,255,255,0.15); color: #ffffff !important; border-color: rgba(255,255,255,0.3);">
       <i class="fas fa-phone-alt"></i> Call +91 94433 39889

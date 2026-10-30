@@ -1,11 +1,10 @@
 <script setup>
 import DefaultTheme from 'vitepress/theme'
-import { useRoute, useData } from 'vitepress'
+import { useRoute } from 'vitepress'
 import { ref, onMounted, onUnmounted } from 'vue'
 
 const { Layout } = DefaultTheme
 const route = useRoute()
-const { isDark } = useData()
 const mobileMenuOpen = ref(false)
 const calcDropdownOpen = ref(false)
 const showBackToTop = ref(false)
@@ -25,10 +24,6 @@ const toggleMobileMenu = () => {
   mobileMenuOpen.value = !mobileMenuOpen.value
 }
 
-const toggleDarkMode = () => {
-  isDark.value = !isDark.value
-}
-
 const scrollToTop = () => {
   window.scrollTo({ top: 0, behavior: 'smooth' })
 }
@@ -41,6 +36,9 @@ const handleScroll = () => {
 
 onMounted(() => {
   window.addEventListener('scroll', handleScroll, { passive: true })
+  if (typeof document !== 'undefined') {
+    document.documentElement.classList.remove('dark')
+  }
 })
 
 onUnmounted(() => {
@@ -76,7 +74,7 @@ const socialLinks = [
 </script>
 
 <template>
-  <div class="custom-layout" :class="{ dark: isDark }">
+  <div class="custom-layout">
     <!-- Site Header -->
     <header class="site-header">
       <!-- Top Announcement & Quick Contact Microbar -->
@@ -92,7 +90,7 @@ const socialLinks = [
             </span>
             <span class="topbar-divider topbar-hours-divider">|</span>
             <span class="topbar-info topbar-hours-info">
-              <i class="far fa-clock"></i> Mon - Sat: 9:30 AM - 7:00 PM
+              <i class="far fa-clock"></i> Mon - Fri: 10:00 AM - 7:30 PM | Sat: 10:00 AM - 6:30 PM
             </span>
           </div>
 
@@ -125,26 +123,10 @@ const socialLinks = [
       <div class="header-main">
         <div class="header-container main-nav-content">
           <!-- Logo -->
-          <a href="/" class="site-brand">
-            <div class="brand-crest">
-              <svg viewBox="0 0 36 36" fill="none" class="crest-svg">
-                <path d="M18 2 L31 7 C31 20 25 30 18 34 C11 30 5 20 5 7 Z" fill="url(#crestGrad)" />
-                <path d="M13 22 L13 17 L16 17 L16 22 Z" fill="#ffffff" fill-opacity="0.9" rx="1"/>
-                <path d="M17 22 L17 13 L20 13 L20 22 Z" fill="#ffffff" rx="1"/>
-                <path d="M21 22 L21 9 L24 9 L24 22 Z" fill="#fbbf24" rx="1"/>
-                <path d="M11 15 L17 9 L21 12 L26 6" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-                <defs>
-                  <linearGradient id="crestGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-                    <stop offset="0%" stop-color="#3b82f6"/>
-                    <stop offset="100%" stop-color="#1d4ed8"/>
-                  </linearGradient>
-                </defs>
-              </svg>
-            </div>
-            <div class="brand-text">
-              <span class="brand-title">MRP <span class="brand-accent">Associates</span></span>
-              <span class="brand-tagline">Wealth &amp; Insurance Solutions</span>
-            </div>
+          <a href="/" class="site-brand" title="MRP Associates - Home">
+            <span class="site-logo-wrap">
+              <img src="/logo.png" alt="MRP Associates - Your Trust, Our Commitment" class="site-logo-img" />
+            </span>
           </a>
 
           <!-- Desktop Navigation Menu -->
@@ -211,23 +193,12 @@ const socialLinks = [
             </a>
           </nav>
 
-          <!-- Header Right CTA & Dark Toggle -->
+          <!-- Header Right CTA -->
           <div class="header-right-actions">
-            <!-- Dark Mode Toggle Button -->
-            <button 
-              class="theme-toggle-btn" 
-              @click="toggleDarkMode" 
-              :title="isDark ? 'Switch to Light Mode' : 'Switch to Dark Mode'"
-              aria-label="Toggle Dark Mode"
-            >
-              <i v-if="isDark" class="fas fa-sun toggle-sun"></i>
-              <i v-else class="fas fa-moon toggle-moon"></i>
-            </button>
-
             <!-- Call/Consultation CTA Button -->
             <a href="/contact" class="nav-cta-btn">
               <i class="fas fa-calendar-check"></i>
-              <span>Free Consultation</span>
+              <span>Consultation</span>
             </a>
 
             <!-- Mobile Hamburger Toggle -->
@@ -311,7 +282,7 @@ const socialLinks = [
                 </div>
                 <div class="cta-banner-actions">
                   <a href="/contact" class="footer-btn primary-btn">
-                    <i class="fas fa-handshake"></i> Book Free Consultation
+                    <i class="fas fa-handshake"></i> Book Consultation
                   </a>
                   <a href="tel:+919443339889" class="footer-btn secondary-btn">
                     <i class="fas fa-phone"></i> +91 94433 39889
@@ -326,24 +297,9 @@ const socialLinks = [
                 <!-- Col 1: Brand & Credibility -->
                 <div class="footer-col col-brand">
                   <div class="footer-brand">
-                    <div class="brand-crest mini">
-                      <svg viewBox="0 0 36 36" fill="none" class="crest-svg">
-                        <path d="M18 2 L31 7 C31 20 25 30 18 34 C11 30 5 20 5 7 Z" fill="url(#footerCrestGrad)" />
-                        <path d="M13 22 L13 17 L16 17 L16 22 Z" fill="#ffffff" fill-opacity="0.9" rx="1"/>
-                        <path d="M17 22 L17 13 L20 13 L20 22 Z" fill="#ffffff" rx="1"/>
-                        <path d="M21 22 L21 9 L24 9 L24 22 Z" fill="#fbbf24" rx="1"/>
-                        <defs>
-                          <linearGradient id="footerCrestGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-                            <stop offset="0%" stop-color="#3b82f6"/>
-                            <stop offset="100%" stop-color="#1d4ed8"/>
-                          </linearGradient>
-                        </defs>
-                      </svg>
-                    </div>
-                    <div>
-                      <span class="footer-brand-title">MRP Associates</span>
-                      <span class="footer-brand-sub">Wealth &amp; Insurance Solutions</span>
-                    </div>
+                    <a href="/" class="footer-logo-wrap" title="MRP Associates">
+                      <img src="/logo.png" alt="MRP Associates - Your Trust, Our Commitment" class="footer-logo-img" />
+                    </a>
                   </div>
 
                   <p class="footer-bio">
@@ -399,7 +355,7 @@ const socialLinks = [
                     <i class="fas fa-location-dot contact-ic"></i>
                     <div>
                       <strong>MRP Associates</strong>
-                      <p>No. 4, SR Complex (Near Uzhavar Sandhai / Police Station), Karur - 639 001, Tamil Nadu</p>
+                      <p>No.4 SR Complex, Near to Thinnappa Theatre North Side, Airtel Showroom upstairs, Karur 639001.</p>
                     </div>
                   </div>
                   <div class="footer-contact-item">
@@ -420,7 +376,7 @@ const socialLinks = [
                     <i class="far fa-clock contact-ic"></i>
                     <div>
                       <strong>Office Hours</strong>
-                      <p>Mon - Sat: 9:30 AM - 7:00 PM<br><span class="sunday-note">Sunday: By Appointment</span></p>
+                      <p>Mon - Fri: 10.00 AM to 7.30 PM<br>Saturday: 10.00 AM to 6.30 PM<br><span class="sunday-note">Sunday: By Appointment</span></p>
                     </div>
                   </div>
                 </div>
@@ -628,64 +584,37 @@ const socialLinks = [
 .site-brand {
   display: flex;
   align-items: center;
-  gap: 12px;
   text-decoration: none;
   flex-shrink: 0;
 }
 
-.brand-crest {
-  width: 40px;
-  height: 40px;
-  flex-shrink: 0;
-  filter: drop-shadow(0 4px 8px rgba(37, 99, 235, 0.25));
-  transition: transform 0.3s ease;
+.site-logo-wrap {
+  display: inline-flex;
+  align-items: center;
+  transition: transform 0.25s ease;
 }
 
-.site-brand:hover .brand-crest {
-  transform: scale(1.05);
+.site-brand:hover .site-logo-wrap {
+  transform: scale(1.02);
 }
 
-.crest-svg {
-  width: 100%;
-  height: 100%;
+.site-logo-img {
+  height: 48px;
+  width: auto;
+  max-width: 200px;
+  object-fit: contain;
+  display: block;
 }
 
-.brand-text {
-  display: flex;
-  flex-direction: column;
+.dark .site-logo-wrap {
+  background: rgba(255, 255, 255, 0.96);
+  padding: 4px 12px;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
 }
 
-.brand-title {
-  font-family: 'Plus Jakarta Sans', 'Poppins', sans-serif;
-  font-size: 1.25rem;
-  font-weight: 800;
-  color: #0f172a;
-  line-height: 1.15;
-  letter-spacing: -0.02em;
-}
-
-.dark .brand-title {
-  color: #f8fafc;
-}
-
-.brand-accent {
-  background: linear-gradient(135deg, #2563eb, #4f46e5);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-}
-
-.brand-tagline {
-  font-size: 9.5px;
-  font-weight: 600;
-  color: #64748b;
-  letter-spacing: 0.12em;
-  text-transform: uppercase;
-  margin-top: 1px;
-}
-
-.dark .brand-tagline {
-  color: #94a3b8;
+.dark .site-logo-wrap .site-logo-img {
+  height: 38px;
 }
 
 /* Desktop Nav Items */
@@ -912,37 +841,6 @@ const socialLinks = [
   display: flex;
   align-items: center;
   gap: 12px;
-}
-
-.theme-toggle-btn {
-  width: 38px;
-  height: 38px;
-  border-radius: 50%;
-  border: 1px solid rgba(226, 232, 240, 0.8);
-  background: #f8fafc;
-  cursor: pointer;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  color: #475569;
-  transition: all 0.2s ease;
-}
-
-.dark .theme-toggle-btn {
-  border-color: rgba(255, 255, 255, 0.1);
-  background: #1e293b;
-  color: #f59e0b;
-}
-
-.theme-toggle-btn:hover {
-  background: #f1f5f9;
-  color: #2563eb;
-  transform: rotate(15deg);
-}
-
-.dark .theme-toggle-btn:hover {
-  background: #334155;
-  color: #fbbf24;
 }
 
 .nav-cta-btn {
@@ -1289,31 +1187,31 @@ const socialLinks = [
 .footer-brand {
   display: flex;
   align-items: center;
-  gap: 12px;
-  margin-bottom: 18px;
+  margin-bottom: 20px;
 }
 
-.brand-crest.mini {
-  width: 36px;
-  height: 36px;
+.footer-logo-wrap {
+  display: inline-flex;
+  align-items: center;
+  background: #ffffff;
+  padding: 8px 18px;
+  border-radius: 10px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3);
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+  text-decoration: none;
 }
 
-.footer-brand-title {
+.footer-logo-wrap:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.4);
+}
+
+.footer-logo-img {
+  height: 44px;
+  width: auto;
+  max-width: 220px;
+  object-fit: contain;
   display: block;
-  font-family: 'Plus Jakarta Sans', sans-serif;
-  font-size: 1.3rem;
-  font-weight: 800;
-  color: #ffffff;
-  letter-spacing: -0.02em;
-}
-
-.footer-brand-sub {
-  display: block;
-  font-size: 10px;
-  font-weight: 600;
-  color: #38bdf8;
-  letter-spacing: 0.12em;
-  text-transform: uppercase;
 }
 
 .footer-bio {
@@ -1736,12 +1634,13 @@ const socialLinks = [
     font-size: 26px;
   }
 
-  .brand-title {
-    font-size: 1.1rem;
+  .site-logo-img {
+    height: 38px;
+    max-width: 160px;
   }
 
-  .brand-tagline {
-    display: none;
+  .dark .site-logo-wrap .site-logo-img {
+    height: 32px;
   }
 }
 

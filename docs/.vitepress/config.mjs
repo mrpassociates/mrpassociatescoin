@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+  appearance: false,
   title: 'MRP Associates',
   description: 'Your Trusted Partner for Life Insurance, Health Insurance, Mutual Funds & Loans',
   markdown: {
@@ -15,7 +16,10 @@ export default defineConfig({
   },
   head: [
     ['meta', { name: 'robots', content: 'noindex, nofollow' }],
-    ['link', { rel: 'icon', href: '/favicon.ico' }],
+    ['link', { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
+    ['link', { rel: 'icon', type: 'image/png', sizes: '32x32', href: '/favicon-32x32.png' }],
+    ['link', { rel: 'icon', type: 'image/png', sizes: '16x16', href: '/favicon-16x16.png' }],
+    ['link', { rel: 'apple-touch-icon', sizes: '180x180', href: '/apple-touch-icon.png' }],
     ['link', { rel: 'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css' }],
     ['link', { rel: 'preconnect', href: 'https://fonts.googleapis.com' }],
     ['link', { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: '' }],
@@ -24,7 +28,7 @@ export default defineConfig({
   themeConfig: {
     outline: false,
     aside: false,
-    logo: '/logo.svg',
+    logo: '/logo.png',
     siteTitle: 'MRP Associates',
     nav: [
       { text: 'About Us', link: '/about' },

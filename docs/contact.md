@@ -75,8 +75,8 @@ const sendToWhatsApp = () => {
 <i class="fas fa-location-dot"></i>
 </div>
 <h3>Office Location</h3>
-<p>No. 4, SR Complex (Near Uzhavar Sandhai / Police Station), Karur - 639 001</p>
-<p style="margin-top: 8px; font-size: 12px; color: #64748b;">Mon - Sat: 9:30 AM - 7:00 PM</p>
+<p>No.4 SR Complex, Near to Thinnappa Theatre North Side, Airtel Showroom upstairs, Karur 639001.</p>
+<p style="margin-top: 8px; font-size: 12px; color: #64748b;">Mon - Fri: 10.00 AM to 7.30 PM | Sat: 10.00 AM to 6.30 PM</p>
 </div>
 </div>
 
@@ -84,7 +84,7 @@ const sendToWhatsApp = () => {
 <div style="display: grid; grid-template-columns: 1.1fr 0.9fr; gap: 36px; margin: 40px 0;" class="contact-split-grid">
 <!-- Form Card -->
 <div style="background: #ffffff; padding: 36px; border-radius: 16px; border: 1px solid #e2e8f0; box-shadow: 0 10px 25px -4px rgba(15, 23, 42, 0.08);" class="inquiry-form-card">
-<h3 style="font-size: 1.4rem; font-weight: 800; margin-top: 0; margin-bottom: 8px;">Request a Free Consultation</h3>
+<h3 style="font-size: 1.4rem; font-weight: 800; margin-top: 0; margin-bottom: 8px;">Request a Consultation</h3>
 <p style="font-size: 14px; color: #64748b; margin-bottom: 24px;">Fill in your details below and our financial advisor will reach out to you within 2 business hours.</p>
 
 <div style="display: flex; flex-direction: column; gap: 18px;">
@@ -156,11 +156,11 @@ style="width: 100%; justify-content: center; cursor: pointer; border: none; padd
 <div style="display: flex; flex-direction: column; gap: 10px; font-size: 14px;">
 <div style="display: flex; justify-content: space-between; padding-bottom: 8px; border-bottom: 1px solid #f1f5f9;">
 <span style="color: #64748b;">Monday – Friday:</span>
-<span style="font-weight: 700; color: #1e293b;">9:30 AM – 7:00 PM</span>
+<span style="font-weight: 700; color: #1e293b;">10.00 AM – 7.30 PM</span>
 </div>
 <div style="display: flex; justify-content: space-between; padding-bottom: 8px; border-bottom: 1px solid #f1f5f9;">
 <span style="color: #64748b;">Saturday:</span>
-<span style="font-weight: 700; color: #1e293b;">9:30 AM – 6:00 PM</span>
+<span style="font-weight: 700; color: #1e293b;">10.00 AM – 6.30 PM</span>
 </div>
 <div style="display: flex; justify-content: space-between;">
 <span style="color: #64748b;">Sunday:</span>
@@ -192,11 +192,11 @@ style="width: 100%; justify-content: center; cursor: pointer; border: none; padd
   <div class="showcase-body">
     <h4>Welcome to MRP Associates — 22+ Years in Service of the People</h4>
     <p>
-      Visit our advisory office located at <strong>No. 4, SR Complex (Near Uzhavar Sandhai / Police Station), Karur - 639 001</strong>. Meet Chief Advisor Mr. P.R. Prabhakaran and our dedicated advisory team for comprehensive financial planning, policy servicing, portfolio checkups, loan processing, or emergency claim filing assistance.
+      Visit our advisory office located at <strong>No.4 SR Complex, Near to Thinnappa Theatre North Side, Airtel Showroom upstairs, Karur 639001.</strong> Meet Chief Advisor Prabhu @ P.R.Prabhaakaran B.Com,FChFP,AMFI and our dedicated advisory team for comprehensive financial planning, policy servicing, portfolio checkups, loan processing, or emergency claim filing assistance.
     </p>
     <div class="showcase-meta">
       <span><i class="fas fa-trophy text-gold"></i> 100+ Honors &amp; Awards Wall</span>
-      <span><i class="fas fa-clock text-blue"></i> Mon - Sat: 9:30 AM – 7:00 PM</span>
+      <span><i class="fas fa-clock text-blue"></i> Mon - Fri: 10.00 AM – 7.30 PM | Sat: 10.00 AM – 6.30 PM</span>
       <span><i class="fas fa-phone-alt text-emerald"></i> +91 94433 39889 / 80720 74278</span>
     </div>
   </div>
@@ -214,7 +214,7 @@ style="width: 100%; justify-content: center; cursor: pointer; border: none; padd
     </div>
     <div class="gallery-caption">
       <h5>One-on-One Client Consultation</h5>
-      <p>Personalized portfolio review and retirement planning directly with Chief Advisor Mr. P.R. Prabhakaran.</p>
+      <p>Personalized portfolio review and retirement planning directly with Chief Advisor Prabhu @ P.R.Prabhaakaran B.Com,FChFP,AMFI.</p>
     </div>
   </div>
 
@@ -245,7 +245,7 @@ style="width: 100%; justify-content: center; cursor: pointer; border: none; padd
 <h2 style="font-size: 1.6rem; font-weight: 800; margin-top: 40px; margin-bottom: 16px;">Visit Our Karur Office</h2>
 <div class="map-container">
 <iframe 
-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3917.0430204208255!2d78.07259212605636!3d10.960122989200066!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3baa2faff522d9dd%3A0x10d3ec47d41f39b1!2sBus%20Stand%2C%20Madavilagam%2C%20Karur%2C%20Tamil%20Nadu%20639001!5e0!3m2!1sen!2sin!4v1767182137677!5m2!1sen!2sin" 
+src="https://maps.google.com/maps?q=Airtel+Store,+Near+Thinnappa+Theatre,+Karur+639001&t=&z=17&ie=UTF8&iwloc=&output=embed" 
 width="100%" 
 height="400" 
 style="border:0;" 

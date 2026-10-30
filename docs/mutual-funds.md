@@ -20,7 +20,9 @@ description: Grow multi-generational wealth with AMFI-certified guidance in equi
 - **Nippon India Mutual Fund** • **UTI Mutual Fund** • **Axis Mutual Fund** • **Bandhan Mutual Fund**
 - **Canara Robeco Mutual Fund** • **Aditya Birla Capital MF** • **Mahindra Manulife MF** • **SAMCO Mutual Fund**
 
-For over **22 years**, we have specialized in **Wealth Creations (சொத்து சேர்க்கைக்கான வழிகள்)** and disciplined **Mutual Fund Savings &amp; Schemes Investment (மியூச்சல் பண்ட் சேமிப்பு மற்றும் முதலீடு திட்டங்கள்)**, helping more than 2,500 clients achieve their children's education, wedding, and retirement milestones.
+For more than **25 years**, we have specialized in **Wealth Creations (சொத்து சேர்க்கைக்கான வழிகள்)**, **Emergency Funds Creation**, **Children's Education**, **Wedding**, **Business Expansion and Promotion**, **Family Future Dream Achievement**, and **Retirement Solutions**.
+
+Through disciplined **Mutual Fund Savings &amp; Schemes Investment (மியூச்சல் பண்ட் சேமிப்பு மற்றும் முதலீடு திட்டங்கள்)**, we have helped more than 2,500 clients systematically build and protect generational wealth.
 
 <div class="hero-trust-row" style="margin: 24px 0 36px; border-bottom: 1px solid rgba(226, 232, 240, 0.8); padding-bottom: 20px;">
   <div class="trust-metric-item">
@@ -28,7 +30,7 @@ For over **22 years**, we have specialized in **Wealth Creations (சொத்�
     <span class="metric-lbl">Authorised AMCs</span>
   </div>
   <div class="trust-metric-item">
-    <span class="metric-val">22+</span>
+    <span class="metric-val">25+</span>
     <span class="metric-lbl">Years Market Guidance</span>
   </div>
   <div class="trust-metric-item">

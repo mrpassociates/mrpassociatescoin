@@ -19,6 +19,13 @@ description: Learn more about MRP Associates - 22+ years of dedicated financial 
 
 Guided by our belief that true financial prosperity requires tailored planning for every milestone in life, our advisory portfolio spans **Life Insurance (LIC of India Corporate Club)**, **Specialized Health Insurance**, **Direct Home & Mortgage Loans**, **Agricultural & Business Financing**, **Mutual Fund Wealth Creation (SIPs)**, and **Income Tax Solutions**.
 
+Our dedicated advisory includes:
+- **Life Insurance:** Personalized life insurance advice for individuals to protect the welfare and long-term future of their families.
+- **Health Insurance:** Comprehensive health coverage for families, individuals, **Company Group Health Insurance** (for groups of employees), and specialized medical policies for **labourers**.
+- **Home Loans & Financing:** Home loans for all individuals, alongside **Agricultural Loans**, **Mortgage Loans (LAP)**, **Term Loans**, **Business Loans**, and **Government Subsidy Loans**.
+- **Mutual Funds & Wealth Creation:** Strategic investment services dedicated to achieving life dreams, long-term wealth creation, and dependable **pension provision**.
+- **Income Tax Solutions:** Expert tax planning and tax-saving solutions for individuals and enterprises.
+
 <div class="hero-trust-row" style="margin: 30px 0 40px; border-bottom: 1px solid rgba(226, 232, 240, 0.8); padding-bottom: 24px;">
   <div class="trust-metric-item">
     <span class="metric-val">22+</span>
@@ -41,12 +48,12 @@ Guided by our belief that true financial prosperity requires tailored planning f
 <!-- Founder Spotlight Card -->
 <div class="founder-spotlight-card" style="margin: 35px 0 45px;">
   <div class="founder-photo-col">
-    <img src="/images/office/founder-mdrt-delegate.jpg" alt="Mr. P.R. Prabhakaran - Founder & Chief Financial Advisor" />
+    <img src="/images/office/founder-mdrt-delegate.jpg" alt="Prabhu @ P.R.Prabhaakaran B.Com,FChFP,AMFI - Founder & Chief Financial Advisor" />
     <span class="founder-badge-overlay"><i class="fas fa-crown"></i> 22+ Years in Service</span>
   </div>
   <div class="founder-info-col">
     <span class="founder-role">Founder &amp; Chief Wealth Advisor</span>
-    <h3 style="margin: 6px 0 10px;">Mr. P.R. Prabhakaran <span style="font-size: 1rem; color: #64748b; font-weight: 500;">(Prabhu @ P.R. Prabhaakaran)</span>, <span style="font-size: 1.25rem; color: #2563eb; font-weight: 700;">B.Com., FChFP, AMFI</span></h3>
+    <h3 style="margin: 6px 0 10px;">Prabhu @ P.R.Prabhaakaran <span style="font-size: 1.2rem; color: #2563eb; font-weight: 700;">B.Com,FChFP,AMFI</span></h3>
     <div class="founder-designations">
       <span class="desig-pill"><i class="fas fa-graduation-cap"></i> FChFP Chartered Practitioner</span>
       <span class="desig-pill"><i class="fas fa-certificate"></i> AMFI Certified Mutual Fund Advisor</span>
@@ -199,7 +206,7 @@ In recognition of extraordinary advisory benchmarks, international standards, an
 
   <div class="gallery-item-card">
     <div class="gallery-thumb-wrap" style="height: 260px;">
-      <img src="/images/awards/lic-75-road-ahead-stage-award.jpg" alt="LIC @ 75 The Road Ahead Felicitation" />
+      <img src="/images/awards/lic-75-road-ahead-stage-award.jpg" alt="LIC @ 75 The Road Ahead Felicitation" style="object-position: center top;" />
       <span class="gallery-thumb-tag">LIC @ 75 Felicitation</span>
     </div>
     <div class="gallery-caption">
@@ -210,7 +217,7 @@ In recognition of extraordinary advisory benchmarks, international standards, an
 
   <div class="gallery-item-card">
     <div class="gallery-thumb-wrap" style="height: 260px;">
-      <img src="/images/awards/nop-topper-award.jpg" alt="Number of Policies NOP Topper Trophy" />
+      <img src="/images/awards/nop-topper-award.jpg" alt="Number of Policies NOP Topper Trophy" style="object-position: center 15%;" />
       <span class="gallery-thumb-tag">Branch NOP Topper</span>
     </div>
     <div class="gallery-caption">
@@ -480,7 +487,7 @@ Headquartered centrally in Karur, MRP Associates is driven by an energetic, clie
     <h4>Karur Head Office — Grand Trophy Cabinet &amp; Citations</h4>
     <p>Our office showcases over two decades of peak performance: dozens of division shields, LUGI awards, MDRT medals, and branch topper recognitions earned through transparent fiduciary practice.</p>
     <div class="showcase-meta">
-      <span><i class="fas fa-building text-blue"></i> No. 4, SR Complex, Karur</span>
+      <span><i class="fas fa-building text-blue"></i> No.4 SR Complex (Airtel Upstairs), Karur 639001</span>
       <span><i class="fas fa-users text-gold"></i> Dedicated Operations Team</span>
       <span><i class="fas fa-award text-emerald"></i> 50+ Regional &amp; National Shields</span>
     </div>
@@ -560,7 +567,7 @@ Headquartered centrally in Karur, MRP Associates is driven by an energetic, clie
   <p>Experience personalized, certified advisory backed by 22+ years of trust, MDRT USA distinction, and 2,500+ satisfied clients.</p>
   <div style="margin-top: 24px; display: flex; gap: 14px; justify-content: center; flex-wrap: wrap;">
     <a href="/contact" class="btn-primary" style="background: #ffffff; color: #166534 !important; font-weight: 700;">
-      <i class="fas fa-calendar-check"></i> Book Free Consultation
+      <i class="fas fa-calendar-check"></i> Book Consultation
     </a>
     <a href="tel:+919443339889" class="btn-secondary" style="background: rgba(255,255,255,0.15); color: #ffffff !important; border-color: rgba(255,255,255,0.3);">
       <i class="fas fa-phone-alt"></i> Call +91 94433 39889

@@ -24,7 +24,7 @@ description: Consecutively honored as the Leading Advisor in Thanjavur Division 
 
 ## Decade-Long Division Leadership
 
-Excellence in financial advisory is built on daily commitment to clients in good times and bad. At MRP Associates, our unwavering service to the people has earned continuous top-tier accolades across local branch, division, and all-India platforms:
+Excellence in financial advisory is built on daily commitment to clients in good times and bad. At MRP Associates, our 25 years of people service has earned continuous top-tier accolades across local branch, division, and all-India platforms:
 
 <div class="hero-trust-row" style="margin: 30px 0 40px; border-bottom: 1px solid rgba(226, 232, 240, 0.8); padding-bottom: 24px;">
   <div class="trust-metric-item">
@@ -66,7 +66,7 @@ Excellence in financial advisory is built on daily commitment to clients in good
 <div class="photo-gallery-grid cols-2" style="margin: 36px 0;">
   <div class="gallery-item-card">
     <div class="gallery-thumb-wrap" style="height: 250px;">
-      <img src="/images/awards/nop-topper-award.jpg" alt="NOP Topper Trophy Presentation" />
+      <img src="/images/awards/nop-topper-award.jpg" alt="NOP Topper Trophy Presentation" style="object-position: center 15%;" />
       <span class="gallery-thumb-tag">Branch NOP Topper</span>
     </div>
     <div class="gallery-caption">

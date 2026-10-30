@@ -5,19 +5,38 @@ description: Discover the prestigious accolades, MDRT USA qualifications, LIC Co
 
 <div class="page-header">
 <div class="page-header-badge">
-<i class="fas fa-trophy"></i> Celebrations &amp; Milestones
+<i class="fas fa-award"></i> 25 Years of People Service • Celebrations &amp; Milestones
 </div>
 <h1>Events &amp; Achievements</h1>
-<p>Celebrating over 22 years of people's service, prestigious national and global accolades, division leadership, and transformative community initiatives.</p>
+<p>Celebrating 25 years of people service, prestigious national and global accolades, division leadership, and transformative community initiatives.</p>
 </div>
 
 <div class="content-section">
+
+<div class="hero-trust-row" style="margin: 0 0 40px; border-bottom: 1px solid rgba(226, 232, 240, 0.8); padding-bottom: 24px;">
+  <div class="trust-metric-item">
+    <span class="metric-val">25 Years</span>
+    <span class="metric-lbl">of People Service</span>
+  </div>
+  <div class="trust-metric-item">
+    <span class="metric-val">17+ Years</span>
+    <span class="metric-lbl">MDRT USA Streak</span>
+  </div>
+  <div class="trust-metric-item">
+    <span class="metric-val">Corporate Club</span>
+    <span class="metric-lbl">LIC Pinnacle Honor</span>
+  </div>
+  <div class="trust-metric-item">
+    <span class="metric-val">2,500+</span>
+    <span class="metric-lbl">Protected Families</span>
+  </div>
+</div>
 
 <div class="services-grid" style="grid-template-columns: repeat(2, 1fr); margin-bottom: 50px;">
 
 <!-- Event 1: Corporate Club & COT -->
 <div class="service-card" style="padding: 0; overflow: hidden; border-top: none;">
-<div style="height: 220px; position: relative; background: url('/images/awards/presidents-club-stage-award.jpg') center/cover no-repeat;">
+<div style="height: 220px; position: relative; background: url('/images/awards/presidents-club-stage-award.jpg') center 15%/cover no-repeat;">
 <div style="position: absolute; inset: 0; background: linear-gradient(180deg, rgba(7,13,30,0.2) 0%, rgba(7,13,30,0.85) 100%);"></div>
 <div style="position: absolute; top: 16px; left: 16px; display: flex; gap: 8px;">
 <span class="pill-badge" style="background: rgba(245,158,11,0.9); color: #fff; margin: 0; border: none; font-size: 11px;">👑 Apex Honor</span>
@@ -39,7 +58,7 @@ Read Full Story &amp; Details <i class="fas fa-arrow-right"></i>
 
 <!-- Event 2: 17 Yrs MDRT -->
 <div class="service-card" style="padding: 0; overflow: hidden; border-top: none;">
-<div style="height: 220px; position: relative; background: url('/images/events/mdrt-karur-unit2-felicitation.jpg') center/cover no-repeat;">
+<div style="height: 220px; position: relative; background: url('/images/events/mdrt-karur-unit2-felicitation.jpg') center 10%/cover no-repeat;">
 <div style="position: absolute; inset: 0; background: linear-gradient(180deg, rgba(7,13,30,0.2) 0%, rgba(7,13,30,0.85) 100%);"></div>
 <div style="position: absolute; top: 16px; left: 16px; display: flex; gap: 8px;">
 <span class="pill-badge" style="background: rgba(37,99,235,0.9); color: #fff; margin: 0; border: none; font-size: 11px;">🌍 Global Distinction</span>
@@ -61,7 +80,7 @@ Explore 17-Year Journey <i class="fas fa-arrow-right"></i>
 
 <!-- Event 3: Thanjavur Division & Karur II -->
 <div class="service-card" style="padding: 0; overflow: hidden; border-top: none;">
-<div style="height: 220px; position: relative; background: url('/images/awards/lic-toppers-meet-zonal-manager-2025.jpg') center/cover no-repeat;">
+<div style="height: 220px; position: relative; background: url('/images/awards/lic-toppers-meet-zonal-manager-2025.jpg') center 15%/cover no-repeat;">
 <div style="position: absolute; inset: 0; background: linear-gradient(180deg, rgba(7,13,30,0.2) 0%, rgba(7,13,30,0.85) 100%);"></div>
 <div style="position: absolute; top: 16px; left: 16px; display: flex; gap: 8px;">
 <span class="pill-badge" style="background: rgba(16,185,129,0.9); color: #fff; margin: 0; border: none; font-size: 11px;">🏆 Division Leader</span>
@@ -83,7 +102,7 @@ View Leadership Honors <i class="fas fa-arrow-right"></i>
 
 <!-- Event 4: Star Health ED Club Qualifier -->
 <div class="service-card" style="padding: 0; overflow: hidden; border-top: none;">
-<div style="height: 220px; position: relative; background: url('/images/awards/star-health-ed-club-award-2020.jpg') center/cover no-repeat;">
+<div style="height: 220px; position: relative; background: url('/images/awards/star-health-ed-club-award-2020.jpg') center 15%/cover no-repeat;">
 <div style="position: absolute; inset: 0; background: linear-gradient(180deg, rgba(7,13,30,0.2) 0%, rgba(7,13,30,0.85) 100%);"></div>
 <div style="position: absolute; top: 16px; left: 16px; display: flex; gap: 8px;">
 <span class="pill-badge" style="background: rgba(239,68,68,0.9); color: #fff; margin: 0; border: none; font-size: 11px;">❤️ Health Specialist</span>
@@ -105,7 +124,7 @@ Explore Health Insurance Accolades <i class="fas fa-arrow-right"></i>
 
 <!-- Event 5: Historic Bima Gramam 2003 -->
 <div class="service-card" style="padding: 0; overflow: hidden; border-top: none;">
-<div style="height: 220px; position: relative; background: url('/images/events/milestone-terrace-celebration.jpg') center/cover no-repeat;">
+<div style="height: 220px; position: relative; background: url('/images/events/bima-gramam-elavanur-ceremony.jpg') center 15%/cover no-repeat;">
 <div style="position: absolute; inset: 0; background: linear-gradient(180deg, rgba(7,13,30,0.2) 0%, rgba(7,13,30,0.85) 100%);"></div>
 <div style="position: absolute; top: 16px; left: 16px; display: flex; gap: 8px;">
 <span class="pill-badge" style="background: rgba(2,132,199,0.9); color: #fff; margin: 0; border: none; font-size: 11px;">💧 Social Landmark</span>
@@ -127,7 +146,7 @@ Read Historic Village Story <i class="fas fa-arrow-right"></i>
 
 <!-- Event 6: FChFP Professional Designation Convocation -->
 <div class="service-card" style="padding: 0; overflow: hidden; border-top: none;">
-<div style="height: 220px; position: relative; background: url('/images/awards/fchfp-graduation-convocation.jpg') center/cover no-repeat;">
+<div style="height: 220px; position: relative; background: url('/images/awards/fchfp-graduation-convocation.jpg') center 20%/cover no-repeat;">
 <div style="position: absolute; inset: 0; background: linear-gradient(180deg, rgba(7,13,30,0.2) 0%, rgba(7,13,30,0.85) 100%);"></div>
 <div style="position: absolute; top: 16px; left: 16px; display: flex; gap: 8px;">
 <span class="pill-badge" style="background: rgba(139,92,246,0.9); color: #fff; margin: 0; border: none; font-size: 11px;">🎓 International Fellowship</span>
@@ -156,7 +175,7 @@ View Founder Credentials <i class="fas fa-arrow-right"></i>
 <div class="photo-gallery-grid cols-3" style="margin-bottom: 50px;">
   <div class="gallery-item-card">
     <div class="gallery-thumb-wrap">
-      <img src="/images/events/mdrt-global-india-delegates.jpg" alt="MDRT Global Conference Indian Delegates" />
+      <img src="/images/events/mdrt-global-india-delegates.jpg" alt="MDRT Global Conference Indian Delegates" style="object-position: center 15%;" />
       <span class="gallery-thumb-tag">MDRT Global</span>
     </div>
     <div class="gallery-caption">
@@ -167,7 +186,7 @@ View Founder Credentials <i class="fas fa-arrow-right"></i>
 
   <div class="gallery-item-card">
     <div class="gallery-thumb-wrap">
-      <img src="/images/events/dr-sanjay-tolani-mdrt.jpg" alt="With Dr Sanjay Tolani at MDRT" />
+      <img src="/images/events/dr-sanjay-tolani-mdrt.jpg" alt="With Dr Sanjay Tolani at MDRT" style="object-position: center 10%;" />
       <span class="gallery-thumb-tag">Global Masterclass</span>
     </div>
     <div class="gallery-caption">
@@ -178,7 +197,7 @@ View Founder Credentials <i class="fas fa-arrow-right"></i>
 
   <div class="gallery-item-card">
     <div class="gallery-thumb-wrap">
-      <img src="/images/awards/lugi-21st-annual-convention-award.jpg" alt="LUGI Chennai 21st Convention" />
+      <img src="/images/awards/lugi-21st-annual-convention-award.jpg" alt="LUGI Chennai 21st Convention" style="object-position: center 20%;" />
       <span class="gallery-thumb-tag">LUGI 21st Convention</span>
     </div>
     <div class="gallery-caption">
@@ -189,7 +208,7 @@ View Founder Credentials <i class="fas fa-arrow-right"></i>
 
   <div class="gallery-item-card">
     <div class="gallery-thumb-wrap">
-      <img src="/images/awards/lic-75-road-ahead-stage-award.jpg" alt="LIC 75 The Road Ahead" />
+      <img src="/images/awards/lic-75-road-ahead-stage-award.jpg" alt="LIC 75 The Road Ahead" style="object-position: center top;" />
       <span class="gallery-thumb-tag">LIC @ 75 Honors</span>
     </div>
     <div class="gallery-caption">
@@ -200,7 +219,7 @@ View Founder Credentials <i class="fas fa-arrow-right"></i>
 
   <div class="gallery-item-card">
     <div class="gallery-thumb-wrap">
-      <img src="/images/awards/nop-topper-award.jpg" alt="Branch NOP Topper" />
+      <img src="/images/awards/nop-topper-award.jpg" alt="Branch NOP Topper" style="object-position: center 15%;" />
       <span class="gallery-thumb-tag">NOP Topper</span>
     </div>
     <div class="gallery-caption">
@@ -222,7 +241,7 @@ View Founder Credentials <i class="fas fa-arrow-right"></i>
 
   <div class="gallery-item-card">
     <div class="gallery-thumb-wrap">
-      <img src="/images/awards/fchfp-chartered-practitioner.jpg" alt="FChFP Regalia" />
+      <img src="/images/awards/fchfp-chartered-practitioner.jpg" alt="FChFP Regalia" style="object-position: center 18%;" />
       <span class="gallery-thumb-tag">FChFP Regalia</span>
     </div>
     <div class="gallery-caption">
@@ -233,7 +252,7 @@ View Founder Credentials <i class="fas fa-arrow-right"></i>
 
   <div class="gallery-item-card">
     <div class="gallery-thumb-wrap">
-      <img src="/images/events/lugi-marriott-kochi-convention.jpg" alt="LUGI 14th Annual Convention Kochi Marriott" />
+      <img src="/images/events/lugi-marriott-kochi-convention.jpg" alt="LUGI 14th Annual Convention Kochi Marriott" style="object-position: center 20%;" />
       <span class="gallery-thumb-tag">Nov 2016 • Marriott Kochi</span>
     </div>
     <div class="gallery-caption">
@@ -244,7 +263,7 @@ View Founder Credentials <i class="fas fa-arrow-right"></i>
 
   <div class="gallery-item-card">
     <div class="gallery-thumb-wrap">
-      <img src="/images/events/stimulate-convention-kollam.jpg" alt="13th Annual Convention Kollam" />
+      <img src="/images/events/stimulate-convention-kollam.jpg" alt="13th Annual Convention Kollam" style="object-position: center 8%;" />
       <span class="gallery-thumb-tag">Sep 2015 • Kollam</span>
     </div>
     <div class="gallery-caption">

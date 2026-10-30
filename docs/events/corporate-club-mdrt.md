@@ -67,7 +67,7 @@ Complementing this national honor is the international **Court of the Table (COT
 <div class="photo-gallery-grid cols-2" style="margin: 36px 0;">
   <div class="gallery-item-card">
     <div class="gallery-thumb-wrap" style="height: 250px;">
-      <img src="/images/awards/lic-75-road-ahead-stage-award.jpg" alt="LIC @ 75 The Road Ahead Felicitation" />
+      <img src="/images/awards/lic-75-road-ahead-stage-award.jpg" alt="LIC @ 75 The Road Ahead Felicitation" style="object-position: center top;" />
       <span class="gallery-thumb-tag">LIC @ 75 Milestone</span>
     </div>
     <div class="gallery-caption">

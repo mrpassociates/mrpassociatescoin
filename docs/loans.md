@@ -1,5 +1,5 @@
 ---
-title: Loans & Financing Solutions - MRP Associates
+title: Home Loans & All Bank Loan Solutions - MRP Associates
 description: Low-interest Home Loans, Loans Against Property, Business & MSME Loans, and quick Personal Loans with zero advisory fees.
 ---
 
@@ -7,7 +7,7 @@ description: Low-interest Home Loans, Loans Against Property, Business & MSME Lo
   <div class="page-header-badge">
     <i class="fas fa-landmark"></i> Fast Approval &amp; Low Interest
   </div>
-  <h1>Loans &amp; Mortgage Solutions</h1>
+  <h1>Home Loans &amp; All Bank Loan Solutions</h1>
   <p>Secure the most competitive interest rates from 20+ leading banks and NBFCs with zero advisory charges.</p>
 </div>
 
@@ -27,7 +27,7 @@ description: Low-interest Home Loans, Loans Against Property, Business & MSME Lo
 - **Tata Capital**
 - **HDB Financial Services**
 
-With over **22 years of trust**, Chief Advisor **Mr. P.R. Prabhakaran (Prabhu @ P.R. Prabhaakaran)** and our dedicated loan desk provide end-to-end guidance from document collection to disbursement with zero advisory fees.
+With over **22 years of trust**, Chief Advisor **Prabhu @ P.R.Prabhaakaran B.Com,FChFP,AMFI** and our dedicated loan desk provide end-to-end guidance from document collection to disbursement with zero advisory fees.
 
 <div class="hero-trust-row" style="margin: 24px 0 36px; border-bottom: 1px solid rgba(226, 232, 240, 0.8); padding-bottom: 20px;">
   <div class="trust-metric-item">
@@ -37,10 +37,6 @@ With over **22 years of trust**, Chief Advisor **Mr. P.R. Prabhakaran (Prabhu @ 
   <div class="trust-metric-item">
     <span class="metric-val">7.15%*</span>
     <span class="metric-lbl">Starting ROI (LIC HFL)</span>
-  </div>
-  <div class="trust-metric-item">
-    <span class="metric-val">₹0</span>
-    <span class="metric-lbl">Advisory / Service Fee</span>
   </div>
   <div class="trust-metric-item">
     <span class="metric-val">Fast</span>
@@ -108,6 +104,14 @@ With over **22 years of trust**, Chief Advisor **Mr. P.R. Prabhakaran (Prabhu @ 
     <h4>Commercial &amp; Vehicle Loans</h4>
     <p>Financing for passenger cars, commercial transport vehicles, and fleet expansion with flexible EMI schedules.</p>
   </div>
+  <div class="insurance-type-card" style="border-left-color: #0284c7;">
+    <h4>Vacant Site Purchase Loans</h4>
+    <p>Financing enabled up to 70% of market value, with construction loan additionally given.</p>
+  </div>
+  <div class="insurance-type-card" style="border-left-color: #ea580c;">
+    <h4>Subsidy Loans</h4>
+    <p>For manufacturing sectors, subsidy loans are provided with 25% to 35% subsidy. Government schemes like NEEDS, UYEGP, PMEGP, and PMFME are also serviced.</p>
+  </div>
 </div>
 
 ## Loan Comparison Overview
@@ -141,11 +145,23 @@ With over **22 years of trust**, Chief Advisor **Mr. P.R. Prabhakaran (Prabhu @ 
         <td style="padding: 14px 18px;">1 – 7 Years</td>
         <td style="padding: 14px 18px; font-weight: 700;">₹50 Lakhs (Unsecured)</td>
       </tr>
-      <tr style="background: rgba(248, 250, 252, 0.6);">
+      <tr style="border-bottom: 1px solid #e2e8f0; background: rgba(248, 250, 252, 0.6);">
         <td style="padding: 14px 18px; font-weight: 700; color: #2563eb;">Personal Loan</td>
         <td style="padding: 14px 18px;">10.25% – 16.00%</td>
         <td style="padding: 14px 18px;">1 – 5 Years</td>
         <td style="padding: 14px 18px; font-weight: 700;">₹40 Lakhs</td>
+      </tr>
+      <tr style="border-bottom: 1px solid #e2e8f0;">
+        <td style="padding: 14px 18px; font-weight: 700; color: #2563eb;">Agricultural Loan</td>
+        <td style="padding: 14px 18px;">10.50% – 15.00%</td>
+        <td style="padding: 14px 18px;">1 – 5 Years</td>
+        <td style="padding: 14px 18px; font-weight: 700;">₹2 Crores</td>
+      </tr>
+      <tr style="background: rgba(248, 250, 252, 0.6);">
+        <td style="padding: 14px 18px; font-weight: 700; color: #2563eb;">Plot Purchase Loan</td>
+        <td style="padding: 14px 18px;">8.15% – 13.00%</td>
+        <td style="padding: 14px 18px;">1 – 20 Years</td>
+        <td style="padding: 14px 18px; font-weight: 700;">₹10 Crores</td>
       </tr>
     </tbody>
   </table>
