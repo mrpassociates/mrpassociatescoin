@@ -30,7 +30,7 @@ Qualifying for MDRT even once is a career defining milestone. Maintaining this q
 
 <div class="hero-trust-row" style="margin: 30px 0 40px; border-bottom: 1px solid rgba(226, 232, 240, 0.8); padding-bottom: 24px;">
   <div class="trust-metric-item">
-    <span class="metric-val">17 Yrs</span>
+    <span class="metric-val">20+ Yrs</span>
     <span class="metric-lbl">Continuous MDRT Qualifier</span>
   </div>
   <div class="trust-metric-item">
@@ -78,7 +78,11 @@ Qualifying for MDRT even once is a career defining milestone. Maintaining this q
 <!-- Authentic Convocation & Credential Showcase -->
 <div class="photo-showcase-card">
   <div class="showcase-media">
-    <img src="/images/office/founder-mdrt-delegate.jpg" alt="Prabhu @ P.R.Prabhaakaran B.Com,FChFP,AMFI Official MDRT Delegate" />
+    <img 
+      src="/images/office/founder-mdrt-delegate.jpg" 
+      alt="Prabhu @ P.R.Prabhaakaran B.Com,FChFP,AMFI Official MDRT Delegate" 
+      style="object-position: center 15%;" 
+    />
     <span class="media-badge"><i class="fas fa-id-badge"></i> Official Delegate</span>
   </div>
   <div class="showcase-body">

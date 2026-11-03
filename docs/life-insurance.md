@@ -25,11 +25,11 @@ Backed by **17 consecutive years as an MDRT (USA) Global Qualifier** and **Court
     <span class="metric-lbl">LIC Corporate Club</span>
   </div>
   <div class="trust-metric-item">
-    <span class="metric-val">22+</span>
+    <span class="metric-val">24+</span>
     <span class="metric-lbl">Years LIC Experience</span>
   </div>
   <div class="trust-metric-item">
-    <span class="metric-val">17 Yrs</span>
+    <span class="metric-val">20+ Yrs</span>
     <span class="metric-lbl">MDRT (USA) Qualifier</span>
   </div>
   <div class="trust-metric-item">
@@ -57,9 +57,9 @@ Backed by **17 consecutive years as an MDRT (USA) Global Qualifier** and **Court
   </div>
 </div>
 
-<div class="photo-gallery-grid cols-2" style="margin-top: 24px; margin-bottom: 36px;">
+<div class="photo-gallery-grid cols-2" style="margin-top: 24px; margin-bottom: 36px; align-items: start;">
   <div class="gallery-item-card">
-    <div class="gallery-thumb-wrap">
+    <div class="gallery-thumb-wrap" style="height: auto; aspect-ratio: 817 / 673;">
       <img src="/images/events/mdrt-karur-unit2-felicitation.jpg" alt="1st MDRT Karur Unit 2 LIC Branch Felicitation" />
       <span class="gallery-thumb-tag">Karur Unit 2 Felicitation</span>
     </div>
@@ -70,7 +70,7 @@ Backed by **17 consecutive years as an MDRT (USA) Global Qualifier** and **Court
   </div>
 
   <div class="gallery-item-card">
-    <div class="gallery-thumb-wrap">
+    <div class="gallery-thumb-wrap" style="height: auto; aspect-ratio: 2048 / 914;">
       <img src="/images/office/lic-branch-celebration.jpg" alt="LIC Karur Branch Office Celebration" />
       <span class="gallery-thumb-tag">Branch Leadership</span>
     </div>
@@ -118,7 +118,11 @@ Financial planning is never a one-time transaction; it is an evolving life partn
 
 <div class="photo-showcase-card" style="margin: 30px 0;">
   <div class="showcase-media">
-    <img src="/images/office/ten-minute-policy-review.jpg" alt="10-Minute Policy Review Protocol - MRP Associates" />
+    <img 
+      src="/images/office/ten-minute-policy-review.jpg" 
+      alt="10-Minute Policy Review Protocol - MRP Associates" 
+      style="width: 100%; height: auto; max-height: none; display: block;" 
+    />
     <span class="media-badge"><i class="fas fa-stopwatch"></i> Diagnostic Review</span>
   </div>
   <div class="showcase-body">

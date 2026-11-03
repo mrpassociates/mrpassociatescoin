@@ -1,11 +1,11 @@
 ---
 title: About Us - MRP Associates
-description: Learn more about MRP Associates - 22+ years of dedicated financial planning, MDRT (USA) qualifier, LIC Corporate Club member, and trusted advisor in Karur, Tamil Nadu.
+description: Learn more about MRP Associates - 24+ years of dedicated financial planning, MDRT (USA) qualifier, LIC Corporate Club member, and trusted advisor in Karur, Tamil Nadu.
 ---
 
 <div class="page-header">
   <div class="page-header-badge">
-    <i class="fas fa-award"></i> 22+ Years of Service • Karur, Tamil Nadu
+    <i class="fas fa-award"></i> 24+ Years of Service • Karur, Tamil Nadu
   </div>
   <h1>About MRP Associates</h1>
   <p>Enriching lives with ethical, friendly, and comprehensive financial solutions for over 2,500 families and businesses across Tamil Nadu.</p>
@@ -28,7 +28,7 @@ Our dedicated advisory includes:
 
 <div class="hero-trust-row" style="margin: 30px 0 40px; border-bottom: 1px solid rgba(226, 232, 240, 0.8); padding-bottom: 24px;">
   <div class="trust-metric-item">
-    <span class="metric-val">22+</span>
+    <span class="metric-val">24+</span>
     <span class="metric-lbl">Years in People's Service</span>
   </div>
   <div class="trust-metric-item">
@@ -36,7 +36,7 @@ Our dedicated advisory includes:
     <span class="metric-lbl">Active Clients Served</span>
   </div>
   <div class="trust-metric-item">
-    <span class="metric-val">17 Yrs</span>
+    <span class="metric-val">20+ Yrs</span>
     <span class="metric-lbl">MDRT (USA) Global Qualifier</span>
   </div>
   <div class="trust-metric-item">
@@ -49,7 +49,7 @@ Our dedicated advisory includes:
 <div class="founder-spotlight-card" style="margin: 35px 0 45px;">
   <div class="founder-photo-col">
     <img src="/images/office/founder-mdrt-delegate.jpg" alt="Prabhu @ P.R.Prabhaakaran B.Com,FChFP,AMFI - Founder & Chief Financial Advisor" />
-    <span class="founder-badge-overlay"><i class="fas fa-crown"></i> 22+ Years in Service</span>
+    <span class="founder-badge-overlay"><i class="fas fa-crown"></i> 24+ Years in Service</span>
   </div>
   <div class="founder-info-col">
     <span class="founder-role">Founder &amp; Chief Wealth Advisor</span>
@@ -57,7 +57,7 @@ Our dedicated advisory includes:
     <div class="founder-designations">
       <span class="desig-pill"><i class="fas fa-graduation-cap"></i> FChFP Chartered Practitioner</span>
       <span class="desig-pill"><i class="fas fa-certificate"></i> AMFI Certified Mutual Fund Advisor</span>
-      <span class="desig-pill"><i class="fas fa-globe"></i> 17-Yr MDRT (USA) Qualifier</span>
+      <span class="desig-pill"><i class="fas fa-globe"></i> 20+ - Yr MDRT (USA) Qualifier</span>
       <span class="desig-pill"><i class="fas fa-table-cells"></i> 3-Yr MDRT Court of the Table (COT)</span>
       <span class="desig-pill"><i class="fas fa-crown"></i> LIC Corporate Club Member</span>
       <span class="desig-pill"><i class="fas fa-star"></i> Galaxy Club Member (Since 2019)</span>
@@ -564,7 +564,7 @@ Headquartered centrally in Karur, MRP Associates is driven by an energetic, clie
 
 <div class="cta-box" style="margin-top: 50px;">
   <h3 style="color: #ffffff; margin-top: 0; font-size: 1.6rem;">Connect with Karur's Premier Financial Advisory</h3>
-  <p>Experience personalized, certified advisory backed by 22+ years of trust, MDRT USA distinction, and 2,500+ satisfied clients.</p>
+  <p>Experience personalized, certified advisory backed by 24+ years of trust, MDRT USA distinction, and 2,500+ satisfied clients.</p>
   <div style="margin-top: 24px; display: flex; gap: 14px; justify-content: center; flex-wrap: wrap;">
     <a href="/contact" class="btn-primary" style="background: #ffffff; color: #166534 !important; font-weight: 700;">
       <i class="fas fa-calendar-check"></i> Book Consultation

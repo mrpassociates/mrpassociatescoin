@@ -240,7 +240,7 @@ tabindex="0"
 </div>
 
 <h1>
-Empowering Your Financial Future with <span class="gradient-text">22+ Years of Trusted</span> Service
+Empowering Your Financial Future with <span class="gradient-text">24+ Years of Trusted</span> Service
 </h1>
 
 <p class="hero-subtitle">
@@ -265,7 +265,7 @@ Proudly serving over 2,500 valued families and business owners across Tamil Nadu
 <!-- Trust Indicators Bar -->
 <div class="hero-trust-row">
 <div class="trust-metric-item">
-<span class="metric-val">22+</span>
+<span class="metric-val">24+</span>
 <span class="metric-lbl">Years in People's Service</span>
 </div>
 <div class="trust-metric-item">
@@ -273,7 +273,7 @@ Proudly serving over 2,500 valued families and business owners across Tamil Nadu
 <span class="metric-lbl">Active Clients Served</span>
 </div>
 <div class="trust-metric-item">
-<span class="metric-val">17 Yrs</span>
+<span class="metric-val">20+ Yrs</span>
 <span class="metric-lbl">MDRT (USA) Qualifier</span>
 </div>
 <div class="trust-metric-item">
@@ -307,7 +307,7 @@ Proudly serving over 2,500 valued families and business owners across Tamil Nadu
   <div class="founder-spotlight-card">
     <div class="founder-photo-col">
       <img src="/images/office/founder-mdrt-delegate.jpg" alt="Prabhu @ P.R.Prabhaakaran B.Com,FChFP,AMFI - Founder & Chief Financial Advisor" />
-      <span class="founder-badge-overlay"><i class="fas fa-crown"></i> 22+ Yrs Service</span>
+      <span class="founder-badge-overlay"><i class="fas fa-crown"></i> 24+ Yrs Service</span>
     </div>
     <div class="founder-info-col">
       <span class="founder-role">Founder &amp; Chief Financial Advisor</span>
@@ -315,7 +315,7 @@ Proudly serving over 2,500 valued families and business owners across Tamil Nadu
       <div class="founder-designations">
         <span class="desig-pill"><i class="fas fa-graduation-cap"></i> FChFP Chartered Practitioner</span>
         <span class="desig-pill"><i class="fas fa-certificate"></i> AMFI Certified Mutual Fund Advisor</span>
-        <span class="desig-pill"><i class="fas fa-globe"></i> 17-Yr MDRT (USA) Qualifier</span>
+        <span class="desig-pill"><i class="fas fa-globe"></i> 20+ - Yr MDRT (USA) Qualifier</span>
         <span class="desig-pill"><i class="fas fa-table-cells"></i> 3-Yr MDRT COT</span>
         <span class="desig-pill"><i class="fas fa-crown"></i> LIC Corporate Club</span>
         <span class="desig-pill"><i class="fas fa-star"></i> Galaxy Club Member</span>
@@ -599,13 +599,13 @@ Corporate Club Member &amp; Galaxy Club Agency. Over 22 years of continuous poli
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
 </div>
 <p class="testimonial-quote">
-"MRP Associates helped me choose the perfect combination of LIC life cover and Star Health insurance for my family. When my father was hospitalized in Karur, their cashless claim support was immediate and stress-free. Truly dependable partners."
+"MRP Associates helped us in buying life insurance policy to me, health insurance policy to my family, home loans to my dream homes, mutual funds to build my financial position. Trustable and friendly services are enabled. We feel very happy to travel with MRP Associates."
 </p>
 <div class="client-info-row">
-<div class="client-avatar-monogram">RG</div>
+<div class="client-avatar-monogram">KS</div>
 <div class="client-details">
-<h4>Rajesh Ganapathi</h4>
-<span>Textile Business Owner, Karur</span>
+<h4>Kathirvel Sankarappan</h4>
+<span>Textile Owner, Karur &amp; Tirupur</span>
 </div>
 </div>
 </div>
@@ -615,13 +615,13 @@ Corporate Club Member &amp; Galaxy Club Agency. Over 22 years of continuous poli
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
 </div>
 <p class="testimonial-quote">
-"I have been investing in mutual funds through MRP Associates for over 10 years now. Their disciplined SIP guidance, annual rebalancing, and MDRT USA quality advice have built an exceptional education corpus for my children."
+"I have been given right guidance in all financial products serviced by MRP Associates. I feel happy to travel with MRP Associates."
 </p>
 <div class="client-info-row">
-<div class="client-avatar-monogram">PR</div>
+<div class="client-avatar-monogram">PP</div>
 <div class="client-details">
-<h4>Priya Ramachandran</h4>
-<span>Senior Software Engineer, Bengaluru</span>
+<h4>P.D. Periyasamy</h4>
+<span>Textile Owner, Karur</span>
 </div>
 </div>
 </div>
@@ -631,13 +631,29 @@ Corporate Club Member &amp; Galaxy Club Agency. Over 22 years of continuous poli
 <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
 </div>
 <p class="testimonial-quote">
-"When securing our commercial property and agricultural machinery loans, MRP Associates negotiated with leading banks and obtained sanctions that saved our firm lakhs in interest. Extremely transparent and professional documentation."
+"Building dream houses are dreams to the people of India. Our dreams are solved by MRP Associates by right loan guidance. Hats off to their services."
 </p>
 <div class="client-info-row">
-<div class="client-avatar-monogram">RS</div>
+<div class="client-avatar-monogram">RB</div>
 <div class="client-details">
-<h4>Dr. Ram Sundar</h4>
-<span>Clinic Director &amp; Landowner, Salem</span>
+<h4>R. Balashubramanian</h4>
+<span>Consulting Civil Engineer, Karur</span>
+</div>
+</div>
+</div>
+
+<div class="testimonial-card">
+<div class="stars-row">
+<i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+</div>
+<p class="testimonial-quote">
+"MRP Associates — CEO Mr. P.R. Prabhaakaran is a person who will be a well-wisher to us and our family, helping us in giving financial guidance and helping us in our future financial structure building. Trusted service provider."
+</p>
+<div class="client-info-row">
+<div class="client-avatar-monogram">SM</div>
+<div class="client-details">
+<h4>Dr. S. Manokaran</h4>
+<span>Kidney Specialist, Karur</span>
 </div>
 </div>
 </div>

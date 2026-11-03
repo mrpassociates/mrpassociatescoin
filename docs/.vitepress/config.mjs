@@ -44,10 +44,6 @@ export default defineConfig({
       { icon: 'twitter', link: 'https://twitter.com' },
       { icon: 'linkedin', link: 'https://linkedin.com' },
       { icon: 'instagram', link: 'https://instagram.com' }
-    ],
-    footer: {
-      message: 'Your trusted partner for all financial services',
-      copyright: `© ${new Date().getFullYear()} MRP Associates. All rights reserved.`
-    }
+    ]
   }
 })

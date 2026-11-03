@@ -167,7 +167,7 @@ When we review policies for clients, we audit 5 vital criteria:
     <div class="feature-icon" style="color: #10b981;"><i class="fas fa-clock"></i></div>
     <div>
       <h4>Pre-Existing Disease (PED) Waiting Period</h4>
-      <p>Comparing policies with 1 to 2-year waiting periods over traditional 4-year restrictions for diabetes and hypertension (waiting period shall be reduced to 18 months by paying 3 years premium at a single payment).</p>
+      <p>Comparing policies with 1 to 2-year waiting periods over traditional 3-year restrictions for diabetes and hypertension (waiting period shall be reduced to 18 months by paying 3 years premium at a single payment).</p>
     </div>
   </div>
   <div class="feature-item">

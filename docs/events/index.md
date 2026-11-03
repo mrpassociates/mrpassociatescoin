@@ -56,7 +56,7 @@ Read Full Story &amp; Details <i class="fas fa-arrow-right"></i>
 </div>
 </div>
 
-<!-- Event 2: 17 Yrs MDRT -->
+<!-- Event 2: 20+ Yrs MDRT -->
 <div class="service-card" style="padding: 0; overflow: hidden; border-top: none;">
 <div style="height: 220px; position: relative; background: url('/images/events/mdrt-karur-unit2-felicitation.jpg') center 10%/cover no-repeat;">
 <div style="position: absolute; inset: 0; background: linear-gradient(180deg, rgba(7,13,30,0.2) 0%, rgba(7,13,30,0.85) 100%);"></div>

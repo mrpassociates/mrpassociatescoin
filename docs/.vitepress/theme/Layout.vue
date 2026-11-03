@@ -308,7 +308,7 @@ const socialLinks = [
 
                   <div class="footer-cert-tags">
                     <span class="cert-tag"><i class="fas fa-crown"></i> LIC Corporate Club</span>
-                    <span class="cert-tag"><i class="fas fa-globe"></i> MDRT (USA) 17 Yrs</span>
+                    <span class="cert-tag"><i class="fas fa-globe"></i> MDRT (USA) 20+ Yrs</span>
                     <span class="cert-tag"><i class="fas fa-medal"></i> MDRT COT (3 Yrs)</span>
                     <span class="cert-tag"><i class="fas fa-check-circle"></i> IRDA &amp; AMFI Certified</span>
                   </div>
