@@ -28,7 +28,7 @@ Founded in 1927 in the United States, the **Million Dollar Round Table (MDRT)** 
 
 Qualifying for MDRT even once is a career defining milestone. Maintaining this qualification **consecutively for 17 years — from 2007 to the present day** (*Insurance முகவர்களுக்கான MDRT (USA) Qualifier விருது 2007 முதல் நடப்பு வரை 17 வருடங்களாக பெற்று வருகிறோம்*) — establishes MRP Associates among an elite circle of financial advisors worldwide.
 
-<div class="hero-trust-row" style="margin: 30px 0 40px; border-bottom: 1px solid rgba(226, 232, 240, 0.8); padding-bottom: 24px;">
+<div class="hero-trust-row" style="margin: 30px auto 40px; border-bottom: 1px solid rgba(226, 232, 240, 0.8); padding-bottom: 24px;">
   <div class="trust-metric-item">
     <span class="metric-val">20+ Yrs</span>
     <span class="metric-lbl">Continuous MDRT Qualifier</span>

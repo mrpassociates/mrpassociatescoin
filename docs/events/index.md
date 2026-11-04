@@ -13,7 +13,7 @@ description: Discover the prestigious accolades, MDRT USA qualifications, LIC Co
 
 <div class="content-section">
 
-<div class="hero-trust-row" style="margin: 0 0 40px; border-bottom: 1px solid rgba(226, 232, 240, 0.8); padding-bottom: 24px;">
+<div class="hero-trust-row" style="margin: 0 auto 40px; border-bottom: 1px solid rgba(226, 232, 240, 0.8); padding-bottom: 24px;">
   <div class="trust-metric-item">
     <span class="metric-val">25 Years</span>
     <span class="metric-lbl">of People Service</span>

@@ -60,7 +60,7 @@ During the acceptance address, our Founder and Chief Wealth Advisor shared:
 
 ## Milestone Statistics Recognized
 
-<div class="hero-trust-row" style="margin: 30px 0 40px; padding-bottom: 24px; border-bottom: 1px solid rgba(226, 232, 240, 0.8);">
+<div class="hero-trust-row" style="margin: 30px auto 40px; padding-bottom: 24px; border-bottom: 1px solid rgba(226, 232, 240, 0.8);">
 <div class="trust-metric-item">
 <span class="metric-val">15+</span>
 <span class="metric-lbl">Years of Excellence</span>

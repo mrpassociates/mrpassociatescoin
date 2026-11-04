@@ -30,7 +30,7 @@ In 2003, rural Tamil Nadu was gripped by severe climatic drought. Groundwater le
 
 Recognizing that life insurance could be a catalyst for community survival, MRP Associates launched an intensive grassroots campaign in Elavanur. By educating households and securing **100 life insurance policies**, Elavanur qualified for LIC of India’s prestigious **Bima Gramam** (Insurance Village) scheme.
 
-<div class="hero-trust-row" style="margin: 30px 0 40px; border-bottom: 1px solid rgba(226, 232, 240, 0.8); padding-bottom: 24px;">
+<div class="hero-trust-row" style="margin: 30px auto 40px; border-bottom: 1px solid rgba(226, 232, 240, 0.8); padding-bottom: 24px;">
   <div class="trust-metric-item">
     <span class="metric-val">2003</span>
     <span class="metric-lbl">Milestone Year</span>

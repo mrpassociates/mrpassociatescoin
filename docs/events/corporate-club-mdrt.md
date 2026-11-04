@@ -28,7 +28,7 @@ In the world of life insurance and wealth advisory, achieving the **Corporate Cl
 
 Complementing this national honor is the international **Court of the Table (COT)** qualification by the **Million Dollar Round Table (MDRT, USA)** — achieved by producing **three times (3x)** the already stringent international MDRT qualifying benchmark in a single year, maintained continuously for **three consecutive years**.
 
-<div class="hero-trust-row" style="margin: 30px 0 40px; border-bottom: 1px solid rgba(226, 232, 240, 0.8); padding-bottom: 24px;">
+<div class="hero-trust-row" style="margin: 30px auto 40px; border-bottom: 1px solid rgba(226, 232, 240, 0.8); padding-bottom: 24px;">
   <div class="trust-metric-item">
     <span class="metric-val">Apex</span>
     <span class="metric-lbl">LIC Corporate Club</span>

@@ -26,7 +26,7 @@ description: Consecutively honored as the Leading Advisor in Thanjavur Division 
 
 Excellence in financial advisory is built on daily commitment to clients in good times and bad. At MRP Associates, our 25 years of people service has earned continuous top-tier accolades across local branch, division, and all-India platforms:
 
-<div class="hero-trust-row" style="margin: 30px 0 40px; border-bottom: 1px solid rgba(226, 232, 240, 0.8); padding-bottom: 24px;">
+<div class="hero-trust-row" style="margin: 30px auto 40px; border-bottom: 1px solid rgba(226, 232, 240, 0.8); padding-bottom: 24px;">
   <div class="trust-metric-item">
     <span class="metric-val">2020+</span>
     <span class="metric-lbl">Thanjavur Division Top Advisor</span>
